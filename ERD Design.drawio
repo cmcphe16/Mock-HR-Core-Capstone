@@ -1,0 +1,104 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="HR ERD" id="npfMECGoqDa3Nvx1Jhmd">
+    <mxGraphModel dx="1660" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-1" value="&lt;b&gt;DimEmployee&lt;/b&gt;&lt;br&gt;PK employee_ID&lt;br&gt;first_name&lt;br&gt;last_name&lt;br&gt;gender&lt;br&gt;ethnicity&lt;br&gt;birth_date&lt;br&gt;hire_date&lt;br&gt;termination_date&lt;br&gt;job_title&lt;br&gt;department_ID&lt;br&gt;manager_ID (FK)&lt;br&gt;sensitivity_ID (FK)" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-2" value="&lt;b&gt;FactPerformance&lt;/b&gt;&lt;br&gt;PK performance_ID&lt;br&gt;FK employee_ID&lt;br&gt;FK manager_ID&lt;br&gt;FK review_date_ID&lt;br&gt;overall_score" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="470" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-3" value="&lt;b&gt;FactRequest&lt;/b&gt;&lt;br&gt;PK request_ID&lt;br&gt;FK employee_ID&lt;br&gt;FK request_date_ID&lt;br&gt;request_type_ID&lt;br&gt;status_ID&lt;br&gt;days_requested" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-10" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-5" value="&lt;b&gt;DimDate&lt;/b&gt;&lt;br&gt;PK date_ID&lt;br&gt;full_date&lt;br&gt;day, month, year&lt;br&gt;quarter, fiscal" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="330" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-6" value="&lt;b&gt;DimUser&lt;/b&gt;&lt;br&gt;PK user_ID&lt;br&gt;username&lt;br&gt;email&lt;br&gt;display_name&lt;br&gt;is_active" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-7" value="&lt;b&gt;DimSensitivity&lt;/b&gt;&lt;br&gt;PK sensitivity_ID&lt;br&gt;label&lt;br&gt;description" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="460" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-8" value="&lt;b&gt;BridgeUserDepartment&lt;/b&gt;&lt;br&gt;PK user_ID (FK)&lt;br&gt;PK org_unit_ID (FK)&lt;br&gt;name" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="600" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-9" value="&lt;b&gt;DimOrgHierarchy&lt;/b&gt;&lt;br&gt;PK org_unit_ID&lt;br&gt;org_unit_name&lt;br&gt;parent_org_unit (FK)" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="830" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-10" value="employee_ID → employee_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-2" target="BVMC_A-E5RUeQoOiDY7a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-11" value="manager_ID → employee_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-2" target="BVMC_A-E5RUeQoOiDY7a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-12" value="review_date_ID → date_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-2" target="BVMC_A-E5RUeQoOiDY7a-5">
+          <mxGeometry x="-0.5" y="-50" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-13" value="employee_ID → employee_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-3" target="BVMC_A-E5RUeQoOiDY7a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-14" value="request_date_ID → date_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-3" target="BVMC_A-E5RUeQoOiDY7a-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-15" value="employee_ID → employee_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-4" target="BVMC_A-E5RUeQoOiDY7a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-16" value="manager_ID → employee_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-4" target="BVMC_A-E5RUeQoOiDY7a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-17" value="date_ID → date_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-4" target="BVMC_A-E5RUeQoOiDY7a-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-18" value="department_ID → org_unit_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-4" target="BVMC_A-E5RUeQoOiDY7a-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-19" value="sensitivity_ID → sensitivity_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-1" target="BVMC_A-E5RUeQoOiDY7a-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-20" value="user_ID → user_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-8" target="BVMC_A-E5RUeQoOiDY7a-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="740" />
+              <mxPoint x="550" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-21" value="org_unit_ID → org_unit_ID" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-8" target="BVMC_A-E5RUeQoOiDY7a-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-22" value="manager_ID → employee_ID (self)" style="edgeStyle=loopEdge;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;loopDirection=west;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-1" target="BVMC_A-E5RUeQoOiDY7a-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-23" value="parent_org_unit → org_unit_ID (self)" style="edgeStyle=loopEdge;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;loopDirection=west;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-9" target="BVMC_A-E5RUeQoOiDY7a-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=ERmany;endArrow=ERone;startFill=1;endFill=1;strokeColor=#1f77b4;" edge="1" parent="1" source="BVMC_A-E5RUeQoOiDY7a-1" target="BVMC_A-E5RUeQoOiDY7a-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="170" as="sourcePoint" />
+            <mxPoint x="490" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVMC_A-E5RUeQoOiDY7a-4" value="&lt;b&gt;FactAttendance&lt;/b&gt;&lt;br&gt;PK attendance_ID&lt;br&gt;FK employee_ID&lt;br&gt;FK manager_ID&lt;br&gt;FK date_ID" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=12;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="260" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

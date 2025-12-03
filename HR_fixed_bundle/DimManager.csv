@@ -1,0 +1,60 @@
+manager_id,manager_name,manager_department
+1000,Mgr 1,Product
+1001,Mgr 2,Security
+1002,Mgr 3,Data Analytics
+1003,Mgr 4,Sales
+1004,Mgr 5,Customer Success
+1005,Mgr 6,Sales
+1006,Mgr 7,Sales
+1007,Mgr 8,Operations
+1008,Mgr 9,IT Support
+1009,Mgr 10,Supply Chain
+1010,Mgr 11,Security
+1011,Mgr 12,Finance
+1012,Mgr 13,Facilities
+1013,Mgr 14,Engineering
+1014,Mgr 15,Operations
+1015,Mgr 16,Marketing
+1016,Mgr 17,Data Analytics
+1017,Mgr 18,IT Support
+1018,Mgr 19,Customer Success
+1019,Mgr 20,HR
+1020,Mgr 21,Product
+1021,Mgr 22,Supply Chain
+1022,Mgr 23,Customer Success
+1023,Mgr 24,Operations
+1024,Mgr 25,Data Analytics
+1025,Mgr 26,HR
+1026,Mgr 27,Supply Chain
+1027,Mgr 28,Product
+1028,Mgr 29,Sales
+1029,Mgr 30,Marketing
+1030,Mgr 31,Customer Success
+1031,Mgr 32,Sales
+1032,Mgr 33,Operations
+1033,Mgr 34,Facilities
+1034,Mgr 35,Facilities
+1035,Mgr 36,Finance
+1036,Mgr 37,Customer Success
+1037,Mgr 38,IT Support
+1038,Mgr 39,Data Analytics
+1039,Mgr 40,Facilities
+1040,Mgr 41,Operations
+1041,Mgr 42,Marketing
+1042,Mgr 43,Facilities
+1043,Mgr 44,HR
+1044,Mgr 45,Operations
+1045,Mgr 46,Legal
+1046,Mgr 47,Supply Chain
+1047,Mgr 48,Facilities
+1048,Mgr 49,Sales
+1049,Mgr 50,Facilities
+1050,Mgr 51,Engineering
+1051,Mgr 52,HR
+1052,Mgr 53,Marketing
+1053,Mgr 54,Legal
+1054,Mgr 55,Data Analytics
+1055,Mgr 56,Customer Success
+1056,Mgr 57,Operations
+1057,Mgr 58,Sales
+1058,Mgr 59,Operations

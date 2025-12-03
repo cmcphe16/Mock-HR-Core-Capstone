@@ -1,0 +1,1001 @@
+employee_id,name,job_title,department,office_location,hire_date,salary_band,birth_month,gender,education_level,remote_eligibility,preferred_work_mode,department_key,tenure_years,ethnicity
+1,Emp 001,Coordinator,Product,NYC,2025-03-02,3,1,Male,Bachelor's,1,Hybrid,110,0.55,White
+2,Emp 002,Coordinator,Customer Success,Austin,2022-01-03,6,8,Male,Bachelor's,0,Remote,100,3.71,Two or More Races
+3,Emp 003,Analyst,HR,Atlanta,2021-07-10,9,11,Female,Bachelor's,0,Remote,105,4.19,Black or African American
+4,Emp 004,Coordinator,Engineering,Atlanta,2022-08-01,5,5,Male,Bachelor's,1,Onsite,102,3.13,Native American/Alaska Native
+5,Emp 005,HRBP,Facilities,Chicago,2020-04-09,4,9,Male,High School,1,Hybrid,103,5.45,Prefer not to say
+6,Emp 006,Coordinator,Finance,Chicago,2020-04-10,2,6,Male,Bachelor's,0,Remote,104,5.44,Hispanic or Latino
+7,Emp 007,Sr Engineer,Facilities,Remote,2022-10-28,6,9,Male,Master's,1,Remote,103,2.89,Native Hawaiian/Other Pacific Islander
+8,Emp 008,Coordinator,Data Analytics,Remote,2024-09-17,3,3,Male,Associate,0,Hybrid,101,1.0,Asian
+9,Emp 009,Coordinator,Facilities,Chicago,2024-06-01,6,3,Male,Bachelor's,1,Remote,103,1.3,White
+10,Emp 010,Recruiter,Customer Success,Austin,2021-01-05,10,4,Male,Bachelor's,1,Hybrid,100,4.7,Two or More Races
+11,Emp 011,Sr Engineer,Legal,Chicago,2022-03-27,2,5,Non-binary,Bachelor's,0,Remote,107,3.48,Black or African American
+12,Emp 012,Sr Engineer,Customer Success,Austin,2023-04-08,6,7,Male,PhD,0,Remote,100,2.45,Native American/Alaska Native
+13,Emp 013,HRBP,Supply Chain,Austin,2024-09-30,8,12,Male,Bachelor's,0,Hybrid,113,0.97,Prefer not to say
+14,Emp 014,Sr Engineer,Finance,Seattle,2022-01-02,6,8,Female,Master's,0,Remote,104,3.71,Hispanic or Latino
+15,Emp 015,HRBP,Security,Austin,2023-04-11,10,8,Female,Master's,0,Onsite,112,2.44,Native Hawaiian/Other Pacific Islander
+16,Emp 016,Sr Engineer,Sales,Atlanta,2021-09-23,2,3,Male,PhD,1,Remote,111,3.99,Asian
+17,Emp 017,Sr Engineer,Security,NYC,2023-12-21,5,11,Male,Bachelor's,0,Remote,112,1.75,White
+18,Emp 018,Coordinator,Engineering,Austin,2021-05-28,9,12,Female,Bachelor's,0,Remote,102,4.31,Two or More Races
+19,Emp 019,Coordinator,Facilities,Seattle,2025-01-21,3,3,Non-binary,Bachelor's,1,Remote,103,0.66,Black or African American
+20,Emp 020,Sr Engineer,Product,Austin,2020-12-12,5,9,Male,High School,1,Hybrid,110,4.77,Native American/Alaska Native
+21,Emp 021,Analyst,Engineering,Atlanta,2020-08-22,4,5,Female,Bachelor's,0,Onsite,102,5.08,Prefer not to say
+22,Emp 022,HRBP,Product,Atlanta,2020-12-10,7,7,Male,Associate,0,Hybrid,110,4.77,Hispanic or Latino
+23,Emp 023,Manager,Legal,Austin,2024-11-15,4,3,Male,Bachelor's,0,Hybrid,107,0.84,Native Hawaiian/Other Pacific Islander
+24,Emp 024,Sr Analyst,Data Analytics,Chicago,2025-03-22,10,4,Female,Master's,1,Onsite,101,0.5,Asian
+25,Emp 025,Recruiter,Operations,Seattle,2023-08-16,5,5,Female,Bachelor's,0,Hybrid,109,2.09,White
+26,Emp 026,Engineer,Security,Atlanta,2022-07-17,4,1,Male,Bachelor's,1,Remote,112,3.18,Two or More Races
+27,Emp 027,Engineer,Security,Atlanta,2023-07-15,1,4,Female,PhD,1,Hybrid,112,2.18,Black or African American
+28,Emp 028,Sr Engineer,Marketing,Austin,2022-11-20,10,5,Female,Master's,0,Onsite,108,2.83,Native American/Alaska Native
+29,Emp 029,Manager,Engineering,Seattle,2022-01-25,3,4,Male,High School,1,Remote,102,3.65,Prefer not to say
+30,Emp 030,Analyst,Product,Chicago,2021-04-27,8,11,Male,Master's,0,Onsite,110,4.4,Hispanic or Latino
+31,Emp 031,Sr Analyst,Legal,NYC,2023-09-16,4,8,Female,Master's,1,Remote,107,2.01,Native Hawaiian/Other Pacific Islander
+32,Emp 032,Recruiter,Facilities,Remote,2023-05-22,10,7,Male,Bachelor's,0,Onsite,103,2.33,Asian
+33,Emp 033,HRBP,Data Analytics,Remote,2023-05-08,6,1,Female,Associate,1,Hybrid,101,2.37,White
+34,Emp 034,Engineer,IT Support,Austin,2023-10-27,9,10,Female,Bachelor's,1,Remote,106,1.9,Two or More Races
+35,Emp 035,Manager,Product,Remote,2025-03-07,3,10,Male,Master's,0,Hybrid,110,0.54,Black or African American
+36,Emp 036,Sr Engineer,Sales,Remote,2021-01-15,4,7,Female,Bachelor's,1,Remote,111,4.68,Native American/Alaska Native
+37,Emp 037,Engineer,Legal,Austin,2025-06-14,10,4,Female,Bachelor's,1,Remote,107,0.27,Prefer not to say
+38,Emp 038,Analyst,IT Support,Remote,2021-12-03,5,9,Non-binary,High School,1,Hybrid,106,3.79,Hispanic or Latino
+39,Emp 039,Analyst,Sales,Chicago,2021-01-27,6,6,Female,Master's,1,Hybrid,111,4.64,Native Hawaiian/Other Pacific Islander
+40,Emp 040,Sr Engineer,Marketing,NYC,2023-09-24,1,1,Female,Master's,1,Remote,108,1.99,Asian
+41,Emp 041,Sr Analyst,Product,NYC,2025-02-01,5,8,Male,Bachelor's,1,Remote,110,0.63,White
+42,Emp 042,Sr Engineer,Data Analytics,NYC,2023-09-21,10,3,Male,Bachelor's,0,Hybrid,101,2.0,Two or More Races
+43,Emp 043,Manager,Sales,Austin,2023-06-02,3,3,Male,Bachelor's,1,Onsite,111,2.3,Black or African American
+44,Emp 044,Coordinator,Customer Success,Chicago,2024-01-04,9,12,Female,Master's,0,Remote,100,1.71,Native American/Alaska Native
+45,Emp 045,Analyst,Operations,Atlanta,2024-10-07,9,2,Female,Bachelor's,1,Hybrid,109,0.95,Prefer not to say
+46,Emp 046,Recruiter,Marketing,Austin,2023-11-21,4,1,Female,Bachelor's,0,Hybrid,108,1.83,Hispanic or Latino
+47,Emp 047,Recruiter,Facilities,Austin,2022-10-17,6,4,Male,Bachelor's,0,Remote,103,2.92,Native Hawaiian/Other Pacific Islander
+48,Emp 048,Analyst,Supply Chain,NYC,2020-02-25,9,12,Non-binary,Master's,1,Hybrid,113,5.57,Asian
+49,Emp 049,Analyst,Sales,Seattle,2022-01-25,2,9,Female,Bachelor's,1,Hybrid,111,3.65,White
+50,Emp 050,Analyst,Product,Remote,2023-04-11,9,1,Female,Associate,1,Remote,110,2.44,Two or More Races
+51,Emp 051,Sr Engineer,Supply Chain,Chicago,2024-07-23,5,3,Male,PhD,1,Remote,113,1.16,Black or African American
+52,Emp 052,Sr Analyst,Supply Chain,Chicago,2020-07-25,6,8,Female,Bachelor's,1,Hybrid,113,5.15,Native American/Alaska Native
+53,Emp 053,HRBP,Marketing,Atlanta,2022-07-24,3,10,Male,Bachelor's,0,Hybrid,108,3.16,Prefer not to say
+54,Emp 054,Engineer,Finance,Chicago,2022-05-18,4,8,Female,Bachelor's,1,Remote,104,3.34,Hispanic or Latino
+55,Emp 055,Coordinator,Engineering,Austin,2020-04-14,9,4,Female,Bachelor's,1,Hybrid,102,5.43,Native Hawaiian/Other Pacific Islander
+56,Emp 056,HRBP,Legal,NYC,2021-10-30,4,2,Male,Bachelor's,1,Onsite,107,3.89,Asian
+57,Emp 057,Engineer,Operations,Seattle,2020-02-15,4,5,Female,Bachelor's,1,Hybrid,109,5.59,White
+58,Emp 058,Recruiter,Data Analytics,Austin,2022-01-23,1,3,Female,Bachelor's,0,Remote,101,3.66,Two or More Races
+59,Emp 059,Engineer,Legal,Remote,2024-02-22,9,7,Male,High School,0,Hybrid,107,1.57,Black or African American
+60,Emp 060,Sr Engineer,Sales,Atlanta,2020-09-20,6,6,Non-binary,Master's,0,Hybrid,111,5.0,Native American/Alaska Native
+61,Emp 061,Recruiter,Operations,Atlanta,2023-05-20,8,8,Male,Bachelor's,0,Onsite,109,2.34,Prefer not to say
+62,Emp 062,Analyst,Data Analytics,Austin,2022-10-27,4,6,Female,Master's,0,Hybrid,101,2.9,Hispanic or Latino
+63,Emp 063,Manager,Facilities,NYC,2024-02-06,9,3,Male,Master's,0,Hybrid,103,1.62,Native Hawaiian/Other Pacific Islander
+64,Emp 064,Engineer,Facilities,NYC,2025-03-17,7,2,Female,Master's,0,Hybrid,103,0.51,Asian
+65,Emp 065,Manager,Marketing,Atlanta,2025-01-05,10,3,Female,Associate,1,Remote,108,0.7,White
+66,Emp 066,Manager,Legal,Seattle,2023-03-30,10,9,Male,Master's,0,Hybrid,107,2.48,Two or More Races
+67,Emp 067,Analyst,Product,Remote,2024-02-25,6,1,Female,Master's,1,Remote,110,1.57,Black or African American
+68,Emp 068,Recruiter,Marketing,Remote,2021-05-06,4,5,Female,High School,1,Hybrid,108,4.37,Native American/Alaska Native
+69,Emp 069,Coordinator,Facilities,Atlanta,2022-05-25,6,5,Female,Bachelor's,1,Hybrid,103,3.32,Prefer not to say
+70,Emp 070,Recruiter,Legal,Remote,2025-04-15,8,12,Female,Associate,1,Remote,107,0.43,Hispanic or Latino
+71,Emp 071,Analyst,Data Analytics,Austin,2024-10-07,5,2,Female,Bachelor's,0,Remote,101,0.95,Native Hawaiian/Other Pacific Islander
+72,Emp 072,Coordinator,Finance,Remote,2024-05-30,6,1,Male,Bachelor's,1,Remote,104,1.31,Asian
+73,Emp 073,Analyst,Marketing,Atlanta,2023-01-16,3,3,Male,Bachelor's,0,Onsite,108,2.67,White
+74,Emp 074,Sr Engineer,Sales,Chicago,2021-08-19,1,6,Female,Master's,0,Hybrid,111,4.08,Two or More Races
+75,Emp 075,Sr Engineer,Operations,Atlanta,2024-08-12,2,7,Female,Master's,1,Hybrid,109,1.1,Black or African American
+76,Emp 076,Sr Engineer,Finance,Seattle,2022-05-31,2,3,Female,High School,1,Remote,104,3.3,Native American/Alaska Native
+77,Emp 077,Coordinator,Legal,Remote,2022-02-21,4,3,Male,Bachelor's,0,Hybrid,107,3.58,Prefer not to say
+78,Emp 078,Sr Analyst,Engineering,Seattle,2020-12-29,6,9,Non-binary,High School,0,Onsite,102,4.72,Hispanic or Latino
+79,Emp 079,Sr Analyst,Product,Chicago,2021-06-30,7,4,Female,High School,1,Remote,110,4.22,Native Hawaiian/Other Pacific Islander
+80,Emp 080,HRBP,IT Support,NYC,2020-02-14,10,7,Male,Bachelor's,1,Hybrid,106,5.6,Asian
+81,Emp 081,Sr Engineer,Product,Atlanta,2024-11-06,6,4,Non-binary,Bachelor's,1,Hybrid,110,0.87,White
+82,Emp 082,Analyst,Data Analytics,Chicago,2022-02-11,1,4,Male,Bachelor's,1,Hybrid,101,3.6,Two or More Races
+83,Emp 083,HRBP,Customer Success,Chicago,2022-07-03,10,12,Female,Associate,1,Remote,100,3.21,Black or African American
+84,Emp 084,Analyst,Sales,Austin,2023-03-15,8,8,Male,Associate,1,Remote,111,2.52,Native American/Alaska Native
+85,Emp 085,Engineer,Marketing,Remote,2020-09-11,6,2,Male,Master's,0,Remote,108,5.02,Prefer not to say
+86,Emp 086,Sr Analyst,Engineering,NYC,2024-06-08,9,10,Female,Bachelor's,0,Hybrid,102,1.28,Hispanic or Latino
+87,Emp 087,Sr Engineer,Supply Chain,NYC,2022-06-30,6,6,Male,Bachelor's,0,Hybrid,113,3.22,Native Hawaiian/Other Pacific Islander
+88,Emp 088,Manager,Sales,Austin,2024-08-02,10,8,Female,Master's,0,Hybrid,111,1.13,Asian
+89,Emp 089,Coordinator,Product,Atlanta,2020-10-12,3,9,Female,Bachelor's,1,Hybrid,110,4.94,White
+90,Emp 090,Coordinator,Customer Success,Seattle,2024-12-26,1,12,Male,Bachelor's,0,Remote,100,0.73,Two or More Races
+91,Emp 091,Coordinator,Engineering,Atlanta,2023-08-18,8,3,Non-binary,High School,1,Hybrid,102,2.09,Black or African American
+92,Emp 092,Sr Engineer,Legal,Seattle,2022-06-01,7,5,Female,Master's,1,Remote,107,3.3,Native American/Alaska Native
+93,Emp 093,Manager,Facilities,Austin,2024-05-07,3,3,Female,Bachelor's,1,Hybrid,103,1.37,Prefer not to say
+94,Emp 094,Engineer,Sales,Chicago,2022-03-28,1,8,Female,Bachelor's,1,Onsite,111,3.48,Hispanic or Latino
+95,Emp 095,Sr Engineer,Finance,Remote,2021-12-02,10,2,Female,Associate,0,Hybrid,104,3.8,Native Hawaiian/Other Pacific Islander
+96,Emp 096,Manager,Operations,Chicago,2024-03-08,2,9,Male,Bachelor's,0,Remote,109,1.53,Asian
+97,Emp 097,Sr Analyst,Data Analytics,Chicago,2024-12-13,8,12,Male,Bachelor's,0,Onsite,101,0.77,White
+98,Emp 098,Recruiter,Supply Chain,NYC,2023-06-17,8,1,Male,Bachelor's,0,Remote,113,2.26,Two or More Races
+99,Emp 099,HRBP,HR,Seattle,2022-11-22,6,4,Female,Bachelor's,1,Remote,105,2.83,Black or African American
+100,Emp 100,HRBP,Facilities,Chicago,2021-01-11,4,9,Female,Master's,1,Hybrid,103,4.69,Native American/Alaska Native
+101,Emp 101,Sr Engineer,Finance,Seattle,2025-01-27,9,10,Female,Bachelor's,1,Remote,104,0.64,Prefer not to say
+102,Emp 102,HRBP,Finance,Austin,2025-05-29,3,2,Female,PhD,1,Hybrid,104,0.31,Hispanic or Latino
+103,Emp 103,Sr Analyst,Sales,Remote,2025-03-22,7,9,Female,Bachelor's,1,Hybrid,111,0.5,Native Hawaiian/Other Pacific Islander
+104,Emp 104,Sr Analyst,IT Support,Austin,2024-12-18,5,11,Male,Bachelor's,1,Hybrid,106,0.75,Asian
+105,Emp 105,Sr Analyst,Sales,Atlanta,2023-05-10,10,7,Male,Master's,0,Onsite,111,2.36,White
+106,Emp 106,Manager,Legal,Seattle,2020-08-14,7,9,Female,High School,0,Onsite,107,5.1,Two or More Races
+107,Emp 107,Coordinator,Facilities,Atlanta,2021-09-17,5,6,Female,Bachelor's,1,Hybrid,103,4.01,Black or African American
+108,Emp 108,Manager,Finance,NYC,2025-04-07,8,8,Female,Bachelor's,0,Remote,104,0.45,Native American/Alaska Native
+109,Emp 109,Sr Engineer,Sales,Seattle,2021-07-14,9,1,Male,Master's,0,Hybrid,111,4.18,Prefer not to say
+110,Emp 110,HRBP,Data Analytics,Atlanta,2024-10-22,7,7,Female,Bachelor's,1,Onsite,101,0.91,Hispanic or Latino
+111,Emp 111,Coordinator,Legal,NYC,2020-02-18,1,2,Prefer not to say,Bachelor's,1,Remote,107,5.59,Native Hawaiian/Other Pacific Islander
+112,Emp 112,Coordinator,Legal,NYC,2020-12-25,9,10,Male,Bachelor's,1,Remote,107,4.73,Asian
+113,Emp 113,Analyst,Data Analytics,Seattle,2020-11-02,10,2,Male,Master's,0,Onsite,101,4.88,White
+114,Emp 114,Sr Engineer,Legal,Austin,2021-07-25,8,12,Female,Bachelor's,0,Remote,107,4.15,Two or More Races
+115,Emp 115,Sr Engineer,Operations,NYC,2021-08-12,9,4,Male,Bachelor's,1,Hybrid,109,4.1,Black or African American
+116,Emp 116,Engineer,Finance,Chicago,2020-06-17,9,8,Male,Master's,1,Hybrid,104,5.26,Native American/Alaska Native
+117,Emp 117,Engineer,Data Analytics,Austin,2021-03-03,3,11,Female,Master's,0,Remote,101,4.55,Prefer not to say
+118,Emp 118,HRBP,Sales,Remote,2021-12-12,5,3,Non-binary,Master's,1,Hybrid,111,3.77,Hispanic or Latino
+119,Emp 119,Manager,Facilities,Remote,2024-12-04,10,2,Female,Bachelor's,0,Remote,103,0.79,Native Hawaiian/Other Pacific Islander
+120,Emp 120,HRBP,Facilities,Remote,2024-12-15,1,6,Female,High School,1,Remote,103,0.76,Asian
+121,Emp 121,Engineer,Supply Chain,Chicago,2024-11-17,2,5,Male,Bachelor's,1,Onsite,113,0.84,White
+122,Emp 122,Coordinator,Supply Chain,Seattle,2024-02-06,4,11,Non-binary,Bachelor's,1,Hybrid,113,1.62,Two or More Races
+123,Emp 123,Engineer,IT Support,Chicago,2021-01-17,7,2,Male,Bachelor's,1,Remote,106,4.67,Black or African American
+124,Emp 124,Sr Analyst,Marketing,Austin,2022-03-11,7,2,Female,Master's,1,Hybrid,108,3.53,Native American/Alaska Native
+125,Emp 125,Analyst,IT Support,NYC,2024-09-10,5,1,Male,Bachelor's,1,Hybrid,106,1.02,Prefer not to say
+126,Emp 126,Recruiter,Product,Austin,2022-04-11,2,8,Female,PhD,0,Hybrid,110,3.44,Hispanic or Latino
+127,Emp 127,Manager,HR,Seattle,2023-06-21,9,6,Male,Bachelor's,0,Remote,105,2.25,Native Hawaiian/Other Pacific Islander
+128,Emp 128,Coordinator,Finance,Austin,2020-08-13,2,11,Female,Bachelor's,1,Onsite,104,5.1,Asian
+129,Emp 129,Analyst,Legal,Remote,2022-08-22,10,9,Female,Associate,1,Remote,107,3.08,White
+130,Emp 130,Sr Analyst,Facilities,Atlanta,2021-11-13,5,3,Female,PhD,1,Remote,103,3.85,Two or More Races
+131,Emp 131,Coordinator,Finance,NYC,2020-12-01,4,2,Male,Bachelor's,1,Remote,104,4.8,Black or African American
+132,Emp 132,HRBP,Data Analytics,Seattle,2025-04-08,8,10,Female,High School,1,Remote,101,0.45,Native American/Alaska Native
+133,Emp 133,HRBP,Data Analytics,Chicago,2021-06-01,7,2,Non-binary,High School,1,Remote,101,4.3,Prefer not to say
+134,Emp 134,Sr Analyst,IT Support,Atlanta,2025-05-10,8,8,Male,High School,1,Hybrid,106,0.36,Hispanic or Latino
+135,Emp 135,Engineer,Customer Success,Remote,2025-01-23,4,6,Female,Bachelor's,0,Hybrid,100,0.65,Native Hawaiian/Other Pacific Islander
+136,Emp 136,Analyst,Customer Success,Seattle,2020-11-30,4,6,Female,Bachelor's,0,Remote,100,4.8,Asian
+137,Emp 137,Engineer,Data Analytics,Seattle,2020-11-16,2,5,Non-binary,Bachelor's,0,Hybrid,101,4.84,White
+138,Emp 138,Sr Engineer,Legal,Austin,2023-08-25,1,12,Female,Bachelor's,1,Hybrid,107,2.07,Two or More Races
+139,Emp 139,Coordinator,Product,NYC,2021-10-23,1,2,Female,Bachelor's,1,Remote,110,3.91,Black or African American
+140,Emp 140,Recruiter,Finance,Seattle,2022-09-14,2,3,Male,High School,1,Remote,104,3.01,Native American/Alaska Native
+141,Emp 141,Sr Engineer,IT Support,Austin,2020-01-01,6,7,Male,Bachelor's,1,Hybrid,106,5.72,Prefer not to say
+142,Emp 142,Manager,Legal,Chicago,2022-04-07,7,11,Male,Bachelor's,0,Remote,107,3.45,Hispanic or Latino
+143,Emp 143,Engineer,IT Support,Atlanta,2021-01-12,9,10,Prefer not to say,Master's,0,Hybrid,106,4.68,Native Hawaiian/Other Pacific Islander
+144,Emp 144,Coordinator,Product,Chicago,2025-02-14,5,7,Male,Bachelor's,0,Onsite,110,0.59,Asian
+145,Emp 145,Coordinator,Finance,Remote,2023-07-21,1,9,Female,Bachelor's,1,Onsite,104,2.17,White
+146,Emp 146,Manager,Marketing,Seattle,2020-08-29,4,3,Prefer not to say,Master's,0,Hybrid,108,5.06,Two or More Races
+147,Emp 147,Analyst,Customer Success,Atlanta,2020-08-06,10,12,Female,Bachelor's,1,Remote,100,5.12,Black or African American
+148,Emp 148,Sr Engineer,Security,NYC,2023-02-04,9,10,Female,Bachelor's,1,Hybrid,112,2.62,Native American/Alaska Native
+149,Emp 149,Sr Analyst,Customer Success,Atlanta,2021-07-29,7,6,Female,High School,1,Hybrid,100,4.14,Prefer not to say
+150,Emp 150,Sr Analyst,Finance,NYC,2024-12-15,5,8,Female,Master's,1,Remote,104,0.76,Hispanic or Latino
+151,Emp 151,Sr Analyst,IT Support,Remote,2025-03-10,6,5,Female,Bachelor's,0,Onsite,106,0.53,Native Hawaiian/Other Pacific Islander
+152,Emp 152,Recruiter,Supply Chain,Seattle,2020-05-31,5,10,Non-binary,Associate,1,Hybrid,113,5.3,Asian
+153,Emp 153,Manager,Supply Chain,Seattle,2022-09-18,7,2,Male,High School,1,Hybrid,113,3.0,White
+154,Emp 154,HRBP,Marketing,Seattle,2020-01-17,3,7,Non-binary,Bachelor's,0,Hybrid,108,5.67,Two or More Races
+155,Emp 155,Sr Analyst,Operations,Seattle,2023-08-07,10,2,Female,High School,1,Hybrid,109,2.12,Black or African American
+156,Emp 156,Sr Analyst,Marketing,Austin,2024-06-11,3,9,Female,Bachelor's,1,Remote,108,1.27,Native American/Alaska Native
+157,Emp 157,Recruiter,Security,NYC,2020-02-25,1,5,Male,Bachelor's,0,Remote,112,5.57,Prefer not to say
+158,Emp 158,Coordinator,IT Support,Seattle,2023-05-28,3,3,Male,Bachelor's,1,Remote,106,2.31,Hispanic or Latino
+159,Emp 159,Coordinator,Marketing,Chicago,2024-08-03,3,11,Female,Bachelor's,0,Remote,108,1.13,Native Hawaiian/Other Pacific Islander
+160,Emp 160,Manager,Marketing,NYC,2021-07-03,5,12,Female,Bachelor's,1,Hybrid,108,4.21,Asian
+161,Emp 161,Manager,Supply Chain,Remote,2024-08-21,6,9,Male,PhD,0,Hybrid,113,1.08,White
+162,Emp 162,HRBP,Sales,Seattle,2021-01-07,5,11,Female,High School,0,Remote,111,4.7,Two or More Races
+163,Emp 163,Recruiter,Sales,Austin,2025-03-24,9,7,Male,Bachelor's,1,Onsite,111,0.49,Black or African American
+164,Emp 164,HRBP,Supply Chain,Atlanta,2021-06-26,3,5,Female,Master's,0,Hybrid,113,4.23,Native American/Alaska Native
+165,Emp 165,Analyst,Legal,Seattle,2020-10-12,9,1,Female,Associate,1,Hybrid,107,4.94,Prefer not to say
+166,Emp 166,Analyst,Data Analytics,Atlanta,2021-09-28,5,8,Male,Associate,1,Remote,101,3.98,Hispanic or Latino
+167,Emp 167,Manager,Engineering,Chicago,2020-02-09,10,4,Non-binary,Master's,1,Remote,102,5.61,Native Hawaiian/Other Pacific Islander
+168,Emp 168,Sr Analyst,HR,NYC,2024-03-14,3,6,Male,Bachelor's,1,Remote,105,1.52,Asian
+169,Emp 169,HRBP,Product,Atlanta,2021-06-24,7,8,Female,Bachelor's,0,Hybrid,110,4.24,White
+170,Emp 170,Sr Engineer,HR,Chicago,2020-05-21,7,10,Female,Bachelor's,0,Remote,105,5.33,Two or More Races
+171,Emp 171,Manager,Supply Chain,Seattle,2020-09-12,4,3,Male,Bachelor's,1,Remote,113,5.02,Black or African American
+172,Emp 172,Engineer,Data Analytics,Chicago,2025-02-01,3,5,Non-binary,High School,1,Remote,101,0.63,Native American/Alaska Native
+173,Emp 173,Sr Engineer,Data Analytics,NYC,2021-05-15,2,11,Male,Associate,1,Onsite,101,4.35,Prefer not to say
+174,Emp 174,HRBP,Customer Success,Chicago,2024-01-02,10,10,Female,Bachelor's,0,Hybrid,100,1.71,Hispanic or Latino
+175,Emp 175,Recruiter,Customer Success,Austin,2023-01-10,5,8,Male,Master's,1,Hybrid,100,2.69,Native Hawaiian/Other Pacific Islander
+176,Emp 176,Manager,Facilities,Austin,2023-12-09,3,1,Female,High School,0,Remote,103,1.78,Asian
+177,Emp 177,Manager,HR,Austin,2020-02-05,5,5,Male,Master's,1,Hybrid,105,5.62,White
+178,Emp 178,Recruiter,Customer Success,Chicago,2023-11-08,4,1,Male,Associate,1,Hybrid,100,1.86,Two or More Races
+179,Emp 179,Manager,Finance,Seattle,2022-02-18,1,7,Male,High School,1,Remote,104,3.58,Black or African American
+180,Emp 180,Manager,Customer Success,Austin,2023-12-07,9,8,Female,Master's,1,Remote,100,1.79,Native American/Alaska Native
+181,Emp 181,Analyst,Facilities,Austin,2024-04-07,3,11,Non-binary,PhD,1,Hybrid,103,1.45,Prefer not to say
+182,Emp 182,Engineer,Sales,Remote,2023-03-09,10,9,Female,Master's,1,Remote,111,2.53,Hispanic or Latino
+183,Emp 183,Analyst,IT Support,Remote,2024-05-28,7,6,Male,Master's,1,Remote,106,1.31,Native Hawaiian/Other Pacific Islander
+184,Emp 184,Sr Analyst,Legal,Austin,2024-04-21,3,6,Male,Master's,1,Remote,107,1.41,Asian
+185,Emp 185,Sr Analyst,Engineering,Atlanta,2023-01-31,5,8,Female,Master's,0,Remote,102,2.63,White
+186,Emp 186,Manager,Data Analytics,Chicago,2025-04-05,2,1,Female,Master's,1,Hybrid,101,0.46,Two or More Races
+187,Emp 187,Engineer,IT Support,NYC,2023-09-27,2,4,Male,Bachelor's,0,Remote,106,1.98,Black or African American
+188,Emp 188,Manager,HR,Seattle,2021-03-06,1,3,Female,Bachelor's,1,Hybrid,105,4.54,Native American/Alaska Native
+189,Emp 189,HRBP,Marketing,Remote,2024-09-07,6,11,Male,PhD,1,Remote,108,1.03,Prefer not to say
+190,Emp 190,Recruiter,Supply Chain,Austin,2022-11-03,6,10,Female,High School,1,Onsite,113,2.88,Hispanic or Latino
+191,Emp 191,Recruiter,Sales,Austin,2023-06-26,2,1,Male,Master's,1,Remote,111,2.23,Native Hawaiian/Other Pacific Islander
+192,Emp 192,Sr Analyst,Engineering,NYC,2024-03-10,3,11,Female,Bachelor's,1,Remote,102,1.53,Asian
+193,Emp 193,Coordinator,Customer Success,Atlanta,2024-10-13,8,4,Male,High School,1,Hybrid,100,0.93,White
+194,Emp 194,HRBP,Customer Success,Seattle,2025-02-08,3,6,Male,Bachelor's,1,Remote,100,0.61,Two or More Races
+195,Emp 195,Recruiter,Product,Austin,2024-12-19,4,8,Male,Associate,1,Hybrid,110,0.75,Black or African American
+196,Emp 196,Engineer,Data Analytics,Remote,2021-05-30,6,12,Male,Bachelor's,1,Onsite,101,4.31,Native American/Alaska Native
+197,Emp 197,Analyst,Data Analytics,Remote,2022-08-04,9,10,Male,Associate,1,Remote,101,3.13,Prefer not to say
+198,Emp 198,Sr Engineer,Finance,Austin,2020-12-09,1,1,Female,Master's,0,Hybrid,104,4.78,Hispanic or Latino
+199,Emp 199,Recruiter,Security,Chicago,2022-08-23,9,6,Male,Bachelor's,1,Onsite,112,3.07,Native Hawaiian/Other Pacific Islander
+200,Emp 200,Engineer,Finance,Remote,2020-05-10,10,3,Female,Master's,1,Onsite,104,5.36,Asian
+201,Emp 201,Engineer,Marketing,Chicago,2020-10-01,9,9,Male,Master's,1,Hybrid,108,4.97,White
+202,Emp 202,Analyst,Data Analytics,Chicago,2022-10-11,10,11,Male,High School,1,Remote,101,2.94,Two or More Races
+203,Emp 203,HRBP,Supply Chain,Remote,2021-02-21,2,12,Male,Bachelor's,1,Remote,113,4.57,Black or African American
+204,Emp 204,Sr Engineer,Security,Chicago,2020-07-14,5,6,Male,Master's,0,Remote,112,5.18,Native American/Alaska Native
+205,Emp 205,Recruiter,Sales,Seattle,2021-07-11,3,5,Female,Master's,1,Remote,111,4.19,Prefer not to say
+206,Emp 206,HRBP,IT Support,NYC,2022-12-12,2,3,Male,Bachelor's,0,Hybrid,106,2.77,Hispanic or Latino
+207,Emp 207,Engineer,Sales,Seattle,2020-10-03,9,6,Male,High School,0,Remote,111,4.96,Native Hawaiian/Other Pacific Islander
+208,Emp 208,Manager,Finance,Seattle,2020-10-30,4,6,Female,Master's,1,Remote,104,4.89,Asian
+209,Emp 209,Sr Engineer,Legal,Remote,2021-11-30,2,9,Male,Master's,1,Hybrid,107,3.8,White
+210,Emp 210,Sr Analyst,Product,Atlanta,2024-10-25,5,9,Female,Bachelor's,0,Hybrid,110,0.9,Two or More Races
+211,Emp 211,Recruiter,Customer Success,Seattle,2021-08-22,5,6,Prefer not to say,Bachelor's,1,Remote,100,4.08,Black or African American
+212,Emp 212,Coordinator,Engineering,Atlanta,2021-01-16,8,6,Male,Bachelor's,1,Onsite,102,4.67,Native American/Alaska Native
+213,Emp 213,Recruiter,IT Support,Seattle,2021-10-21,3,8,Male,Master's,1,Hybrid,106,3.91,Prefer not to say
+214,Emp 214,Coordinator,Supply Chain,Austin,2024-09-07,9,5,Female,High School,1,Hybrid,113,1.03,Hispanic or Latino
+215,Emp 215,Recruiter,Product,NYC,2021-02-04,9,12,Male,High School,1,Remote,110,4.62,Native Hawaiian/Other Pacific Islander
+216,Emp 216,Manager,Legal,Chicago,2022-07-26,10,1,Female,Bachelor's,0,Onsite,107,3.15,Asian
+217,Emp 217,Analyst,Engineering,Seattle,2020-04-23,2,8,Female,Bachelor's,1,Remote,102,5.41,White
+218,Emp 218,Sr Analyst,Sales,NYC,2020-11-02,5,4,Female,Master's,0,Onsite,111,4.88,Two or More Races
+219,Emp 219,Engineer,Engineering,Atlanta,2023-09-16,1,11,Non-binary,Associate,0,Remote,102,2.01,Black or African American
+220,Emp 220,Sr Analyst,Security,Chicago,2020-05-09,8,10,Female,Master's,1,Remote,112,5.36,Native American/Alaska Native
+221,Emp 221,Coordinator,Security,NYC,2024-12-19,6,11,Male,Associate,1,Remote,112,0.75,Prefer not to say
+222,Emp 222,Engineer,Supply Chain,Seattle,2020-05-10,4,1,Prefer not to say,Bachelor's,1,Remote,113,5.36,Hispanic or Latino
+223,Emp 223,HRBP,IT Support,Atlanta,2021-02-03,1,10,Female,Bachelor's,1,Remote,106,4.62,Native Hawaiian/Other Pacific Islander
+224,Emp 224,Analyst,Data Analytics,Remote,2023-07-06,8,10,Male,Bachelor's,0,Hybrid,101,2.21,Asian
+225,Emp 225,HRBP,Supply Chain,Seattle,2023-01-03,10,6,Female,Associate,1,Hybrid,113,2.71,White
+226,Emp 226,Manager,Operations,Chicago,2022-04-25,8,2,Female,Bachelor's,1,Remote,109,3.4,Two or More Races
+227,Emp 227,HRBP,Data Analytics,NYC,2020-08-30,3,3,Female,Master's,0,Remote,101,5.05,Black or African American
+228,Emp 228,Recruiter,Supply Chain,Seattle,2023-09-12,2,12,Male,Master's,0,Hybrid,113,2.02,Native American/Alaska Native
+229,Emp 229,Analyst,Product,Chicago,2024-06-25,6,11,Female,Bachelor's,1,Hybrid,110,1.23,Prefer not to say
+230,Emp 230,Manager,Security,Austin,2020-12-01,7,4,Male,Bachelor's,1,Hybrid,112,4.8,Hispanic or Latino
+231,Emp 231,Analyst,Legal,Atlanta,2022-09-21,4,10,Male,High School,0,Remote,107,3.0,Native Hawaiian/Other Pacific Islander
+232,Emp 232,HRBP,Sales,Atlanta,2020-09-21,2,4,Female,Bachelor's,0,Remote,111,4.99,Asian
+233,Emp 233,Analyst,Finance,Seattle,2023-12-29,7,11,Female,High School,1,Onsite,104,1.72,White
+234,Emp 234,Engineer,Marketing,Atlanta,2024-10-31,4,9,Male,Bachelor's,1,Remote,108,0.88,Two or More Races
+235,Emp 235,Recruiter,Product,Austin,2021-06-24,4,10,Female,Bachelor's,1,Remote,110,4.24,Black or African American
+236,Emp 236,Coordinator,Product,NYC,2021-05-18,4,2,Female,Master's,0,Remote,110,4.34,Native American/Alaska Native
+237,Emp 237,Manager,Customer Success,Remote,2024-07-26,2,4,Non-binary,Bachelor's,1,Onsite,100,1.15,Prefer not to say
+238,Emp 238,Sr Engineer,IT Support,NYC,2020-11-27,7,7,Female,Associate,0,Remote,106,4.81,Hispanic or Latino
+239,Emp 239,Coordinator,IT Support,Atlanta,2022-05-13,4,12,Female,Bachelor's,1,Remote,106,3.35,Native Hawaiian/Other Pacific Islander
+240,Emp 240,Analyst,Sales,NYC,2022-01-12,4,7,Non-binary,Bachelor's,0,Hybrid,111,3.69,Asian
+241,Emp 241,Coordinator,Product,Chicago,2024-11-08,8,12,Male,Master's,0,Remote,110,0.86,White
+242,Emp 242,Sr Analyst,Finance,Chicago,2024-10-27,10,1,Female,Bachelor's,1,Remote,104,0.9,Two or More Races
+243,Emp 243,Engineer,Sales,Austin,2024-03-24,4,11,Male,Bachelor's,1,Hybrid,111,1.49,Black or African American
+244,Emp 244,Sr Engineer,Security,Chicago,2022-11-23,1,11,Male,Associate,0,Onsite,112,2.82,Native American/Alaska Native
+245,Emp 245,HRBP,Customer Success,Atlanta,2024-09-08,10,6,Non-binary,Master's,1,Onsite,100,1.03,Prefer not to say
+246,Emp 246,Manager,Security,Austin,2023-01-15,10,1,Prefer not to say,Bachelor's,1,Hybrid,112,2.68,Hispanic or Latino
+247,Emp 247,Recruiter,Security,Remote,2024-03-11,10,2,Female,High School,0,Remote,112,1.52,Native Hawaiian/Other Pacific Islander
+248,Emp 248,Sr Engineer,Operations,Seattle,2021-02-20,1,6,Female,Associate,1,Remote,109,4.58,Asian
+249,Emp 249,Manager,Customer Success,Atlanta,2024-01-25,10,1,Female,Master's,0,Hybrid,100,1.65,White
+250,Emp 250,Coordinator,IT Support,Remote,2022-12-10,8,6,Female,Bachelor's,1,Remote,106,2.78,Two or More Races
+251,Emp 251,Coordinator,Product,Seattle,2023-06-30,5,3,Female,Master's,0,Hybrid,110,2.22,Black or African American
+252,Emp 252,Manager,Legal,NYC,2020-05-03,8,3,Male,Master's,0,Hybrid,107,5.38,Native American/Alaska Native
+253,Emp 253,Manager,Supply Chain,Seattle,2020-06-19,6,6,Female,Master's,1,Remote,113,5.25,Prefer not to say
+254,Emp 254,Recruiter,Security,Seattle,2024-04-04,7,7,Non-binary,Associate,1,Onsite,112,1.46,Hispanic or Latino
+255,Emp 255,Coordinator,Legal,Seattle,2024-09-24,10,4,Female,High School,0,Remote,107,0.99,Native Hawaiian/Other Pacific Islander
+256,Emp 256,HRBP,Supply Chain,Chicago,2023-01-18,8,12,Prefer not to say,Bachelor's,1,Hybrid,113,2.67,Asian
+257,Emp 257,Analyst,Product,Atlanta,2021-06-15,10,5,Male,Bachelor's,1,Hybrid,110,4.26,White
+258,Emp 258,HRBP,Engineering,Austin,2020-02-11,1,7,Male,Bachelor's,0,Hybrid,102,5.6,Two or More Races
+259,Emp 259,Analyst,IT Support,Remote,2023-12-11,8,12,Prefer not to say,High School,0,Remote,106,1.77,Black or African American
+260,Emp 260,Engineer,Finance,Seattle,2021-10-03,9,6,Non-binary,Master's,1,Remote,104,3.96,Native American/Alaska Native
+261,Emp 261,Engineer,Sales,Atlanta,2024-12-25,9,3,Female,Associate,1,Remote,111,0.73,Prefer not to say
+262,Emp 262,Analyst,Customer Success,Austin,2022-03-03,4,7,Female,High School,1,Onsite,100,3.55,Hispanic or Latino
+263,Emp 263,Engineer,Facilities,Austin,2021-06-12,9,3,Male,Associate,0,Remote,103,4.27,Native Hawaiian/Other Pacific Islander
+264,Emp 264,Manager,Finance,Seattle,2023-08-09,9,12,Male,Bachelor's,1,Hybrid,104,2.11,Asian
+265,Emp 265,Manager,Sales,Remote,2022-07-09,6,1,Male,Associate,0,Hybrid,111,3.2,White
+266,Emp 266,HRBP,Engineering,Remote,2024-01-15,10,10,Male,Master's,1,Remote,102,1.68,Two or More Races
+267,Emp 267,Sr Engineer,HR,Austin,2024-04-22,7,11,Male,Master's,1,Remote,105,1.41,Black or African American
+268,Emp 268,Recruiter,Sales,Remote,2025-05-12,7,5,Female,Bachelor's,0,Remote,111,0.36,Native American/Alaska Native
+269,Emp 269,Sr Analyst,Facilities,Austin,2020-11-04,3,7,Female,Master's,0,Remote,103,4.87,Prefer not to say
+270,Emp 270,HRBP,Marketing,Chicago,2025-05-02,7,12,Female,Bachelor's,0,Hybrid,108,0.38,Hispanic or Latino
+271,Emp 271,Analyst,Data Analytics,Seattle,2023-03-26,5,6,Male,Associate,0,Remote,101,2.49,Native Hawaiian/Other Pacific Islander
+272,Emp 272,Recruiter,Sales,Chicago,2021-03-31,3,11,Male,Bachelor's,0,Hybrid,111,4.47,Asian
+273,Emp 273,Sr Analyst,Engineering,NYC,2024-09-12,9,7,Male,Associate,1,Onsite,102,1.02,White
+274,Emp 274,Sr Engineer,Legal,Austin,2024-04-23,3,5,Male,High School,0,Hybrid,107,1.41,Two or More Races
+275,Emp 275,Sr Engineer,Engineering,Atlanta,2023-03-12,10,9,Female,Bachelor's,1,Remote,102,2.52,Black or African American
+276,Emp 276,Recruiter,Operations,Chicago,2020-09-16,10,7,Male,Bachelor's,0,Remote,109,5.01,Native American/Alaska Native
+277,Emp 277,Sr Engineer,Product,Remote,2021-01-07,2,5,Female,High School,0,Hybrid,110,4.7,Prefer not to say
+278,Emp 278,Analyst,IT Support,Remote,2024-11-25,6,9,Male,Bachelor's,0,Remote,106,0.82,Hispanic or Latino
+279,Emp 279,Manager,Sales,Atlanta,2022-07-26,6,1,Female,Master's,0,Remote,111,3.15,Native Hawaiian/Other Pacific Islander
+280,Emp 280,Coordinator,Operations,NYC,2025-05-07,9,11,Non-binary,Bachelor's,0,Remote,109,0.37,Asian
+281,Emp 281,Sr Engineer,Marketing,Seattle,2021-06-24,4,1,Non-binary,Bachelor's,1,Onsite,108,4.24,White
+282,Emp 282,HRBP,Data Analytics,Atlanta,2022-02-26,7,2,Male,Bachelor's,0,Onsite,101,3.56,Two or More Races
+283,Emp 283,Sr Engineer,IT Support,Atlanta,2023-06-23,2,2,Male,Bachelor's,1,Remote,106,2.24,Black or African American
+284,Emp 284,Analyst,Marketing,Chicago,2022-05-09,4,6,Male,Bachelor's,1,Hybrid,108,3.36,Native American/Alaska Native
+285,Emp 285,HRBP,Operations,Austin,2022-01-15,10,12,Male,PhD,1,Remote,109,3.68,Prefer not to say
+286,Emp 286,Recruiter,Marketing,Seattle,2022-08-30,5,12,Male,Bachelor's,0,Onsite,108,3.06,Hispanic or Latino
+287,Emp 287,Manager,Security,Chicago,2022-05-14,9,7,Male,Master's,0,Remote,112,3.35,Native Hawaiian/Other Pacific Islander
+288,Emp 288,Engineer,Facilities,Chicago,2021-02-17,4,5,Non-binary,Associate,0,Hybrid,103,4.59,Asian
+289,Emp 289,HRBP,Customer Success,Chicago,2022-10-11,2,11,Female,Bachelor's,1,Hybrid,100,2.94,White
+290,Emp 290,Manager,Product,Atlanta,2021-08-30,8,12,Female,Bachelor's,1,Hybrid,110,4.05,Two or More Races
+291,Emp 291,Recruiter,Legal,Seattle,2024-12-13,8,1,Prefer not to say,Master's,1,Hybrid,107,0.77,Black or African American
+292,Emp 292,Recruiter,Operations,Seattle,2022-08-12,10,11,Female,Bachelor's,0,Remote,109,3.1,Native American/Alaska Native
+293,Emp 293,Sr Engineer,Legal,Chicago,2021-06-28,1,7,Female,High School,0,Hybrid,107,4.23,Prefer not to say
+294,Emp 294,Sr Analyst,Security,Austin,2021-12-02,3,9,Non-binary,Master's,1,Hybrid,112,3.8,Hispanic or Latino
+295,Emp 295,Sr Analyst,Supply Chain,Austin,2022-07-26,6,9,Non-binary,Bachelor's,1,Hybrid,113,3.15,Native Hawaiian/Other Pacific Islander
+296,Emp 296,Sr Engineer,Supply Chain,Austin,2023-07-04,6,7,Female,PhD,0,Onsite,113,2.21,Asian
+297,Emp 297,HRBP,Facilities,NYC,2021-10-05,9,12,Female,Bachelor's,0,Remote,103,3.96,White
+298,Emp 298,Sr Analyst,Operations,Remote,2023-06-23,3,12,Male,Bachelor's,1,Hybrid,109,2.24,Two or More Races
+299,Emp 299,Sr Engineer,Customer Success,Atlanta,2022-12-05,6,12,Female,High School,1,Onsite,100,2.79,Black or African American
+300,Emp 300,Analyst,Security,Remote,2024-11-06,4,7,Female,High School,1,Remote,112,0.87,Native American/Alaska Native
+301,Emp 301,HRBP,Product,Atlanta,2020-06-01,4,2,Female,High School,0,Remote,110,5.3,Prefer not to say
+302,Emp 302,Engineer,Marketing,Chicago,2023-09-13,3,8,Non-binary,High School,1,Remote,108,2.02,Hispanic or Latino
+303,Emp 303,Sr Analyst,HR,Seattle,2023-02-23,8,12,Male,Bachelor's,1,Remote,105,2.57,Native Hawaiian/Other Pacific Islander
+304,Emp 304,Coordinator,Security,Atlanta,2021-11-15,8,1,Male,Bachelor's,1,Hybrid,112,3.84,Asian
+305,Emp 305,Analyst,Product,Austin,2022-10-19,4,11,Male,Bachelor's,1,Hybrid,110,2.92,White
+306,Emp 306,Sr Engineer,Security,NYC,2021-08-06,2,3,Male,High School,1,Onsite,112,4.12,Two or More Races
+307,Emp 307,HRBP,HR,Seattle,2025-03-03,6,2,Male,Master's,1,Remote,105,0.55,Black or African American
+308,Emp 308,Analyst,HR,Austin,2020-04-15,2,4,Female,Master's,1,Hybrid,105,5.43,Native American/Alaska Native
+309,Emp 309,Recruiter,Operations,Atlanta,2023-12-30,6,11,Female,Bachelor's,1,Remote,109,1.72,Prefer not to say
+310,Emp 310,Recruiter,Sales,Atlanta,2025-05-29,4,2,Male,Master's,1,Hybrid,111,0.31,Hispanic or Latino
+311,Emp 311,Engineer,Customer Success,Remote,2020-04-04,1,3,Non-binary,Bachelor's,0,Onsite,100,5.46,Native Hawaiian/Other Pacific Islander
+312,Emp 312,Analyst,Supply Chain,NYC,2024-08-27,10,7,Female,Master's,0,Onsite,113,1.06,Asian
+313,Emp 313,Recruiter,Customer Success,Remote,2021-11-24,2,1,Female,Associate,0,Onsite,100,3.82,White
+314,Emp 314,Analyst,Security,Austin,2023-06-06,10,6,Female,Associate,1,Hybrid,112,2.29,Two or More Races
+315,Emp 315,Sr Analyst,Engineering,Chicago,2021-02-18,4,6,Male,High School,0,Remote,102,4.58,Black or African American
+316,Emp 316,Sr Analyst,Product,Atlanta,2020-10-20,2,11,Female,Master's,1,Remote,110,4.91,Native American/Alaska Native
+317,Emp 317,Coordinator,IT Support,NYC,2021-08-16,2,7,Male,Master's,0,Remote,106,4.09,Prefer not to say
+318,Emp 318,Coordinator,Product,Seattle,2021-08-15,5,4,Female,PhD,0,Hybrid,110,4.1,Hispanic or Latino
+319,Emp 319,Sr Analyst,Data Analytics,Chicago,2024-05-17,3,4,Prefer not to say,Bachelor's,1,Hybrid,101,1.34,Native Hawaiian/Other Pacific Islander
+320,Emp 320,Engineer,Sales,Atlanta,2020-11-03,3,12,Non-binary,High School,1,Remote,111,4.88,Asian
+321,Emp 321,Manager,Finance,Atlanta,2024-05-28,8,10,Male,Bachelor's,0,Hybrid,104,1.31,White
+322,Emp 322,Coordinator,Sales,Remote,2023-02-18,7,5,Male,Bachelor's,1,Remote,111,2.58,Two or More Races
+323,Emp 323,Recruiter,HR,Atlanta,2020-05-09,10,12,Female,Master's,0,Hybrid,105,5.36,Black or African American
+324,Emp 324,HRBP,Customer Success,Chicago,2022-03-16,4,3,Male,Bachelor's,0,Remote,100,3.51,Native American/Alaska Native
+325,Emp 325,Recruiter,IT Support,NYC,2024-01-19,6,2,Female,Bachelor's,1,Hybrid,106,1.67,Prefer not to say
+326,Emp 326,Manager,Security,Seattle,2022-05-10,6,8,Female,Master's,1,Remote,112,3.36,Hispanic or Latino
+327,Emp 327,Analyst,Data Analytics,Chicago,2020-12-11,4,7,Female,Bachelor's,1,Remote,101,4.77,Native Hawaiian/Other Pacific Islander
+328,Emp 328,Engineer,Legal,NYC,2021-04-06,9,4,Male,Master's,0,Hybrid,107,4.45,Asian
+329,Emp 329,Sr Analyst,IT Support,Remote,2020-04-03,6,5,Male,Bachelor's,1,Remote,106,5.46,White
+330,Emp 330,Manager,Operations,NYC,2021-09-10,7,2,Male,Master's,1,Remote,109,4.02,Two or More Races
+331,Emp 331,Manager,Data Analytics,NYC,2020-08-08,4,6,Female,Bachelor's,1,Remote,101,5.11,Black or African American
+332,Emp 332,Engineer,Security,Remote,2023-09-04,9,5,Female,Bachelor's,1,Remote,112,2.04,Native American/Alaska Native
+333,Emp 333,Coordinator,Security,NYC,2023-05-18,4,7,Male,Bachelor's,1,Remote,112,2.34,Prefer not to say
+334,Emp 334,Manager,Data Analytics,Remote,2025-03-23,10,7,Male,Bachelor's,1,Remote,101,0.49,Hispanic or Latino
+335,Emp 335,HRBP,Operations,Chicago,2021-03-13,5,12,Female,Master's,1,Hybrid,109,4.52,Native Hawaiian/Other Pacific Islander
+336,Emp 336,Sr Engineer,Legal,Seattle,2020-01-22,1,7,Male,Bachelor's,1,Remote,107,5.66,Asian
+337,Emp 337,Recruiter,Marketing,Atlanta,2021-12-09,4,6,Prefer not to say,Bachelor's,0,Remote,108,3.78,White
+338,Emp 338,HRBP,Marketing,Austin,2022-03-31,4,1,Male,Master's,0,Onsite,108,3.47,Two or More Races
+339,Emp 339,Engineer,HR,Seattle,2023-06-08,8,12,Male,High School,0,Hybrid,105,2.28,Black or African American
+340,Emp 340,Sr Engineer,Sales,Atlanta,2022-07-11,3,6,Female,Bachelor's,0,Hybrid,111,3.19,Native American/Alaska Native
+341,Emp 341,Recruiter,Product,Austin,2024-08-30,10,4,Male,Associate,1,Hybrid,110,1.05,Prefer not to say
+342,Emp 342,Sr Analyst,IT Support,Remote,2025-01-29,7,7,Female,Bachelor's,1,Remote,106,0.64,Hispanic or Latino
+343,Emp 343,Engineer,Facilities,Austin,2020-05-17,8,12,Female,Bachelor's,1,Onsite,103,5.34,Native Hawaiian/Other Pacific Islander
+344,Emp 344,Sr Analyst,Finance,Remote,2020-07-09,4,9,Male,Bachelor's,1,Remote,104,5.2,Asian
+345,Emp 345,HRBP,Customer Success,Seattle,2020-01-17,5,3,Female,Bachelor's,1,Onsite,100,5.67,White
+346,Emp 346,Analyst,Engineering,NYC,2024-03-14,7,12,Male,Master's,1,Remote,102,1.52,Two or More Races
+347,Emp 347,Coordinator,Marketing,Austin,2025-01-10,7,11,Female,High School,0,Hybrid,108,0.69,Black or African American
+348,Emp 348,Coordinator,HR,Austin,2020-01-26,1,1,Female,Associate,1,Remote,105,5.65,Native American/Alaska Native
+349,Emp 349,Sr Analyst,Engineering,Remote,2024-10-14,9,12,Male,Bachelor's,0,Remote,102,0.93,Prefer not to say
+350,Emp 350,Manager,IT Support,Seattle,2024-11-25,5,8,Male,Master's,1,Remote,106,0.82,Hispanic or Latino
+351,Emp 351,HRBP,Supply Chain,Austin,2024-06-15,8,12,Female,Bachelor's,1,Hybrid,113,1.26,Native Hawaiian/Other Pacific Islander
+352,Emp 352,HRBP,Product,Austin,2023-08-25,10,8,Female,Master's,1,Remote,110,2.07,Asian
+353,Emp 353,Coordinator,Engineering,NYC,2023-10-25,5,12,Female,Bachelor's,0,Onsite,102,1.9,White
+354,Emp 354,Sr Analyst,IT Support,NYC,2022-09-20,1,9,Female,Master's,0,Hybrid,106,3.0,Two or More Races
+355,Emp 355,Coordinator,Product,NYC,2022-09-20,3,10,Female,Bachelor's,0,Remote,110,3.0,Black or African American
+356,Emp 356,Analyst,Facilities,Chicago,2020-07-11,5,9,Male,High School,0,Hybrid,103,5.19,Native American/Alaska Native
+357,Emp 357,Engineer,Marketing,Seattle,2020-07-14,6,7,Male,Bachelor's,1,Hybrid,108,5.18,Prefer not to say
+358,Emp 358,Analyst,Finance,Atlanta,2022-01-22,10,3,Male,Master's,1,Onsite,104,3.66,Hispanic or Latino
+359,Emp 359,Sr Engineer,Legal,Austin,2020-12-24,9,8,Male,High School,0,Remote,107,4.74,Native Hawaiian/Other Pacific Islander
+360,Emp 360,Sr Analyst,Supply Chain,Austin,2021-09-05,6,11,Female,High School,1,Remote,113,4.04,Asian
+361,Emp 361,Coordinator,Customer Success,Chicago,2021-12-03,8,10,Male,Associate,1,Remote,100,3.79,White
+362,Emp 362,Sr Engineer,Marketing,Austin,2021-02-14,3,10,Female,Bachelor's,0,Onsite,108,4.59,Two or More Races
+363,Emp 363,Coordinator,Facilities,Seattle,2022-12-10,8,7,Female,Master's,1,Remote,103,2.78,Black or African American
+364,Emp 364,Recruiter,HR,Austin,2022-01-12,5,3,Male,Bachelor's,1,Onsite,105,3.69,Native American/Alaska Native
+365,Emp 365,Analyst,Customer Success,Atlanta,2022-05-09,2,8,Prefer not to say,PhD,1,Remote,100,3.36,Prefer not to say
+366,Emp 366,Sr Engineer,Customer Success,Chicago,2025-01-28,1,3,Male,Bachelor's,1,Remote,100,0.64,Hispanic or Latino
+367,Emp 367,Coordinator,Sales,Chicago,2021-11-04,5,3,Male,Master's,1,Remote,111,3.87,Native Hawaiian/Other Pacific Islander
+368,Emp 368,Sr Analyst,Finance,Austin,2024-12-31,2,5,Male,High School,1,Remote,104,0.72,Asian
+369,Emp 369,HRBP,Customer Success,Remote,2023-07-09,2,9,Female,Associate,0,Onsite,100,2.2,White
+370,Emp 370,Coordinator,Supply Chain,Atlanta,2023-07-14,10,5,Female,Associate,0,Onsite,113,2.18,Two or More Races
+371,Emp 371,Sr Engineer,Data Analytics,Austin,2023-08-03,10,5,Male,Bachelor's,1,Remote,101,2.13,Black or African American
+372,Emp 372,Analyst,Data Analytics,Remote,2022-02-22,9,11,Female,Bachelor's,1,Remote,101,3.57,Native American/Alaska Native
+373,Emp 373,Sr Analyst,Legal,Seattle,2023-12-22,1,2,Female,Bachelor's,1,Remote,107,1.74,Prefer not to say
+374,Emp 374,Analyst,Security,NYC,2021-01-19,4,2,Male,Master's,1,Remote,112,4.67,Hispanic or Latino
+375,Emp 375,Manager,Engineering,Remote,2021-03-25,4,7,Male,Associate,0,Onsite,102,4.49,Native Hawaiian/Other Pacific Islander
+376,Emp 376,Coordinator,HR,NYC,2025-06-12,7,2,Female,Bachelor's,0,Remote,105,0.27,Asian
+377,Emp 377,Analyst,Facilities,NYC,2024-03-24,5,10,Female,Associate,0,Remote,103,1.49,White
+378,Emp 378,HRBP,IT Support,Remote,2024-08-12,2,3,Female,Bachelor's,1,Hybrid,106,1.1,Two or More Races
+379,Emp 379,Engineer,Product,Seattle,2025-05-17,1,10,Male,High School,0,Remote,110,0.34,Black or African American
+380,Emp 380,Sr Analyst,Security,Remote,2025-05-06,2,8,Female,Associate,0,Onsite,112,0.37,Native American/Alaska Native
+381,Emp 381,Sr Analyst,Sales,NYC,2024-09-08,9,12,Male,PhD,1,Remote,111,1.03,Prefer not to say
+382,Emp 382,HRBP,Marketing,Seattle,2023-01-19,7,10,Male,Master's,1,Hybrid,108,2.67,Hispanic or Latino
+383,Emp 383,Sr Analyst,Legal,Atlanta,2023-11-16,6,11,Male,Associate,1,Remote,107,1.84,Native Hawaiian/Other Pacific Islander
+384,Emp 384,Coordinator,Legal,Remote,2024-11-19,7,11,Male,Master's,0,Remote,107,0.83,Asian
+385,Emp 385,Analyst,Facilities,Austin,2023-03-25,9,11,Female,Associate,1,Remote,103,2.49,White
+386,Emp 386,Analyst,Sales,Atlanta,2024-12-06,6,11,Male,Bachelor's,1,Remote,111,0.79,Two or More Races
+387,Emp 387,Engineer,Operations,Seattle,2022-04-25,6,2,Female,Associate,1,Remote,109,3.4,Black or African American
+388,Emp 388,HRBP,Finance,Atlanta,2024-01-24,10,7,Female,Bachelor's,1,Hybrid,104,1.65,Native American/Alaska Native
+389,Emp 389,Sr Engineer,Sales,Remote,2020-03-29,6,7,Male,Bachelor's,0,Hybrid,111,5.48,Prefer not to say
+390,Emp 390,Recruiter,Customer Success,Remote,2025-04-20,4,11,Male,Bachelor's,1,Remote,100,0.42,Hispanic or Latino
+391,Emp 391,Coordinator,Product,Atlanta,2022-05-05,9,10,Male,Master's,1,Remote,110,3.38,Native Hawaiian/Other Pacific Islander
+392,Emp 392,Analyst,Product,Remote,2020-03-14,10,12,Female,Master's,1,Onsite,110,5.52,Asian
+393,Emp 393,Sr Engineer,Operations,Austin,2021-01-01,2,5,Female,Master's,1,Remote,109,4.71,White
+394,Emp 394,Engineer,Sales,Austin,2024-04-12,1,4,Male,Bachelor's,0,Hybrid,111,1.44,Two or More Races
+395,Emp 395,Engineer,Sales,Chicago,2024-02-09,8,6,Male,Bachelor's,1,Remote,111,1.61,Black or African American
+396,Emp 396,Sr Engineer,Security,NYC,2022-04-13,2,9,Male,Master's,1,Onsite,112,3.44,Native American/Alaska Native
+397,Emp 397,Sr Engineer,Supply Chain,Atlanta,2020-10-20,8,9,Female,High School,0,Remote,113,4.91,Prefer not to say
+398,Emp 398,Manager,HR,Seattle,2025-05-21,7,2,Female,Associate,0,Hybrid,105,0.33,Hispanic or Latino
+399,Emp 399,Sr Analyst,Data Analytics,Remote,2022-07-21,10,6,Male,Associate,1,Remote,101,3.16,Native Hawaiian/Other Pacific Islander
+400,Emp 400,Sr Engineer,Engineering,NYC,2020-05-07,7,1,Male,High School,0,Onsite,102,5.37,Asian
+401,Emp 401,Engineer,Facilities,Remote,2023-03-21,4,11,Female,Associate,0,Remote,103,2.5,White
+402,Emp 402,Coordinator,Security,Atlanta,2021-08-27,4,5,Prefer not to say,Master's,0,Hybrid,112,4.06,Two or More Races
+403,Emp 403,Manager,Customer Success,Atlanta,2022-09-16,7,7,Male,Associate,0,Onsite,100,3.01,Black or African American
+404,Emp 404,Engineer,Sales,Remote,2022-07-15,6,4,Female,Bachelor's,1,Remote,111,3.18,Native American/Alaska Native
+405,Emp 405,Recruiter,Product,Chicago,2024-05-26,1,3,Male,Master's,1,Hybrid,110,1.32,Prefer not to say
+406,Emp 406,Coordinator,Customer Success,Austin,2022-03-17,4,3,Male,Master's,0,Hybrid,100,3.51,Hispanic or Latino
+407,Emp 407,Manager,HR,Atlanta,2020-08-28,7,12,Male,Master's,1,Hybrid,105,5.06,Native Hawaiian/Other Pacific Islander
+408,Emp 408,Sr Analyst,Marketing,Remote,2023-04-03,4,1,Male,Bachelor's,1,Onsite,108,2.46,Asian
+409,Emp 409,Recruiter,IT Support,Seattle,2023-07-31,4,3,Male,High School,1,Remote,106,2.14,White
+410,Emp 410,HRBP,Engineering,Atlanta,2021-12-14,4,11,Male,Bachelor's,0,Remote,102,3.76,Two or More Races
+411,Emp 411,Sr Analyst,Facilities,Austin,2025-03-01,3,9,Female,Associate,0,Onsite,103,0.55,Black or African American
+412,Emp 412,Sr Analyst,Operations,Austin,2024-11-22,2,8,Female,Bachelor's,0,Remote,109,0.82,Native American/Alaska Native
+413,Emp 413,Sr Analyst,Marketing,Chicago,2024-01-28,8,10,Male,Associate,0,Remote,108,1.64,Prefer not to say
+414,Emp 414,Recruiter,Customer Success,Seattle,2023-01-03,5,12,Female,Master's,1,Hybrid,100,2.71,Hispanic or Latino
+415,Emp 415,Recruiter,Product,Seattle,2024-01-11,5,8,Female,Master's,0,Onsite,110,1.69,Native Hawaiian/Other Pacific Islander
+416,Emp 416,Recruiter,HR,Seattle,2022-07-23,9,9,Non-binary,Bachelor's,0,Remote,105,3.16,Asian
+417,Emp 417,Recruiter,Customer Success,Remote,2021-04-28,9,9,Male,Associate,0,Hybrid,100,4.39,White
+418,Emp 418,Recruiter,Operations,Austin,2021-07-04,1,7,Male,Associate,1,Onsite,109,4.21,Two or More Races
+419,Emp 419,Sr Analyst,Facilities,Atlanta,2024-07-16,4,1,Male,Bachelor's,1,Hybrid,103,1.18,Black or African American
+420,Emp 420,HRBP,Legal,Chicago,2025-06-08,7,2,Female,Bachelor's,0,Remote,107,0.28,Native American/Alaska Native
+421,Emp 421,Coordinator,Finance,NYC,2025-05-27,2,7,Female,Bachelor's,1,Onsite,104,0.31,Prefer not to say
+422,Emp 422,Sr Analyst,Product,Atlanta,2021-01-04,9,9,Male,Bachelor's,1,Remote,110,4.71,Hispanic or Latino
+423,Emp 423,Recruiter,Supply Chain,Seattle,2020-01-21,3,11,Male,Bachelor's,1,Onsite,113,5.66,Native Hawaiian/Other Pacific Islander
+424,Emp 424,Coordinator,Legal,Seattle,2021-07-02,9,3,Male,Bachelor's,1,Onsite,107,4.22,Asian
+425,Emp 425,Recruiter,Legal,Austin,2022-02-17,2,9,Male,Bachelor's,0,Remote,107,3.59,White
+426,Emp 426,Recruiter,Customer Success,Chicago,2021-10-22,5,12,Male,Bachelor's,1,Hybrid,100,3.91,Two or More Races
+427,Emp 427,HRBP,Product,Seattle,2022-11-27,2,6,Male,Master's,1,Hybrid,110,2.81,Black or African American
+428,Emp 428,Engineer,Marketing,Chicago,2020-01-27,8,4,Female,Associate,1,Onsite,108,5.65,Native American/Alaska Native
+429,Emp 429,Coordinator,Operations,Seattle,2024-09-04,8,6,Male,Master's,1,Remote,109,1.04,Prefer not to say
+430,Emp 430,HRBP,Sales,Austin,2020-07-28,8,10,Female,Bachelor's,0,Remote,111,5.14,Hispanic or Latino
+431,Emp 431,Engineer,Security,Austin,2022-03-31,7,4,Male,Master's,0,Hybrid,112,3.47,Native Hawaiian/Other Pacific Islander
+432,Emp 432,Manager,HR,Austin,2023-04-26,3,9,Male,Bachelor's,0,Hybrid,105,2.4,Asian
+433,Emp 433,Coordinator,Legal,Atlanta,2023-09-27,7,11,Male,Bachelor's,0,Remote,107,1.98,White
+434,Emp 434,Sr Analyst,Security,Seattle,2022-09-24,10,4,Female,Master's,1,Hybrid,112,2.99,Two or More Races
+435,Emp 435,HRBP,Facilities,Seattle,2021-04-12,4,1,Female,Master's,1,Onsite,103,4.44,Black or African American
+436,Emp 436,Manager,Finance,NYC,2021-09-22,1,9,Male,Master's,0,Onsite,104,3.99,Native American/Alaska Native
+437,Emp 437,Analyst,Finance,Atlanta,2020-07-30,10,4,Male,Master's,1,Remote,104,5.14,Prefer not to say
+438,Emp 438,Recruiter,Operations,Atlanta,2022-12-19,7,1,Male,Bachelor's,0,Hybrid,109,2.75,Hispanic or Latino
+439,Emp 439,Sr Analyst,Engineering,Austin,2023-10-02,3,12,Male,Master's,0,Hybrid,102,1.97,Native Hawaiian/Other Pacific Islander
+440,Emp 440,Analyst,Legal,Seattle,2023-06-23,2,6,Prefer not to say,PhD,1,Remote,107,2.24,Asian
+441,Emp 441,Sr Analyst,Security,Remote,2023-08-18,1,6,Non-binary,Bachelor's,0,Remote,112,2.09,White
+442,Emp 442,Recruiter,Engineering,Remote,2024-11-18,6,1,Female,Master's,1,Hybrid,102,0.84,Two or More Races
+443,Emp 443,HRBP,Data Analytics,Austin,2021-09-19,10,10,Female,PhD,1,Remote,101,4.0,Black or African American
+444,Emp 444,Coordinator,Supply Chain,NYC,2021-04-02,10,1,Male,Master's,0,Remote,113,4.47,Native American/Alaska Native
+445,Emp 445,Sr Analyst,Sales,Austin,2020-10-26,5,12,Prefer not to say,Associate,0,Remote,111,4.9,Prefer not to say
+446,Emp 446,Manager,Supply Chain,Seattle,2020-05-30,7,7,Male,Master's,0,Hybrid,113,5.31,Hispanic or Latino
+447,Emp 447,Engineer,Product,Austin,2022-11-14,5,10,Male,Bachelor's,1,Remote,110,2.85,Native Hawaiian/Other Pacific Islander
+448,Emp 448,Sr Analyst,Marketing,Seattle,2025-05-20,5,3,Male,Bachelor's,0,Hybrid,108,0.33,Asian
+449,Emp 449,Engineer,Finance,Atlanta,2020-08-14,10,2,Prefer not to say,Associate,0,Remote,104,5.1,White
+450,Emp 450,Sr Engineer,Security,Remote,2023-05-27,10,7,Male,Bachelor's,0,Remote,112,2.32,Two or More Races
+451,Emp 451,HRBP,Supply Chain,Atlanta,2022-01-08,8,9,Female,Master's,0,Remote,113,3.7,Black or African American
+452,Emp 452,HRBP,Supply Chain,Austin,2022-01-02,9,1,Male,Bachelor's,1,Onsite,113,3.71,Native American/Alaska Native
+453,Emp 453,Sr Engineer,Engineering,Austin,2024-02-06,6,11,Male,Bachelor's,1,Remote,102,1.62,Prefer not to say
+454,Emp 454,Analyst,Facilities,Chicago,2020-11-02,2,9,Female,Master's,1,Remote,103,4.88,Hispanic or Latino
+455,Emp 455,Manager,Engineering,Austin,2022-07-20,3,1,Female,Master's,1,Onsite,102,3.17,Native Hawaiian/Other Pacific Islander
+456,Emp 456,Analyst,Legal,Remote,2020-11-24,3,6,Male,Bachelor's,1,Remote,107,4.82,Asian
+457,Emp 457,HRBP,Customer Success,Austin,2025-04-24,4,7,Male,Bachelor's,1,Remote,100,0.41,White
+458,Emp 458,Sr Engineer,Facilities,Remote,2021-11-12,6,9,Male,PhD,0,Remote,103,3.85,Two or More Races
+459,Emp 459,Recruiter,HR,Atlanta,2021-03-08,3,8,Non-binary,Associate,0,Remote,105,4.53,Black or African American
+460,Emp 460,Engineer,Customer Success,Chicago,2024-01-17,9,1,Non-binary,Bachelor's,1,Remote,100,1.67,Native American/Alaska Native
+461,Emp 461,Sr Engineer,Product,Seattle,2020-05-14,8,1,Non-binary,Master's,1,Onsite,110,5.35,Prefer not to say
+462,Emp 462,Recruiter,Data Analytics,NYC,2021-01-01,5,8,Male,Bachelor's,0,Hybrid,101,4.71,Hispanic or Latino
+463,Emp 463,Engineer,Operations,NYC,2024-01-08,8,5,Male,Associate,1,Hybrid,109,1.7,Native Hawaiian/Other Pacific Islander
+464,Emp 464,Sr Engineer,Security,Remote,2022-08-09,2,6,Non-binary,Master's,0,Remote,112,3.11,Asian
+465,Emp 465,Coordinator,HR,Atlanta,2023-04-08,4,3,Female,High School,1,Onsite,105,2.45,White
+466,Emp 466,Analyst,Finance,NYC,2022-05-26,7,9,Female,Bachelor's,0,Remote,104,3.32,Two or More Races
+467,Emp 467,Analyst,Operations,Austin,2023-05-20,5,2,Male,Associate,1,Hybrid,109,2.34,Black or African American
+468,Emp 468,Coordinator,Operations,Austin,2022-08-02,4,11,Female,High School,1,Remote,109,3.13,Native American/Alaska Native
+469,Emp 469,Manager,HR,Atlanta,2022-04-12,10,10,Female,PhD,0,Onsite,105,3.44,Prefer not to say
+470,Emp 470,Recruiter,Security,Chicago,2021-08-05,9,8,Female,Bachelor's,0,Hybrid,112,4.12,Hispanic or Latino
+471,Emp 471,HRBP,Operations,Atlanta,2021-03-06,4,10,Male,High School,1,Remote,109,4.54,Native Hawaiian/Other Pacific Islander
+472,Emp 472,Engineer,Data Analytics,NYC,2024-08-03,6,12,Female,Master's,1,Hybrid,101,1.13,Asian
+473,Emp 473,HRBP,Marketing,Atlanta,2025-01-21,9,12,Male,Bachelor's,1,Onsite,108,0.66,White
+474,Emp 474,HRBP,IT Support,Austin,2021-10-17,9,7,Female,Bachelor's,1,Hybrid,106,3.92,Two or More Races
+475,Emp 475,Recruiter,HR,Atlanta,2021-08-02,9,5,Male,Master's,0,Remote,105,4.13,Black or African American
+476,Emp 476,Engineer,Facilities,Atlanta,2020-10-03,10,9,Female,Bachelor's,0,Remote,103,4.96,Native American/Alaska Native
+477,Emp 477,Sr Engineer,HR,NYC,2021-02-08,6,1,Female,Bachelor's,1,Hybrid,105,4.61,Prefer not to say
+478,Emp 478,HRBP,Facilities,NYC,2024-11-13,4,7,Male,Bachelor's,0,Onsite,103,0.85,Hispanic or Latino
+479,Emp 479,Sr Engineer,HR,Seattle,2021-12-30,7,1,Female,Bachelor's,0,Remote,105,3.72,Native Hawaiian/Other Pacific Islander
+480,Emp 480,HRBP,HR,NYC,2020-07-11,2,7,Male,Bachelor's,0,Remote,105,5.19,Asian
+481,Emp 481,Coordinator,Engineering,NYC,2022-01-28,2,2,Male,High School,1,Remote,102,3.64,White
+482,Emp 482,Analyst,Operations,Remote,2021-10-01,4,3,Female,Master's,1,Remote,109,3.97,Two or More Races
+483,Emp 483,Engineer,HR,Chicago,2021-09-13,10,6,Male,Bachelor's,1,Hybrid,105,4.02,Black or African American
+484,Emp 484,Analyst,Data Analytics,NYC,2020-07-06,2,6,Male,Master's,0,Hybrid,101,5.2,Native American/Alaska Native
+485,Emp 485,Sr Engineer,Legal,Austin,2021-06-22,6,11,Non-binary,Bachelor's,1,Hybrid,107,4.24,Prefer not to say
+486,Emp 486,Recruiter,Product,NYC,2020-12-22,4,2,Female,Bachelor's,1,Remote,110,4.74,Hispanic or Latino
+487,Emp 487,Recruiter,Security,Chicago,2023-09-24,8,6,Female,Master's,0,Hybrid,112,1.99,Native Hawaiian/Other Pacific Islander
+488,Emp 488,Analyst,Engineering,Seattle,2021-06-04,4,4,Female,Master's,1,Hybrid,102,4.29,Asian
+489,Emp 489,Engineer,Product,Seattle,2023-05-14,8,12,Male,PhD,0,Hybrid,110,2.35,White
+490,Emp 490,Recruiter,Sales,Remote,2024-11-04,4,11,Male,Bachelor's,1,Onsite,111,0.87,Two or More Races
+491,Emp 491,Manager,Supply Chain,NYC,2022-11-15,10,11,Prefer not to say,Bachelor's,0,Remote,113,2.84,Black or African American
+492,Emp 492,Recruiter,Data Analytics,Remote,2023-10-13,2,6,Male,Bachelor's,0,Remote,101,1.94,Native American/Alaska Native
+493,Emp 493,HRBP,HR,Seattle,2023-11-19,8,11,Female,Bachelor's,1,Remote,105,1.83,Prefer not to say
+494,Emp 494,Coordinator,Facilities,Seattle,2021-11-10,4,6,Male,Master's,0,Hybrid,103,3.86,Hispanic or Latino
+495,Emp 495,Manager,Facilities,Austin,2020-08-01,7,3,Male,Master's,0,Remote,103,5.13,Native Hawaiian/Other Pacific Islander
+496,Emp 496,Engineer,Finance,Austin,2021-04-02,1,2,Male,Associate,0,Remote,104,4.47,Asian
+497,Emp 497,Sr Engineer,Marketing,NYC,2021-12-24,6,5,Male,Bachelor's,1,Remote,108,3.74,White
+498,Emp 498,Recruiter,Operations,Austin,2023-08-31,2,1,Male,Associate,1,Remote,109,2.05,Two or More Races
+499,Emp 499,Recruiter,Customer Success,Atlanta,2023-07-12,3,4,Male,Master's,0,Onsite,100,2.19,Black or African American
+500,Emp 500,Analyst,Security,Austin,2020-05-22,5,8,Male,Master's,0,Hybrid,112,5.33,Native American/Alaska Native
+501,Emp 501,HRBP,Data Analytics,Seattle,2022-09-04,5,2,Male,Bachelor's,1,Onsite,101,3.04,Prefer not to say
+502,Emp 502,Sr Engineer,Legal,Atlanta,2020-09-24,3,12,Male,Bachelor's,1,Hybrid,107,4.99,Hispanic or Latino
+503,Emp 503,Sr Analyst,Security,Atlanta,2024-10-20,2,8,Male,Master's,1,Remote,112,0.91,Native Hawaiian/Other Pacific Islander
+504,Emp 504,Engineer,Facilities,Atlanta,2025-02-03,7,1,Male,Master's,1,Onsite,103,0.62,Asian
+505,Emp 505,Analyst,Facilities,Austin,2023-12-09,3,6,Male,Master's,0,Remote,103,1.78,White
+506,Emp 506,Coordinator,Security,Austin,2021-06-10,4,6,Female,Bachelor's,1,Onsite,112,4.28,Two or More Races
+507,Emp 507,Manager,Data Analytics,Atlanta,2024-11-22,7,2,Male,Bachelor's,1,Remote,101,0.82,Black or African American
+508,Emp 508,Sr Engineer,Marketing,Remote,2020-08-03,7,12,Female,Bachelor's,0,Remote,108,5.13,Native American/Alaska Native
+509,Emp 509,Recruiter,Sales,NYC,2020-09-06,3,8,Female,Master's,1,Hybrid,111,5.03,Prefer not to say
+510,Emp 510,Sr Engineer,Facilities,Atlanta,2021-10-08,1,9,Male,Bachelor's,0,Hybrid,103,3.95,Hispanic or Latino
+511,Emp 511,Sr Analyst,Legal,Seattle,2021-08-09,1,1,Female,Associate,1,Hybrid,107,4.11,Native Hawaiian/Other Pacific Islander
+512,Emp 512,Sr Analyst,Finance,NYC,2020-03-17,7,3,Male,Master's,0,Remote,104,5.51,Asian
+513,Emp 513,Sr Analyst,Finance,Austin,2022-07-21,6,3,Non-binary,Bachelor's,0,Remote,104,3.16,White
+514,Emp 514,Sr Engineer,Marketing,Seattle,2024-01-07,7,12,Male,Master's,0,Hybrid,108,1.7,Two or More Races
+515,Emp 515,Coordinator,HR,Seattle,2022-07-11,9,8,Male,Bachelor's,1,Hybrid,105,3.19,Black or African American
+516,Emp 516,Coordinator,IT Support,Seattle,2023-11-04,5,1,Male,Bachelor's,0,Remote,106,1.88,Native American/Alaska Native
+517,Emp 517,Recruiter,Sales,Austin,2021-05-02,3,1,Male,Associate,1,Remote,111,4.38,Prefer not to say
+518,Emp 518,Sr Analyst,Security,NYC,2020-05-22,7,3,Male,Master's,1,Onsite,112,5.33,Hispanic or Latino
+519,Emp 519,Sr Analyst,Engineering,Remote,2021-04-06,10,6,Male,Bachelor's,1,Hybrid,102,4.45,Native Hawaiian/Other Pacific Islander
+520,Emp 520,Manager,Security,Atlanta,2020-11-15,9,7,Male,Associate,1,Hybrid,112,4.84,Asian
+521,Emp 521,Sr Analyst,Data Analytics,Seattle,2023-09-27,4,2,Male,Bachelor's,1,Remote,101,1.98,White
+522,Emp 522,Engineer,HR,Seattle,2025-01-16,5,12,Female,High School,1,Hybrid,105,0.67,Two or More Races
+523,Emp 523,Analyst,IT Support,NYC,2025-05-04,8,9,Male,Master's,0,Hybrid,106,0.38,Black or African American
+524,Emp 524,Recruiter,Customer Success,NYC,2024-07-27,10,1,Non-binary,Associate,1,Hybrid,100,1.15,Native American/Alaska Native
+525,Emp 525,Recruiter,Engineering,Chicago,2020-09-04,8,4,Male,Bachelor's,1,Remote,102,5.04,Prefer not to say
+526,Emp 526,Engineer,Engineering,Austin,2023-05-30,1,7,Female,High School,0,Hybrid,102,2.31,Hispanic or Latino
+527,Emp 527,Engineer,IT Support,Atlanta,2025-03-04,6,6,Male,Bachelor's,1,Hybrid,106,0.54,Native Hawaiian/Other Pacific Islander
+528,Emp 528,Recruiter,Operations,Seattle,2024-06-17,1,6,Male,Bachelor's,1,Remote,109,1.26,Asian
+529,Emp 529,HRBP,Sales,Chicago,2022-11-23,10,8,Male,Bachelor's,0,Remote,111,2.82,White
+530,Emp 530,Analyst,Product,NYC,2023-01-31,2,9,Male,Master's,1,Remote,110,2.63,Two or More Races
+531,Emp 531,Recruiter,Marketing,Chicago,2024-06-03,3,1,Female,Bachelor's,0,Remote,108,1.3,Black or African American
+532,Emp 532,HRBP,Engineering,Chicago,2024-03-13,8,11,Female,Bachelor's,1,Remote,102,1.52,Native American/Alaska Native
+533,Emp 533,HRBP,HR,NYC,2020-04-14,9,7,Female,Bachelor's,0,Hybrid,105,5.43,Prefer not to say
+534,Emp 534,Recruiter,Product,Remote,2025-04-04,4,10,Male,Bachelor's,0,Remote,110,0.46,Hispanic or Latino
+535,Emp 535,Coordinator,Marketing,Remote,2020-05-02,5,5,Female,Bachelor's,0,Remote,108,5.38,Native Hawaiian/Other Pacific Islander
+536,Emp 536,Analyst,Engineering,Austin,2021-08-22,3,11,Male,High School,1,Remote,102,4.08,Asian
+537,Emp 537,Analyst,Facilities,Chicago,2025-06-01,1,12,Male,Bachelor's,1,Remote,103,0.3,White
+538,Emp 538,Engineer,Engineering,Austin,2022-04-08,4,6,Female,Master's,1,Remote,102,3.45,Two or More Races
+539,Emp 539,Sr Engineer,Operations,Chicago,2021-06-08,6,9,Female,Bachelor's,1,Onsite,109,4.28,Black or African American
+540,Emp 540,Sr Engineer,Product,Atlanta,2023-07-24,10,7,Non-binary,Bachelor's,1,Remote,110,2.16,Native American/Alaska Native
+541,Emp 541,HRBP,Supply Chain,Seattle,2023-05-12,2,6,Male,Associate,0,Remote,113,2.36,Prefer not to say
+542,Emp 542,Sr Engineer,Supply Chain,NYC,2022-04-26,3,7,Female,Master's,1,Remote,113,3.4,Hispanic or Latino
+543,Emp 543,HRBP,HR,Seattle,2022-04-09,5,9,Female,Master's,0,Hybrid,105,3.45,Native Hawaiian/Other Pacific Islander
+544,Emp 544,Engineer,Product,NYC,2025-02-09,10,6,Female,Bachelor's,1,Remote,110,0.61,Asian
+545,Emp 545,Manager,Legal,Austin,2021-06-27,6,1,Male,Master's,0,Remote,107,4.23,White
+546,Emp 546,Analyst,Legal,Austin,2020-01-06,10,1,Male,Bachelor's,1,Hybrid,107,5.7,Two or More Races
+547,Emp 547,Sr Analyst,Security,Chicago,2021-04-24,9,5,Male,Associate,1,Remote,112,4.41,Black or African American
+548,Emp 548,Engineer,Operations,NYC,2020-12-22,4,4,Female,Associate,0,Remote,109,4.74,Native American/Alaska Native
+549,Emp 549,Sr Engineer,Finance,Remote,2024-05-19,1,7,Female,Associate,1,Remote,104,1.34,Prefer not to say
+550,Emp 550,Coordinator,Operations,Remote,2021-05-02,6,4,Female,Bachelor's,0,Hybrid,109,4.38,Hispanic or Latino
+551,Emp 551,HRBP,HR,NYC,2020-06-28,7,11,Female,High School,1,Onsite,105,5.23,Native Hawaiian/Other Pacific Islander
+552,Emp 552,HRBP,Product,Atlanta,2021-07-27,2,4,Male,Associate,1,Hybrid,110,4.15,Asian
+553,Emp 553,Recruiter,Facilities,Atlanta,2021-10-25,6,1,Male,Associate,1,Onsite,103,3.9,White
+554,Emp 554,Engineer,Engineering,Atlanta,2024-07-23,1,6,Male,High School,1,Remote,102,1.16,Two or More Races
+555,Emp 555,HRBP,Marketing,Atlanta,2021-03-31,10,10,Male,Bachelor's,1,Remote,108,4.47,Black or African American
+556,Emp 556,Recruiter,Customer Success,Atlanta,2021-08-27,3,6,Prefer not to say,Bachelor's,1,Remote,100,4.06,Native American/Alaska Native
+557,Emp 557,Sr Analyst,Legal,Chicago,2020-05-15,6,3,Female,Master's,0,Hybrid,107,5.35,Prefer not to say
+558,Emp 558,Sr Engineer,Marketing,NYC,2024-08-01,10,1,Female,Master's,1,Remote,108,1.13,Hispanic or Latino
+559,Emp 559,Manager,Marketing,NYC,2024-10-25,7,8,Male,Bachelor's,1,Onsite,108,0.9,Native Hawaiian/Other Pacific Islander
+560,Emp 560,Engineer,Data Analytics,Seattle,2025-01-26,6,6,Non-binary,Master's,1,Remote,101,0.65,Asian
+561,Emp 561,Sr Engineer,IT Support,Austin,2025-03-10,7,7,Female,Bachelor's,1,Hybrid,106,0.53,White
+562,Emp 562,Analyst,HR,Chicago,2022-03-01,1,11,Male,Bachelor's,1,Remote,105,3.55,Two or More Races
+563,Emp 563,Sr Analyst,Marketing,Atlanta,2020-02-08,8,7,Female,Associate,0,Remote,108,5.61,Black or African American
+564,Emp 564,Manager,HR,Seattle,2020-07-24,3,10,Female,Bachelor's,0,Hybrid,105,5.16,Native American/Alaska Native
+565,Emp 565,Analyst,Product,Austin,2020-11-24,7,5,Male,High School,1,Hybrid,110,4.82,Prefer not to say
+566,Emp 566,Recruiter,Product,Austin,2023-10-01,4,5,Male,Master's,1,Hybrid,110,1.97,Hispanic or Latino
+567,Emp 567,HRBP,Marketing,Chicago,2020-08-21,1,1,Male,Bachelor's,1,Remote,108,5.08,Native Hawaiian/Other Pacific Islander
+568,Emp 568,HRBP,Sales,Remote,2021-05-25,9,10,Male,Bachelor's,0,Remote,111,4.32,Asian
+569,Emp 569,Sr Engineer,Customer Success,Chicago,2023-10-21,10,8,Female,Associate,1,Remote,100,1.91,White
+570,Emp 570,Analyst,HR,Remote,2020-08-02,4,10,Male,PhD,0,Remote,105,5.13,Two or More Races
+571,Emp 571,Recruiter,Security,Seattle,2024-04-05,7,10,Female,Bachelor's,0,Hybrid,112,1.46,Black or African American
+572,Emp 572,Analyst,Finance,Austin,2023-01-22,5,6,Male,Master's,1,Remote,104,2.66,Native American/Alaska Native
+573,Emp 573,Analyst,Marketing,Seattle,2021-11-12,6,11,Male,Bachelor's,1,Remote,108,3.85,Prefer not to say
+574,Emp 574,Manager,Marketing,Austin,2020-05-04,4,10,Male,Bachelor's,0,Hybrid,108,5.38,Hispanic or Latino
+575,Emp 575,Engineer,Data Analytics,Chicago,2022-05-15,2,4,Male,Master's,1,Hybrid,101,3.35,Native Hawaiian/Other Pacific Islander
+576,Emp 576,Engineer,Marketing,NYC,2022-09-20,7,11,Female,Bachelor's,1,Remote,108,3.0,Asian
+577,Emp 577,Recruiter,Facilities,NYC,2021-12-20,7,4,Male,Bachelor's,1,Remote,103,3.75,White
+578,Emp 578,Analyst,HR,Atlanta,2023-04-12,1,4,Non-binary,Associate,1,Onsite,105,2.44,Two or More Races
+579,Emp 579,Sr Analyst,Legal,Remote,2020-12-01,4,11,Female,Associate,1,Hybrid,107,4.8,Black or African American
+580,Emp 580,HRBP,Legal,Atlanta,2020-02-24,5,5,Female,Master's,1,Onsite,107,5.57,Native American/Alaska Native
+581,Emp 581,Sr Engineer,Sales,Austin,2024-07-21,4,11,Female,Master's,1,Hybrid,111,1.16,Prefer not to say
+582,Emp 582,Manager,HR,Seattle,2025-03-21,1,6,Male,Bachelor's,1,Hybrid,105,0.5,Hispanic or Latino
+583,Emp 583,Analyst,Facilities,Atlanta,2020-10-24,5,11,Non-binary,Master's,0,Remote,103,4.9,Native Hawaiian/Other Pacific Islander
+584,Emp 584,Sr Engineer,Operations,Remote,2022-03-09,1,4,Female,Bachelor's,1,Remote,109,3.53,Asian
+585,Emp 585,Sr Analyst,Data Analytics,Seattle,2024-06-24,6,1,Male,Bachelor's,1,Remote,101,1.24,White
+586,Emp 586,Coordinator,Engineering,Chicago,2024-07-29,2,3,Female,Bachelor's,0,Hybrid,102,1.14,Two or More Races
+587,Emp 587,Sr Engineer,Sales,Remote,2024-09-30,1,10,Female,High School,0,Hybrid,111,0.97,Black or African American
+588,Emp 588,Analyst,Sales,Atlanta,2024-04-26,1,5,Female,Master's,1,Remote,111,1.4,Native American/Alaska Native
+589,Emp 589,Sr Analyst,Operations,Chicago,2022-07-02,8,9,Male,Master's,0,Hybrid,109,3.22,Prefer not to say
+590,Emp 590,Sr Analyst,Product,Chicago,2024-02-28,9,1,Male,Associate,0,Hybrid,110,1.56,Hispanic or Latino
+591,Emp 591,Sr Engineer,Engineering,NYC,2021-06-18,7,7,Female,Bachelor's,1,Hybrid,102,4.25,Native Hawaiian/Other Pacific Islander
+592,Emp 592,Engineer,Supply Chain,Seattle,2022-08-16,10,4,Female,Master's,1,Onsite,113,3.09,Asian
+593,Emp 593,Manager,HR,Atlanta,2024-06-11,8,4,Female,Bachelor's,1,Remote,105,1.27,White
+594,Emp 594,Sr Analyst,Finance,Austin,2021-10-27,10,1,Female,Master's,0,Hybrid,104,3.9,Two or More Races
+595,Emp 595,Sr Engineer,Engineering,Seattle,2020-12-19,5,5,Non-binary,Associate,0,Hybrid,102,4.75,Black or African American
+596,Emp 596,Sr Engineer,Legal,Chicago,2023-10-07,3,3,Male,High School,1,Remote,107,1.95,Native American/Alaska Native
+597,Emp 597,Manager,Operations,NYC,2021-07-05,6,5,Male,Bachelor's,0,Onsite,109,4.21,Prefer not to say
+598,Emp 598,Engineer,Legal,Atlanta,2022-12-28,8,7,Non-binary,PhD,1,Hybrid,107,2.73,Hispanic or Latino
+599,Emp 599,Sr Analyst,Customer Success,Austin,2024-03-02,4,1,Male,Master's,1,Remote,100,1.55,Native Hawaiian/Other Pacific Islander
+600,Emp 600,Recruiter,HR,NYC,2023-01-26,8,2,Male,Bachelor's,0,Remote,105,2.65,Asian
+601,Emp 601,Analyst,Engineering,Seattle,2020-03-14,4,2,Male,Associate,1,Remote,102,5.52,White
+602,Emp 602,Manager,Facilities,NYC,2022-10-21,2,10,Male,Bachelor's,1,Remote,103,2.91,Two or More Races
+603,Emp 603,Sr Analyst,Engineering,Chicago,2024-12-08,9,2,Male,PhD,1,Remote,102,0.78,Black or African American
+604,Emp 604,Engineer,Security,Atlanta,2022-03-25,9,6,Female,Master's,0,Remote,112,3.49,Native American/Alaska Native
+605,Emp 605,Manager,Data Analytics,Remote,2020-07-12,1,3,Male,Master's,0,Remote,101,5.19,Prefer not to say
+606,Emp 606,HRBP,Facilities,Chicago,2024-02-29,5,12,Female,Bachelor's,0,Hybrid,103,1.56,Hispanic or Latino
+607,Emp 607,Analyst,HR,Austin,2021-08-22,8,10,Female,Bachelor's,1,Remote,105,4.08,Native Hawaiian/Other Pacific Islander
+608,Emp 608,Analyst,Marketing,Remote,2022-04-13,8,11,Male,Bachelor's,1,Remote,108,3.44,Asian
+609,Emp 609,Coordinator,Operations,Atlanta,2024-07-18,7,11,Male,Bachelor's,1,Remote,109,1.17,White
+610,Emp 610,Sr Engineer,Sales,Seattle,2022-03-25,8,4,Female,Bachelor's,1,Remote,111,3.49,Two or More Races
+611,Emp 611,Coordinator,Customer Success,Atlanta,2024-02-04,6,2,Female,Bachelor's,0,Hybrid,100,1.62,Black or African American
+612,Emp 612,Sr Engineer,IT Support,Remote,2020-11-28,9,11,Male,Associate,0,Onsite,106,4.81,Native American/Alaska Native
+613,Emp 613,HRBP,IT Support,Seattle,2022-03-26,9,11,Male,Bachelor's,0,Remote,106,3.49,Prefer not to say
+614,Emp 614,Recruiter,Legal,Seattle,2020-10-11,1,7,Male,Bachelor's,1,Onsite,107,4.94,Hispanic or Latino
+615,Emp 615,HRBP,Sales,Remote,2020-11-03,3,8,Female,Bachelor's,1,Remote,111,4.88,Native Hawaiian/Other Pacific Islander
+616,Emp 616,Manager,Facilities,Chicago,2024-09-20,10,2,Non-binary,PhD,0,Remote,103,1.0,Asian
+617,Emp 617,Sr Engineer,HR,Austin,2020-02-14,10,11,Female,Master's,0,Hybrid,105,5.6,White
+618,Emp 618,Recruiter,Sales,Seattle,2022-04-06,8,2,Male,Master's,1,Remote,111,3.46,Two or More Races
+619,Emp 619,Analyst,Data Analytics,Seattle,2025-01-26,6,3,Female,Bachelor's,0,Onsite,101,0.65,Black or African American
+620,Emp 620,HRBP,Sales,Seattle,2020-02-13,10,6,Female,Bachelor's,0,Remote,111,5.6,Native American/Alaska Native
+621,Emp 621,HRBP,Operations,Austin,2021-01-29,10,10,Female,Bachelor's,1,Hybrid,109,4.64,Prefer not to say
+622,Emp 622,Manager,Marketing,Austin,2020-07-09,1,10,Female,Master's,0,Hybrid,108,5.2,Hispanic or Latino
+623,Emp 623,HRBP,Engineering,Seattle,2020-08-29,8,4,Female,Master's,1,Hybrid,102,5.06,Native Hawaiian/Other Pacific Islander
+624,Emp 624,HRBP,Marketing,Austin,2020-06-02,1,11,Male,Master's,0,Remote,108,5.3,Asian
+625,Emp 625,HRBP,Legal,Austin,2023-06-30,2,12,Female,Associate,1,Hybrid,107,2.22,White
+626,Emp 626,Analyst,Finance,Austin,2024-01-09,3,3,Non-binary,Bachelor's,1,Remote,104,1.69,Two or More Races
+627,Emp 627,Recruiter,IT Support,NYC,2021-05-02,3,11,Male,Master's,1,Remote,106,4.38,Black or African American
+628,Emp 628,HRBP,Customer Success,Remote,2025-02-14,1,10,Female,Bachelor's,1,Remote,100,0.59,Native American/Alaska Native
+629,Emp 629,Coordinator,Product,Remote,2022-12-24,9,4,Female,Bachelor's,0,Remote,110,2.74,Prefer not to say
+630,Emp 630,Recruiter,Sales,Austin,2024-07-27,8,12,Male,Associate,0,Remote,111,1.15,Hispanic or Latino
+631,Emp 631,Analyst,Engineering,Seattle,2021-12-21,9,6,Female,Bachelor's,0,Hybrid,102,3.75,Native Hawaiian/Other Pacific Islander
+632,Emp 632,Engineer,IT Support,Remote,2022-03-13,10,12,Male,Master's,0,Hybrid,106,3.52,Asian
+633,Emp 633,Sr Analyst,Legal,Austin,2020-11-09,4,9,Prefer not to say,Master's,1,Remote,107,4.86,White
+634,Emp 634,Manager,Facilities,Remote,2020-11-18,1,10,Male,Associate,1,Remote,103,4.84,Two or More Races
+635,Emp 635,Engineer,IT Support,Seattle,2025-01-03,7,7,Female,Bachelor's,1,Hybrid,106,0.71,Black or African American
+636,Emp 636,Sr Engineer,Sales,Remote,2024-01-10,9,5,Non-binary,Associate,0,Remote,111,1.69,Native American/Alaska Native
+637,Emp 637,Sr Engineer,Product,Chicago,2024-09-26,2,4,Male,PhD,1,Remote,110,0.98,Prefer not to say
+638,Emp 638,Sr Engineer,Data Analytics,Chicago,2020-04-02,8,3,Female,Associate,1,Hybrid,101,5.46,Hispanic or Latino
+639,Emp 639,Analyst,Facilities,Chicago,2021-03-18,7,10,Female,Bachelor's,0,Hybrid,103,4.51,Native Hawaiian/Other Pacific Islander
+640,Emp 640,Manager,Security,Remote,2023-08-10,9,8,Female,Master's,1,Remote,112,2.11,Asian
+641,Emp 641,Engineer,Finance,Austin,2022-01-20,9,11,Female,Bachelor's,1,Onsite,104,3.66,White
+642,Emp 642,Coordinator,Finance,NYC,2023-02-09,4,10,Non-binary,Associate,0,Hybrid,104,2.61,Two or More Races
+643,Emp 643,HRBP,Operations,NYC,2024-01-18,4,2,Female,High School,1,Onsite,109,1.67,Black or African American
+644,Emp 644,Recruiter,Marketing,Austin,2022-05-09,6,3,Female,Master's,1,Hybrid,108,3.36,Native American/Alaska Native
+645,Emp 645,Analyst,Marketing,Austin,2022-02-12,2,5,Non-binary,Master's,1,Hybrid,108,3.6,Prefer not to say
+646,Emp 646,Recruiter,Operations,Austin,2025-01-29,5,1,Female,Bachelor's,1,Hybrid,109,0.64,Hispanic or Latino
+647,Emp 647,Analyst,Product,Atlanta,2021-06-29,8,3,Female,High School,0,Remote,110,4.22,Native Hawaiian/Other Pacific Islander
+648,Emp 648,Sr Engineer,Facilities,Chicago,2022-03-26,10,10,Male,Bachelor's,1,Hybrid,103,3.49,Asian
+649,Emp 649,Sr Analyst,IT Support,Chicago,2023-08-16,1,7,Female,Master's,1,Remote,106,2.09,White
+650,Emp 650,HRBP,Marketing,Austin,2022-11-16,6,1,Male,Master's,1,Onsite,108,2.84,Two or More Races
+651,Emp 651,Manager,Operations,Chicago,2023-07-07,1,6,Male,Bachelor's,1,Remote,109,2.2,Black or African American
+652,Emp 652,Coordinator,Product,Chicago,2024-11-11,1,6,Male,Master's,1,Hybrid,110,0.85,Native American/Alaska Native
+653,Emp 653,Recruiter,Legal,NYC,2024-10-21,10,3,Female,Master's,0,Remote,107,0.91,Prefer not to say
+654,Emp 654,Sr Engineer,Sales,Seattle,2023-08-08,9,1,Female,Bachelor's,1,Remote,111,2.12,Hispanic or Latino
+655,Emp 655,Recruiter,Engineering,NYC,2020-01-03,1,11,Male,PhD,1,Remote,102,5.71,Native Hawaiian/Other Pacific Islander
+656,Emp 656,Recruiter,Operations,Chicago,2020-09-28,4,6,Female,Bachelor's,0,Remote,109,4.97,Asian
+657,Emp 657,Sr Analyst,Customer Success,Atlanta,2021-11-25,5,7,Male,Master's,0,Hybrid,100,3.82,White
+658,Emp 658,Coordinator,HR,Atlanta,2020-05-24,6,5,Male,Bachelor's,1,Remote,105,5.32,Two or More Races
+659,Emp 659,Sr Engineer,Security,Remote,2021-05-21,3,11,Male,Master's,0,Hybrid,112,4.33,Black or African American
+660,Emp 660,Manager,IT Support,Remote,2023-05-29,6,9,Male,Bachelor's,1,Hybrid,106,2.31,Native American/Alaska Native
+661,Emp 661,Sr Engineer,Marketing,Remote,2024-06-25,5,6,Non-binary,Bachelor's,1,Hybrid,108,1.23,Prefer not to say
+662,Emp 662,Recruiter,Engineering,Austin,2025-01-30,10,3,Female,High School,0,Hybrid,102,0.64,Hispanic or Latino
+663,Emp 663,Sr Engineer,IT Support,Remote,2023-08-20,10,12,Female,Master's,1,Onsite,106,2.08,Native Hawaiian/Other Pacific Islander
+664,Emp 664,Analyst,Marketing,NYC,2020-10-15,7,7,Female,Associate,1,Remote,108,4.93,Asian
+665,Emp 665,Manager,Security,NYC,2022-03-19,6,1,Female,Associate,0,Onsite,112,3.5,White
+666,Emp 666,Coordinator,Engineering,NYC,2021-03-11,7,11,Male,Bachelor's,1,Remote,102,4.53,Two or More Races
+667,Emp 667,Analyst,Supply Chain,NYC,2022-10-09,1,11,Female,Bachelor's,1,Remote,113,2.95,Black or African American
+668,Emp 668,HRBP,Finance,NYC,2023-05-23,6,10,Male,Master's,0,Hybrid,104,2.33,Native American/Alaska Native
+669,Emp 669,Coordinator,Marketing,Chicago,2025-02-04,5,1,Male,Master's,1,Remote,108,0.62,Prefer not to say
+670,Emp 670,Engineer,Operations,Remote,2024-02-05,6,11,Male,High School,1,Remote,109,1.62,Hispanic or Latino
+671,Emp 671,Analyst,Finance,Remote,2022-03-08,9,4,Non-binary,Bachelor's,0,Remote,104,3.53,Native Hawaiian/Other Pacific Islander
+672,Emp 672,Sr Analyst,Legal,NYC,2020-07-30,3,3,Male,Master's,1,Remote,107,5.14,Asian
+673,Emp 673,HRBP,Security,NYC,2021-07-09,7,4,Male,Bachelor's,0,Onsite,112,4.2,White
+674,Emp 674,Coordinator,Facilities,NYC,2021-11-17,5,9,Female,Master's,0,Remote,103,3.84,Two or More Races
+675,Emp 675,Engineer,Marketing,Chicago,2022-07-07,1,2,Female,Bachelor's,1,Hybrid,108,3.2,Black or African American
+676,Emp 676,Coordinator,Operations,Seattle,2023-01-02,9,5,Male,Bachelor's,1,Remote,109,2.71,Native American/Alaska Native
+677,Emp 677,HRBP,Finance,Austin,2022-09-04,9,1,Male,Bachelor's,1,Hybrid,104,3.04,Prefer not to say
+678,Emp 678,Engineer,Engineering,NYC,2024-03-05,2,3,Female,Bachelor's,0,Remote,102,1.54,Hispanic or Latino
+679,Emp 679,Sr Analyst,Facilities,Atlanta,2022-06-30,1,3,Male,Bachelor's,1,Hybrid,103,3.22,Native Hawaiian/Other Pacific Islander
+680,Emp 680,HRBP,HR,Remote,2020-08-27,4,4,Male,High School,1,Onsite,105,5.06,Asian
+681,Emp 681,Recruiter,Supply Chain,Chicago,2021-04-25,9,5,Male,Master's,1,Onsite,113,4.4,White
+682,Emp 682,HRBP,Engineering,NYC,2023-07-30,7,1,Male,Master's,0,Remote,102,2.14,Two or More Races
+683,Emp 683,Analyst,Marketing,Seattle,2020-08-15,1,7,Female,Master's,1,Remote,108,5.1,Black or African American
+684,Emp 684,Sr Analyst,Sales,Atlanta,2024-09-27,6,8,Female,Master's,0,Remote,111,0.98,Native American/Alaska Native
+685,Emp 685,Recruiter,IT Support,Atlanta,2020-08-29,5,12,Female,Bachelor's,1,Hybrid,106,5.06,Prefer not to say
+686,Emp 686,Recruiter,Legal,Atlanta,2022-04-20,7,9,Male,Bachelor's,0,Remote,107,3.42,Hispanic or Latino
+687,Emp 687,Engineer,Data Analytics,Austin,2024-11-27,4,8,Male,Associate,1,Remote,101,0.81,Native Hawaiian/Other Pacific Islander
+688,Emp 688,HRBP,IT Support,NYC,2024-09-29,3,11,Male,Bachelor's,1,Remote,106,0.97,Asian
+689,Emp 689,Analyst,Customer Success,Atlanta,2020-09-18,4,10,Prefer not to say,Master's,1,Remote,100,5.0,White
+690,Emp 690,Coordinator,Supply Chain,NYC,2020-11-26,5,6,Female,High School,1,Remote,113,4.81,Two or More Races
+691,Emp 691,Coordinator,Customer Success,Atlanta,2022-03-13,6,8,Female,Bachelor's,1,Hybrid,100,3.52,Black or African American
+692,Emp 692,Recruiter,Product,Austin,2024-10-16,3,12,Male,Bachelor's,0,Hybrid,110,0.93,Native American/Alaska Native
+693,Emp 693,Sr Analyst,Finance,Austin,2025-05-05,8,4,Female,Associate,0,Hybrid,104,0.38,Prefer not to say
+694,Emp 694,Sr Analyst,Marketing,Chicago,2023-10-12,5,9,Female,Bachelor's,0,Hybrid,108,1.94,Hispanic or Latino
+695,Emp 695,Sr Analyst,Security,Seattle,2023-12-24,7,4,Female,Bachelor's,0,Remote,112,1.74,Native Hawaiian/Other Pacific Islander
+696,Emp 696,Analyst,IT Support,Seattle,2025-01-08,7,9,Male,Bachelor's,1,Remote,106,0.7,Asian
+697,Emp 697,Recruiter,Legal,Seattle,2023-11-05,2,4,Male,Bachelor's,1,Remote,107,1.87,White
+698,Emp 698,Analyst,Product,Atlanta,2020-10-07,5,2,Male,High School,1,Remote,110,4.95,Two or More Races
+699,Emp 699,HRBP,IT Support,Austin,2022-07-26,7,7,Male,Bachelor's,0,Onsite,106,3.15,Black or African American
+700,Emp 700,HRBP,Data Analytics,Remote,2022-09-13,6,4,Male,Bachelor's,0,Hybrid,101,3.02,Native American/Alaska Native
+701,Emp 701,Manager,Security,Atlanta,2023-04-16,1,9,Male,Bachelor's,0,Onsite,112,2.43,Prefer not to say
+702,Emp 702,Engineer,IT Support,Atlanta,2022-11-05,8,12,Female,Bachelor's,0,Onsite,106,2.87,Hispanic or Latino
+703,Emp 703,Analyst,Sales,Atlanta,2020-07-31,7,12,Non-binary,Bachelor's,0,Onsite,111,5.14,Native Hawaiian/Other Pacific Islander
+704,Emp 704,Sr Analyst,Legal,Remote,2020-03-08,3,8,Female,Bachelor's,0,Hybrid,107,5.53,Asian
+705,Emp 705,Manager,Sales,Chicago,2024-09-24,9,5,Male,Bachelor's,1,Hybrid,111,0.99,White
+706,Emp 706,Recruiter,Finance,Austin,2022-07-30,10,9,Male,Master's,0,Hybrid,104,3.14,Two or More Races
+707,Emp 707,HRBP,IT Support,Atlanta,2024-11-22,7,10,Male,Associate,0,Remote,106,0.82,Black or African American
+708,Emp 708,Sr Analyst,Engineering,Austin,2021-03-30,6,9,Female,Bachelor's,1,Remote,102,4.47,Native American/Alaska Native
+709,Emp 709,Sr Analyst,Data Analytics,Atlanta,2025-05-31,2,11,Non-binary,Bachelor's,1,Remote,101,0.3,Prefer not to say
+710,Emp 710,Analyst,Marketing,Seattle,2023-11-04,5,10,Female,Associate,1,Remote,108,1.88,Hispanic or Latino
+711,Emp 711,Manager,Security,NYC,2020-08-09,4,11,Male,Master's,1,Hybrid,112,5.11,Native Hawaiian/Other Pacific Islander
+712,Emp 712,Analyst,Product,Austin,2023-08-13,2,8,Prefer not to say,Master's,0,Hybrid,110,2.1,Asian
+713,Emp 713,Sr Engineer,Legal,Remote,2022-11-04,4,1,Female,Associate,0,Remote,107,2.87,White
+714,Emp 714,Engineer,Data Analytics,Chicago,2021-05-14,4,10,Male,Bachelor's,0,Onsite,101,4.35,Two or More Races
+715,Emp 715,Recruiter,HR,Remote,2022-03-16,2,6,Non-binary,Bachelor's,1,Remote,105,3.51,Black or African American
+716,Emp 716,Recruiter,Operations,Austin,2024-09-04,4,4,Male,Associate,0,Remote,109,1.04,Native American/Alaska Native
+717,Emp 717,Manager,Data Analytics,NYC,2024-01-22,7,2,Female,PhD,1,Remote,101,1.66,Prefer not to say
+718,Emp 718,Coordinator,Product,Remote,2023-03-18,9,1,Female,Master's,1,Onsite,110,2.51,Hispanic or Latino
+719,Emp 719,Sr Engineer,Customer Success,Chicago,2024-01-11,8,9,Non-binary,Bachelor's,1,Remote,100,1.69,Native Hawaiian/Other Pacific Islander
+720,Emp 720,Sr Analyst,HR,Remote,2022-03-06,4,3,Male,Master's,1,Onsite,105,3.54,Asian
+721,Emp 721,Sr Analyst,Supply Chain,Atlanta,2024-08-06,8,2,Male,Bachelor's,0,Hybrid,113,1.12,White
+722,Emp 722,Coordinator,Sales,Remote,2024-12-31,3,9,Female,Bachelor's,1,Onsite,111,0.72,Two or More Races
+723,Emp 723,HRBP,Customer Success,Atlanta,2022-08-26,9,4,Male,Associate,0,Hybrid,100,3.07,Black or African American
+724,Emp 724,Engineer,Customer Success,Austin,2022-08-03,3,4,Female,Bachelor's,0,Hybrid,100,3.13,Native American/Alaska Native
+725,Emp 725,Manager,Engineering,NYC,2025-03-21,9,7,Male,Bachelor's,1,Remote,102,0.5,Prefer not to say
+726,Emp 726,Engineer,IT Support,Remote,2024-08-23,3,2,Male,Master's,1,Remote,106,1.07,Hispanic or Latino
+727,Emp 727,Manager,Customer Success,Remote,2020-04-18,4,9,Male,Bachelor's,1,Hybrid,100,5.42,Native Hawaiian/Other Pacific Islander
+728,Emp 728,Coordinator,IT Support,Chicago,2022-11-08,9,1,Male,Master's,1,Remote,106,2.86,Asian
+729,Emp 729,Recruiter,Sales,Remote,2021-04-25,1,11,Male,Master's,1,Hybrid,111,4.4,White
+730,Emp 730,Coordinator,IT Support,Chicago,2024-06-10,5,1,Male,Bachelor's,1,Remote,106,1.28,Two or More Races
+731,Emp 731,Recruiter,Engineering,Seattle,2023-11-26,5,5,Female,Master's,1,Hybrid,102,1.82,Black or African American
+732,Emp 732,Analyst,Sales,Seattle,2020-02-03,9,11,Male,Associate,1,Remote,111,5.63,Native American/Alaska Native
+733,Emp 733,Sr Analyst,Data Analytics,Remote,2022-08-11,5,1,Non-binary,Master's,1,Remote,101,3.11,Prefer not to say
+734,Emp 734,Manager,Marketing,Remote,2023-02-02,8,7,Male,Master's,0,Hybrid,108,2.63,Hispanic or Latino
+735,Emp 735,Analyst,Operations,Remote,2023-11-17,7,2,Female,Bachelor's,1,Hybrid,109,1.84,Native Hawaiian/Other Pacific Islander
+736,Emp 736,Analyst,Facilities,Chicago,2020-12-11,3,3,Female,Bachelor's,0,Remote,103,4.77,Asian
+737,Emp 737,HRBP,Data Analytics,Austin,2023-12-11,8,12,Female,Associate,1,Hybrid,101,1.77,White
+738,Emp 738,Manager,IT Support,Remote,2024-02-26,3,5,Male,Bachelor's,0,Hybrid,106,1.56,Two or More Races
+739,Emp 739,Analyst,Facilities,Seattle,2022-02-10,4,7,Female,Master's,0,Remote,103,3.61,Black or African American
+740,Emp 740,Sr Analyst,IT Support,Seattle,2025-05-21,2,5,Male,PhD,1,Hybrid,106,0.33,Native American/Alaska Native
+741,Emp 741,Engineer,Customer Success,Remote,2021-12-28,8,4,Female,Master's,1,Remote,100,3.73,Prefer not to say
+742,Emp 742,Sr Engineer,Legal,Chicago,2023-04-22,4,11,Male,Bachelor's,1,Remote,107,2.41,Hispanic or Latino
+743,Emp 743,Coordinator,Finance,NYC,2021-01-26,4,1,Female,Bachelor's,1,Remote,104,4.65,Native Hawaiian/Other Pacific Islander
+744,Emp 744,Recruiter,IT Support,Austin,2020-11-24,2,7,Male,Master's,0,Remote,106,4.82,Asian
+745,Emp 745,Analyst,HR,Atlanta,2025-02-21,9,3,Female,Bachelor's,0,Remote,105,0.57,White
+746,Emp 746,Sr Engineer,Customer Success,Austin,2021-01-06,4,10,Female,Associate,1,Remote,100,4.7,Two or More Races
+747,Emp 747,Engineer,Facilities,Atlanta,2024-03-29,10,2,Non-binary,Bachelor's,1,Remote,103,1.48,Black or African American
+748,Emp 748,Engineer,Data Analytics,NYC,2022-09-25,4,9,Female,Bachelor's,1,Onsite,101,2.98,Native American/Alaska Native
+749,Emp 749,Coordinator,Supply Chain,Chicago,2024-01-25,6,1,Female,Bachelor's,1,Remote,113,1.65,Prefer not to say
+750,Emp 750,Analyst,Security,Seattle,2023-12-14,2,6,Male,Master's,0,Remote,112,1.77,Hispanic or Latino
+751,Emp 751,Manager,HR,NYC,2023-01-11,8,7,Female,Bachelor's,0,Remote,105,2.69,Native Hawaiian/Other Pacific Islander
+752,Emp 752,Sr Engineer,Security,Chicago,2023-09-25,10,9,Female,Master's,1,Remote,112,1.98,Asian
+753,Emp 753,Manager,Data Analytics,NYC,2020-04-03,8,9,Male,Master's,0,Hybrid,101,5.46,White
+754,Emp 754,Sr Analyst,Product,Chicago,2021-08-03,4,8,Prefer not to say,Bachelor's,0,Hybrid,110,4.13,Two or More Races
+755,Emp 755,Engineer,Supply Chain,Atlanta,2022-10-29,6,9,Female,Bachelor's,0,Remote,113,2.89,Black or African American
+756,Emp 756,Recruiter,Engineering,Remote,2021-06-19,6,3,Male,Associate,1,Hybrid,102,4.25,Native American/Alaska Native
+757,Emp 757,Coordinator,Data Analytics,Austin,2021-10-03,7,9,Non-binary,Master's,0,Remote,101,3.96,Prefer not to say
+758,Emp 758,Manager,Facilities,Austin,2021-05-28,6,8,Male,Bachelor's,1,Onsite,103,4.31,Hispanic or Latino
+759,Emp 759,Coordinator,Finance,Chicago,2024-08-10,10,2,Female,Associate,0,Onsite,104,1.11,Native Hawaiian/Other Pacific Islander
+760,Emp 760,Sr Engineer,Security,Austin,2020-11-04,7,11,Male,Bachelor's,0,Hybrid,112,4.87,Asian
+761,Emp 761,Engineer,Product,Austin,2021-06-23,3,3,Female,Master's,1,Onsite,110,4.24,White
+762,Emp 762,Manager,Customer Success,Austin,2021-07-30,1,2,Male,Master's,1,Onsite,100,4.14,Two or More Races
+763,Emp 763,HRBP,Finance,Remote,2020-04-29,3,1,Male,High School,0,Remote,104,5.39,Black or African American
+764,Emp 764,Analyst,Product,Seattle,2023-04-04,1,12,Male,Bachelor's,1,Remote,110,2.46,Native American/Alaska Native
+765,Emp 765,HRBP,Operations,Remote,2023-11-15,6,6,Male,Bachelor's,1,Hybrid,109,1.85,Prefer not to say
+766,Emp 766,Sr Engineer,Sales,Atlanta,2020-04-02,2,7,Male,High School,1,Remote,111,5.46,Hispanic or Latino
+767,Emp 767,Coordinator,Finance,NYC,2022-09-18,4,4,Male,Bachelor's,0,Hybrid,104,3.0,Native Hawaiian/Other Pacific Islander
+768,Emp 768,Sr Analyst,Data Analytics,Seattle,2021-03-11,9,12,Female,Bachelor's,1,Remote,101,4.53,Asian
+769,Emp 769,Coordinator,Marketing,NYC,2023-10-20,6,10,Female,Associate,0,Remote,108,1.92,White
+770,Emp 770,Sr Analyst,Operations,Chicago,2022-04-13,4,9,Male,Bachelor's,0,Hybrid,109,3.44,Two or More Races
+771,Emp 771,Recruiter,Operations,Atlanta,2020-01-27,7,5,Female,Associate,0,Remote,109,5.65,Black or African American
+772,Emp 772,Sr Engineer,Finance,Chicago,2025-01-01,10,4,Female,Associate,1,Remote,104,0.71,Native American/Alaska Native
+773,Emp 773,Sr Engineer,Operations,Austin,2020-01-31,7,8,Female,Bachelor's,1,Remote,109,5.63,Prefer not to say
+774,Emp 774,Coordinator,Operations,Remote,2020-05-22,8,3,Female,Master's,1,Hybrid,109,5.33,Hispanic or Latino
+775,Emp 775,Sr Engineer,Customer Success,Atlanta,2024-09-24,7,10,Male,High School,1,Onsite,100,0.99,Native Hawaiian/Other Pacific Islander
+776,Emp 776,Sr Engineer,Customer Success,Austin,2023-10-06,10,6,Female,Bachelor's,1,Remote,100,1.95,Asian
+777,Emp 777,HRBP,Product,Austin,2021-01-20,5,12,Female,Bachelor's,1,Remote,110,4.66,White
+778,Emp 778,HRBP,Engineering,Chicago,2021-05-28,4,2,Female,Bachelor's,1,Hybrid,102,4.31,Two or More Races
+779,Emp 779,Sr Engineer,IT Support,Atlanta,2023-04-07,7,3,Male,High School,1,Remote,106,2.45,Black or African American
+780,Emp 780,Coordinator,IT Support,Chicago,2022-02-19,8,12,Female,Bachelor's,1,Remote,106,3.58,Native American/Alaska Native
+781,Emp 781,Engineer,Operations,Atlanta,2020-07-15,10,4,Male,Bachelor's,1,Remote,109,5.18,Prefer not to say
+782,Emp 782,Recruiter,Marketing,NYC,2023-09-21,6,4,Female,Bachelor's,1,Remote,108,2.0,Hispanic or Latino
+783,Emp 783,Coordinator,Finance,Chicago,2022-05-22,10,6,Male,Bachelor's,1,Onsite,104,3.33,Native Hawaiian/Other Pacific Islander
+784,Emp 784,HRBP,Data Analytics,Atlanta,2020-10-07,3,12,Non-binary,Associate,0,Hybrid,101,4.95,Asian
+785,Emp 785,Recruiter,Data Analytics,NYC,2022-08-23,1,10,Female,Master's,1,Hybrid,101,3.07,White
+786,Emp 786,Sr Analyst,Facilities,Chicago,2024-11-15,1,5,Male,Bachelor's,1,Remote,103,0.84,Two or More Races
+787,Emp 787,Sr Analyst,IT Support,Seattle,2022-07-30,5,5,Male,Master's,0,Remote,106,3.14,Black or African American
+788,Emp 788,Sr Analyst,IT Support,NYC,2022-05-01,10,6,Male,Master's,1,Remote,106,3.39,Native American/Alaska Native
+789,Emp 789,Coordinator,Legal,Austin,2021-05-29,8,1,Male,Bachelor's,0,Remote,107,4.31,Prefer not to say
+790,Emp 790,Recruiter,Sales,Chicago,2024-02-09,5,5,Female,Master's,1,Hybrid,111,1.61,Hispanic or Latino
+791,Emp 791,HRBP,Data Analytics,Atlanta,2022-04-13,5,8,Non-binary,High School,0,Remote,101,3.44,Native Hawaiian/Other Pacific Islander
+792,Emp 792,Recruiter,Legal,Chicago,2024-12-06,1,2,Female,High School,1,Hybrid,107,0.79,Asian
+793,Emp 793,Analyst,Facilities,Austin,2023-11-07,7,9,Male,Master's,1,Hybrid,103,1.87,White
+794,Emp 794,Sr Engineer,Customer Success,Atlanta,2020-09-20,9,9,Female,Bachelor's,1,Onsite,100,5.0,Two or More Races
+795,Emp 795,Recruiter,IT Support,Atlanta,2025-04-16,4,8,Male,High School,0,Hybrid,106,0.43,Black or African American
+796,Emp 796,HRBP,HR,Chicago,2022-12-10,9,11,Female,High School,1,Remote,105,2.78,Native American/Alaska Native
+797,Emp 797,Recruiter,Operations,Atlanta,2020-11-04,1,3,Female,Master's,0,Hybrid,109,4.87,Prefer not to say
+798,Emp 798,HRBP,Finance,Seattle,2020-06-14,6,6,Non-binary,Bachelor's,0,Onsite,104,5.26,Hispanic or Latino
+799,Emp 799,Sr Analyst,Facilities,Austin,2024-12-24,1,10,Male,Bachelor's,1,Hybrid,103,0.74,Native Hawaiian/Other Pacific Islander
+800,Emp 800,HRBP,HR,Atlanta,2025-04-20,4,11,Female,Bachelor's,1,Remote,105,0.42,Asian
+801,Emp 801,Manager,Product,Seattle,2022-06-28,1,3,Male,Bachelor's,1,Remote,110,3.23,White
+802,Emp 802,Analyst,Security,Atlanta,2024-07-26,2,5,Male,Bachelor's,0,Hybrid,112,1.15,Two or More Races
+803,Emp 803,Coordinator,Legal,Remote,2021-09-18,4,1,Male,Associate,1,Onsite,107,4.0,Black or African American
+804,Emp 804,Coordinator,Supply Chain,NYC,2023-11-25,3,3,Male,Bachelor's,1,Onsite,113,1.82,Native American/Alaska Native
+805,Emp 805,Manager,HR,Atlanta,2022-01-19,4,7,Non-binary,High School,1,Hybrid,105,3.67,Prefer not to say
+806,Emp 806,Sr Analyst,Operations,Seattle,2022-01-10,3,11,Male,Associate,0,Remote,109,3.69,Hispanic or Latino
+807,Emp 807,HRBP,Operations,NYC,2020-03-12,9,11,Male,Bachelor's,1,Remote,109,5.52,Native Hawaiian/Other Pacific Islander
+808,Emp 808,Engineer,HR,Atlanta,2021-10-13,1,10,Female,Associate,0,Remote,105,3.93,Asian
+809,Emp 809,Engineer,IT Support,Atlanta,2025-01-15,9,4,Male,Master's,1,Onsite,106,0.68,White
+810,Emp 810,Manager,Sales,Seattle,2021-12-08,2,12,Male,High School,1,Remote,111,3.78,Two or More Races
+811,Emp 811,Sr Engineer,Marketing,NYC,2022-08-02,7,8,Female,Master's,0,Onsite,108,3.13,Black or African American
+812,Emp 812,Sr Analyst,Data Analytics,Remote,2020-08-10,3,10,Female,Master's,1,Hybrid,101,5.11,Native American/Alaska Native
+813,Emp 813,Manager,Sales,Atlanta,2021-02-10,1,10,Female,Associate,0,Onsite,111,4.61,Prefer not to say
+814,Emp 814,Sr Engineer,Data Analytics,Seattle,2021-05-10,9,7,Non-binary,Master's,0,Hybrid,101,4.36,Hispanic or Latino
+815,Emp 815,Analyst,Data Analytics,NYC,2021-04-08,3,12,Male,Master's,1,Remote,101,4.45,Native Hawaiian/Other Pacific Islander
+816,Emp 816,Engineer,Finance,Austin,2020-03-20,8,4,Female,Master's,1,Remote,104,5.5,Asian
+817,Emp 817,HRBP,Marketing,Chicago,2021-02-28,9,1,Male,Associate,1,Onsite,108,4.56,White
+818,Emp 818,Analyst,Security,Chicago,2020-08-12,4,8,Male,Bachelor's,0,Remote,112,5.1,Two or More Races
+819,Emp 819,Sr Engineer,Finance,Austin,2024-05-21,2,6,Male,Associate,1,Remote,104,1.33,Black or African American
+820,Emp 820,Recruiter,Data Analytics,Remote,2024-08-04,4,6,Female,PhD,0,Remote,101,1.13,Native American/Alaska Native
+821,Emp 821,Sr Analyst,Product,Atlanta,2023-02-02,7,1,Male,Bachelor's,1,Hybrid,110,2.63,Prefer not to say
+822,Emp 822,Engineer,Engineering,Atlanta,2021-12-24,1,7,Male,Master's,1,Hybrid,102,3.74,Hispanic or Latino
+823,Emp 823,Sr Engineer,Customer Success,Atlanta,2022-07-01,7,11,Male,Master's,0,Remote,100,3.22,Native Hawaiian/Other Pacific Islander
+824,Emp 824,Recruiter,Operations,Chicago,2021-01-14,2,1,Female,Bachelor's,1,Hybrid,109,4.68,Asian
+825,Emp 825,Recruiter,Sales,Chicago,2022-10-19,4,2,Male,Master's,1,Remote,111,2.92,White
+826,Emp 826,Recruiter,Security,Chicago,2025-03-17,8,9,Female,Bachelor's,1,Remote,112,0.51,Two or More Races
+827,Emp 827,Recruiter,Sales,Seattle,2025-06-06,10,5,Male,Bachelor's,0,Remote,111,0.29,Black or African American
+828,Emp 828,Engineer,IT Support,Seattle,2020-03-30,9,1,Male,Master's,0,Remote,106,5.47,Native American/Alaska Native
+829,Emp 829,Coordinator,Facilities,Remote,2024-10-28,9,3,Female,Master's,0,Remote,103,0.89,Prefer not to say
+830,Emp 830,Sr Analyst,Data Analytics,Atlanta,2020-12-12,4,2,Female,Master's,0,Onsite,101,4.77,Hispanic or Latino
+831,Emp 831,Sr Engineer,Security,Austin,2024-12-05,6,3,Male,PhD,1,Remote,112,0.79,Native Hawaiian/Other Pacific Islander
+832,Emp 832,Engineer,Legal,Remote,2023-12-04,7,8,Female,PhD,1,Hybrid,107,1.79,Asian
+833,Emp 833,Manager,Finance,Chicago,2022-04-06,8,9,Male,Bachelor's,0,Onsite,104,3.46,White
+834,Emp 834,Sr Engineer,Marketing,Remote,2021-06-11,2,11,Female,PhD,0,Remote,108,4.27,Two or More Races
+835,Emp 835,Manager,Marketing,Austin,2020-09-15,10,3,Male,Master's,1,Remote,108,5.01,Black or African American
+836,Emp 836,Analyst,Security,Austin,2023-12-05,5,2,Female,Master's,1,Remote,112,1.79,Native American/Alaska Native
+837,Emp 837,Sr Analyst,Security,Atlanta,2022-02-02,7,1,Female,Bachelor's,1,Remote,112,3.63,Prefer not to say
+838,Emp 838,Manager,IT Support,Austin,2024-04-20,6,12,Male,Bachelor's,0,Remote,106,1.42,Hispanic or Latino
+839,Emp 839,Recruiter,Security,Seattle,2020-08-30,8,1,Female,Bachelor's,1,Hybrid,112,5.05,Native Hawaiian/Other Pacific Islander
+840,Emp 840,Engineer,Supply Chain,Remote,2023-06-05,2,10,Female,Bachelor's,1,Remote,113,2.29,Asian
+841,Emp 841,Recruiter,Engineering,Austin,2021-11-09,10,3,Female,Bachelor's,0,Remote,102,3.86,White
+842,Emp 842,Coordinator,Operations,NYC,2022-10-20,4,3,Male,Associate,1,Hybrid,109,2.92,Two or More Races
+843,Emp 843,Engineer,Sales,NYC,2022-11-06,7,5,Male,PhD,1,Remote,111,2.87,Black or African American
+844,Emp 844,Coordinator,Data Analytics,Seattle,2024-09-30,3,12,Male,High School,1,Hybrid,101,0.97,Native American/Alaska Native
+845,Emp 845,HRBP,Security,Chicago,2024-01-10,2,10,Male,Master's,1,Remote,112,1.69,Prefer not to say
+846,Emp 846,Analyst,Product,Atlanta,2021-06-10,3,8,Male,Master's,0,Remote,110,4.28,Hispanic or Latino
+847,Emp 847,Sr Engineer,Legal,Chicago,2024-12-25,5,8,Male,Master's,1,Hybrid,107,0.73,Native Hawaiian/Other Pacific Islander
+848,Emp 848,Sr Engineer,HR,Seattle,2025-02-15,9,10,Male,Master's,1,Remote,105,0.59,Asian
+849,Emp 849,Analyst,Finance,Atlanta,2022-12-25,4,2,Male,Bachelor's,0,Hybrid,104,2.74,White
+850,Emp 850,Analyst,Engineering,Atlanta,2020-08-05,8,5,Female,Master's,1,Remote,102,5.12,Two or More Races
+851,Emp 851,Analyst,Legal,Atlanta,2024-10-22,3,10,Female,Bachelor's,1,Onsite,107,0.91,Black or African American
+852,Emp 852,Recruiter,Engineering,Chicago,2024-11-21,8,7,Male,Bachelor's,1,Onsite,102,0.83,Native American/Alaska Native
+853,Emp 853,Coordinator,Product,Chicago,2020-01-25,7,10,Female,Master's,0,Hybrid,110,5.65,Prefer not to say
+854,Emp 854,Sr Engineer,Sales,Austin,2022-12-26,8,4,Male,Master's,1,Hybrid,111,2.73,Hispanic or Latino
+855,Emp 855,Sr Engineer,Engineering,Chicago,2021-05-23,1,12,Female,Bachelor's,1,Onsite,102,4.33,Native Hawaiian/Other Pacific Islander
+856,Emp 856,HRBP,Customer Success,NYC,2021-09-05,8,7,Female,Master's,0,Remote,100,4.04,Asian
+857,Emp 857,Recruiter,Customer Success,Remote,2023-07-05,8,3,Male,Associate,1,Onsite,100,2.21,White
+858,Emp 858,Sr Analyst,Finance,Atlanta,2021-04-21,7,10,Female,Master's,0,Remote,104,4.41,Two or More Races
+859,Emp 859,Sr Analyst,Engineering,Remote,2023-07-25,4,4,Male,PhD,1,Hybrid,102,2.15,Black or African American
+860,Emp 860,Coordinator,Engineering,NYC,2024-12-15,7,7,Male,Associate,1,Hybrid,102,0.76,Native American/Alaska Native
+861,Emp 861,Sr Analyst,Legal,Chicago,2023-04-27,9,6,Male,High School,1,Hybrid,107,2.4,Prefer not to say
+862,Emp 862,Manager,Engineering,Remote,2020-08-19,5,11,Female,Bachelor's,1,Remote,102,5.08,Hispanic or Latino
+863,Emp 863,HRBP,Marketing,Austin,2024-10-29,2,2,Male,Associate,0,Hybrid,108,0.89,Native Hawaiian/Other Pacific Islander
+864,Emp 864,Recruiter,HR,Remote,2021-05-15,2,5,Female,Associate,1,Onsite,105,4.35,Asian
+865,Emp 865,HRBP,Sales,Atlanta,2025-03-28,7,3,Male,Master's,0,Remote,111,0.48,White
+866,Emp 866,Engineer,Customer Success,Atlanta,2022-11-24,3,4,Female,Bachelor's,1,Onsite,100,2.82,Two or More Races
+867,Emp 867,HRBP,Legal,NYC,2020-09-08,1,3,Male,Master's,1,Hybrid,107,5.03,Black or African American
+868,Emp 868,HRBP,Facilities,Seattle,2022-08-22,2,2,Non-binary,High School,1,Remote,103,3.08,Native American/Alaska Native
+869,Emp 869,Analyst,Sales,NYC,2022-05-29,8,6,Female,High School,0,Hybrid,111,3.31,Prefer not to say
+870,Emp 870,Engineer,Engineering,Remote,2022-02-15,5,6,Prefer not to say,High School,0,Remote,102,3.59,Hispanic or Latino
+871,Emp 871,Coordinator,Engineering,Austin,2020-09-07,7,3,Female,Associate,0,Remote,102,5.03,Native Hawaiian/Other Pacific Islander
+872,Emp 872,Recruiter,Product,Chicago,2023-03-26,3,6,Female,Bachelor's,1,Hybrid,110,2.49,Asian
+873,Emp 873,Engineer,Engineering,Remote,2020-06-27,5,1,Non-binary,Master's,1,Hybrid,102,5.23,White
+874,Emp 874,Coordinator,Legal,Seattle,2020-07-15,10,6,Non-binary,Bachelor's,0,Hybrid,107,5.18,Two or More Races
+875,Emp 875,Analyst,HR,Chicago,2022-12-14,4,1,Female,Bachelor's,0,Remote,105,2.77,Black or African American
+876,Emp 876,Analyst,Finance,Chicago,2020-02-14,5,10,Male,High School,0,Remote,104,5.6,Native American/Alaska Native
+877,Emp 877,Sr Analyst,Sales,Remote,2025-03-05,10,2,Male,Bachelor's,0,Hybrid,111,0.54,Prefer not to say
+878,Emp 878,Engineer,Marketing,Atlanta,2022-04-29,8,1,Male,Bachelor's,0,Remote,108,3.39,Hispanic or Latino
+879,Emp 879,Coordinator,HR,Atlanta,2021-01-07,8,1,Prefer not to say,Bachelor's,1,Hybrid,105,4.7,Native Hawaiian/Other Pacific Islander
+880,Emp 880,Coordinator,Sales,Atlanta,2023-12-06,2,12,Female,Bachelor's,1,Onsite,111,1.79,Asian
+881,Emp 881,Sr Analyst,Data Analytics,Austin,2023-11-27,2,12,Female,Bachelor's,1,Remote,101,1.81,White
+882,Emp 882,Manager,Marketing,NYC,2023-06-06,1,6,Male,Bachelor's,1,Hybrid,108,2.29,Two or More Races
+883,Emp 883,Sr Engineer,IT Support,NYC,2025-04-27,7,8,Male,Bachelor's,0,Remote,106,0.4,Black or African American
+884,Emp 884,Sr Analyst,IT Support,Remote,2024-02-04,7,7,Male,Bachelor's,1,Remote,106,1.62,Native American/Alaska Native
+885,Emp 885,Engineer,IT Support,Atlanta,2024-02-04,7,11,Male,Bachelor's,1,Remote,106,1.62,Prefer not to say
+886,Emp 886,Engineer,Security,Austin,2020-01-23,6,12,Male,Master's,1,Hybrid,112,5.66,Hispanic or Latino
+887,Emp 887,Recruiter,Customer Success,Chicago,2022-08-27,2,9,Male,Bachelor's,1,Hybrid,100,3.06,Native Hawaiian/Other Pacific Islander
+888,Emp 888,HRBP,Facilities,Austin,2025-01-31,7,5,Male,Associate,1,Remote,103,0.63,Asian
+889,Emp 889,HRBP,Operations,Chicago,2021-10-03,3,9,Non-binary,Master's,1,Onsite,109,3.96,White
+890,Emp 890,Recruiter,Sales,Chicago,2022-12-31,4,11,Male,High School,0,Onsite,111,2.72,Two or More Races
+891,Emp 891,Recruiter,IT Support,Seattle,2021-09-13,9,6,Male,High School,0,Hybrid,106,4.02,Black or African American
+892,Emp 892,Engineer,Operations,Remote,2024-07-06,2,1,Male,Bachelor's,1,Remote,109,1.2,Native American/Alaska Native
+893,Emp 893,Sr Analyst,Sales,NYC,2023-04-16,4,9,Female,Master's,1,Hybrid,111,2.43,Prefer not to say
+894,Emp 894,Sr Engineer,Operations,NYC,2020-04-12,10,5,Female,Associate,1,Remote,109,5.44,Hispanic or Latino
+895,Emp 895,Analyst,Finance,NYC,2025-02-23,5,3,Male,Bachelor's,1,Hybrid,104,0.57,Native Hawaiian/Other Pacific Islander
+896,Emp 896,Sr Engineer,Supply Chain,Chicago,2022-11-15,10,4,Male,Associate,1,Hybrid,113,2.84,Asian
+897,Emp 897,Engineer,Marketing,Austin,2021-02-04,7,5,Male,Bachelor's,1,Remote,108,4.62,White
+898,Emp 898,HRBP,Security,Seattle,2025-01-24,6,5,Female,Bachelor's,0,Onsite,112,0.65,Two or More Races
+899,Emp 899,Coordinator,HR,NYC,2024-02-12,9,7,Female,Bachelor's,1,Hybrid,105,1.6,Black or African American
+900,Emp 900,Coordinator,Finance,Austin,2023-07-12,3,7,Male,Master's,0,Onsite,104,2.19,Native American/Alaska Native
+901,Emp 901,Sr Engineer,Facilities,Seattle,2021-09-03,10,1,Female,Associate,1,Remote,103,4.04,Prefer not to say
+902,Emp 902,HRBP,Engineering,Atlanta,2021-02-24,2,7,Male,Associate,1,Remote,102,4.57,Hispanic or Latino
+903,Emp 903,Recruiter,Operations,Austin,2021-08-17,9,7,Male,Master's,1,Hybrid,109,4.09,Native Hawaiian/Other Pacific Islander
+904,Emp 904,Recruiter,Facilities,Seattle,2025-02-17,3,2,Female,PhD,1,Onsite,103,0.59,Asian
+905,Emp 905,Sr Analyst,HR,Atlanta,2021-06-27,7,1,Male,Bachelor's,1,Hybrid,105,4.23,White
+906,Emp 906,Engineer,Engineering,Remote,2022-02-08,3,7,Male,Associate,1,Hybrid,102,3.61,Two or More Races
+907,Emp 907,Analyst,Engineering,Seattle,2022-11-23,4,12,Male,Master's,0,Hybrid,102,2.82,Black or African American
+908,Emp 908,Manager,Operations,Austin,2023-10-20,6,11,Non-binary,Bachelor's,1,Onsite,109,1.92,Native American/Alaska Native
+909,Emp 909,Recruiter,Facilities,Seattle,2024-05-28,2,4,Female,Bachelor's,1,Remote,103,1.31,Prefer not to say
+910,Emp 910,Manager,Finance,Seattle,2024-03-29,1,1,Female,Bachelor's,1,Remote,104,1.48,Hispanic or Latino
+911,Emp 911,Recruiter,HR,NYC,2020-03-16,4,6,Female,Bachelor's,0,Hybrid,105,5.51,Native Hawaiian/Other Pacific Islander
+912,Emp 912,Manager,Sales,Austin,2020-11-09,2,11,Female,Master's,1,Hybrid,111,4.86,Asian
+913,Emp 913,HRBP,Legal,NYC,2021-04-12,4,6,Male,Master's,1,Hybrid,107,4.44,White
+914,Emp 914,Manager,Marketing,Austin,2023-10-30,2,6,Male,Master's,0,Hybrid,108,1.89,Two or More Races
+915,Emp 915,Engineer,HR,Chicago,2022-07-13,5,1,Male,Bachelor's,0,Hybrid,105,3.19,Black or African American
+916,Emp 916,HRBP,Engineering,Seattle,2024-03-17,5,12,Non-binary,Master's,1,Remote,102,1.51,Native American/Alaska Native
+917,Emp 917,Engineer,Customer Success,NYC,2024-05-01,10,3,Non-binary,Associate,1,Hybrid,100,1.39,Prefer not to say
+918,Emp 918,Sr Analyst,Sales,Austin,2020-12-19,2,9,Female,Bachelor's,1,Remote,111,4.75,Hispanic or Latino
+919,Emp 919,HRBP,Data Analytics,Atlanta,2024-08-10,4,4,Female,Associate,1,Remote,101,1.11,Native Hawaiian/Other Pacific Islander
+920,Emp 920,Engineer,Supply Chain,Seattle,2021-05-17,9,8,Female,Bachelor's,1,Onsite,113,4.34,Asian
+921,Emp 921,Recruiter,Legal,Chicago,2023-05-07,5,11,Female,Bachelor's,0,Hybrid,107,2.37,White
+922,Emp 922,Recruiter,IT Support,Atlanta,2021-04-15,3,7,Male,Bachelor's,1,Hybrid,106,4.43,Two or More Races
+923,Emp 923,HRBP,Facilities,Austin,2023-11-02,3,6,Male,Master's,1,Remote,103,1.88,Black or African American
+924,Emp 924,Engineer,HR,Remote,2025-01-19,8,7,Male,High School,1,Remote,105,0.67,Native American/Alaska Native
+925,Emp 925,Engineer,IT Support,Chicago,2024-12-15,3,9,Female,Master's,1,Remote,106,0.76,Prefer not to say
+926,Emp 926,Analyst,IT Support,Austin,2020-12-06,5,2,Female,Associate,0,Remote,106,4.79,Hispanic or Latino
+927,Emp 927,Sr Analyst,Facilities,Austin,2024-01-15,7,2,Male,PhD,0,Onsite,103,1.68,Native Hawaiian/Other Pacific Islander
+928,Emp 928,Manager,Legal,Austin,2021-09-20,10,11,Female,Bachelor's,1,Hybrid,107,4.0,Asian
+929,Emp 929,Sr Engineer,Security,Remote,2022-06-05,1,11,Female,Bachelor's,1,Remote,112,3.29,White
+930,Emp 930,Coordinator,Supply Chain,Atlanta,2020-11-15,2,9,Female,Associate,1,Remote,113,4.84,Two or More Races
+931,Emp 931,Sr Analyst,Supply Chain,Atlanta,2023-02-03,1,1,Female,Bachelor's,1,Hybrid,113,2.63,Black or African American
+932,Emp 932,Engineer,Product,Chicago,2024-02-27,8,10,Female,Bachelor's,0,Remote,110,1.56,Native American/Alaska Native
+933,Emp 933,Sr Analyst,Supply Chain,Remote,2020-10-30,3,8,Male,Bachelor's,0,Remote,113,4.89,Prefer not to say
+934,Emp 934,Sr Analyst,Engineering,Atlanta,2020-01-17,1,11,Female,Master's,1,Hybrid,102,5.67,Hispanic or Latino
+935,Emp 935,Sr Engineer,IT Support,NYC,2020-12-04,3,7,Male,PhD,1,Remote,106,4.79,Native Hawaiian/Other Pacific Islander
+936,Emp 936,Engineer,Operations,Atlanta,2024-11-01,2,6,Male,Bachelor's,0,Hybrid,109,0.88,Asian
+937,Emp 937,Manager,Operations,Chicago,2021-01-03,2,7,Female,Master's,0,Hybrid,109,4.71,White
+938,Emp 938,Recruiter,IT Support,NYC,2021-02-18,4,8,Female,Associate,1,Remote,106,4.58,Two or More Races
+939,Emp 939,Recruiter,Operations,Austin,2021-03-22,8,1,Female,Master's,1,Hybrid,109,4.5,Black or African American
+940,Emp 940,Sr Engineer,Engineering,NYC,2023-10-15,7,10,Female,Bachelor's,1,Hybrid,102,1.93,Native American/Alaska Native
+941,Emp 941,Recruiter,Facilities,Austin,2024-04-26,8,3,Female,Associate,1,Onsite,103,1.4,Prefer not to say
+942,Emp 942,Recruiter,Security,Chicago,2022-11-22,6,2,Female,Bachelor's,0,Remote,112,2.83,Hispanic or Latino
+943,Emp 943,HRBP,Sales,Austin,2022-08-29,9,6,Male,Bachelor's,1,Remote,111,3.06,Native Hawaiian/Other Pacific Islander
+944,Emp 944,Sr Engineer,Product,Chicago,2023-04-19,9,11,Female,Master's,0,Remote,110,2.42,Asian
+945,Emp 945,Engineer,Data Analytics,Austin,2024-10-22,3,8,Female,Bachelor's,1,Remote,101,0.91,White
+946,Emp 946,Manager,Supply Chain,Remote,2020-03-07,10,11,Female,High School,1,Remote,113,5.54,Two or More Races
+947,Emp 947,Sr Engineer,Security,NYC,2024-02-17,1,12,Female,Master's,0,Hybrid,112,1.59,Black or African American
+948,Emp 948,Analyst,Facilities,Atlanta,2022-09-06,4,3,Female,Bachelor's,1,Remote,103,3.04,Native American/Alaska Native
+949,Emp 949,Coordinator,IT Support,Seattle,2024-06-04,6,1,Female,Bachelor's,0,Remote,106,1.29,Prefer not to say
+950,Emp 950,Analyst,Sales,Austin,2023-08-13,9,4,Female,High School,1,Remote,111,2.1,Hispanic or Latino
+951,Emp 951,Manager,Sales,Seattle,2025-03-09,5,10,Male,Bachelor's,1,Hybrid,111,0.53,Native Hawaiian/Other Pacific Islander
+952,Emp 952,Engineer,Security,Chicago,2023-11-01,5,4,Non-binary,Master's,1,Remote,112,1.88,Asian
+953,Emp 953,Sr Analyst,Operations,Chicago,2022-11-30,8,3,Female,PhD,1,Remote,109,2.8,White
+954,Emp 954,Coordinator,Marketing,Atlanta,2022-05-18,2,7,Male,Bachelor's,0,Remote,108,3.34,Two or More Races
+955,Emp 955,HRBP,Product,Chicago,2020-07-14,10,5,Male,Bachelor's,0,Remote,110,5.18,Black or African American
+956,Emp 956,Coordinator,Security,Seattle,2023-08-26,8,1,Female,PhD,1,Remote,112,2.07,Native American/Alaska Native
+957,Emp 957,Recruiter,IT Support,Austin,2023-04-10,6,8,Female,Bachelor's,0,Onsite,106,2.44,Prefer not to say
+958,Emp 958,Manager,Finance,Austin,2023-03-17,3,3,Non-binary,Master's,0,Onsite,104,2.51,Hispanic or Latino
+959,Emp 959,Sr Engineer,Security,Remote,2023-01-18,3,12,Female,Master's,0,Hybrid,112,2.67,Native Hawaiian/Other Pacific Islander
+960,Emp 960,Recruiter,Data Analytics,Austin,2024-05-22,2,7,Female,Master's,0,Onsite,101,1.33,Asian
+961,Emp 961,Sr Engineer,Engineering,Austin,2024-11-28,10,7,Male,Associate,1,Hybrid,102,0.81,White
+962,Emp 962,Manager,Legal,Austin,2020-07-18,5,9,Female,Master's,1,Remote,107,5.17,Two or More Races
+963,Emp 963,Analyst,Security,Remote,2021-02-15,9,12,Male,High School,1,Onsite,112,4.59,Black or African American
+964,Emp 964,Manager,Legal,Remote,2023-02-28,10,9,Female,Master's,1,Remote,107,2.56,Native American/Alaska Native
+965,Emp 965,HRBP,Operations,Atlanta,2022-07-07,7,12,Female,Bachelor's,1,Hybrid,109,3.2,Prefer not to say
+966,Emp 966,Sr Engineer,Operations,Chicago,2023-02-15,7,11,Male,Master's,0,Hybrid,109,2.59,Hispanic or Latino
+967,Emp 967,Engineer,Security,Atlanta,2023-12-03,3,12,Female,High School,0,Remote,112,1.8,Native Hawaiian/Other Pacific Islander
+968,Emp 968,Recruiter,IT Support,Remote,2024-08-15,10,2,Male,Master's,0,Hybrid,106,1.1,Asian
+969,Emp 969,Sr Analyst,Engineering,Seattle,2023-08-15,10,9,Female,Bachelor's,1,Remote,102,2.1,White
+970,Emp 970,Manager,IT Support,Atlanta,2023-12-16,2,11,Non-binary,Bachelor's,0,Remote,106,1.76,Two or More Races
+971,Emp 971,Manager,Product,Austin,2022-01-04,8,7,Prefer not to say,Bachelor's,1,Remote,110,3.71,Black or African American
+972,Emp 972,Coordinator,Facilities,Atlanta,2025-02-11,6,4,Female,Master's,1,Remote,103,0.6,Native American/Alaska Native
+973,Emp 973,Sr Engineer,Finance,NYC,2023-10-03,3,9,Male,Bachelor's,1,Hybrid,104,1.96,Prefer not to say
+974,Emp 974,Sr Analyst,Marketing,NYC,2023-04-03,9,2,Male,Master's,1,Hybrid,108,2.46,Hispanic or Latino
+975,Emp 975,Sr Analyst,Engineering,Remote,2025-03-24,8,3,Male,Master's,0,Hybrid,102,0.49,Native Hawaiian/Other Pacific Islander
+976,Emp 976,Coordinator,Engineering,Seattle,2020-09-16,6,1,Male,Associate,1,Remote,102,5.01,Asian
+977,Emp 977,HRBP,Marketing,Remote,2023-04-21,6,8,Male,Bachelor's,0,Remote,108,2.41,White
+978,Emp 978,Coordinator,Sales,NYC,2024-06-07,9,12,Non-binary,Bachelor's,0,Remote,111,1.28,Two or More Races
+979,Emp 979,Recruiter,Data Analytics,Atlanta,2022-12-24,6,3,Female,Master's,0,Hybrid,101,2.74,Black or African American
+980,Emp 980,Recruiter,Security,Chicago,2021-07-06,1,10,Female,PhD,1,Hybrid,112,4.21,Native American/Alaska Native
+981,Emp 981,Analyst,Legal,Seattle,2020-11-06,10,7,Male,PhD,1,Remote,107,4.87,Prefer not to say
+982,Emp 982,Sr Analyst,Product,Chicago,2022-08-21,4,5,Female,Bachelor's,1,Hybrid,110,3.08,Hispanic or Latino
+983,Emp 983,Manager,Product,Chicago,2025-05-04,5,6,Female,High School,1,Remote,110,0.38,Native Hawaiian/Other Pacific Islander
+984,Emp 984,Coordinator,Operations,Austin,2025-02-02,9,6,Male,Master's,1,Remote,109,0.63,Asian
+985,Emp 985,HRBP,Operations,Remote,2024-02-22,7,5,Female,Master's,0,Hybrid,109,1.57,White
+986,Emp 986,Manager,Supply Chain,NYC,2024-11-13,6,11,Female,Master's,1,Remote,113,0.85,Two or More Races
+987,Emp 987,Engineer,Product,Chicago,2020-04-04,3,8,Female,High School,1,Remote,110,5.46,Black or African American
+988,Emp 988,Manager,Legal,Austin,2025-05-21,7,11,Male,High School,1,Remote,107,0.33,Native American/Alaska Native
+989,Emp 989,Coordinator,Supply Chain,Chicago,2022-04-03,4,3,Female,High School,0,Remote,113,3.46,Prefer not to say
+990,Emp 990,HRBP,Data Analytics,Atlanta,2021-11-10,8,2,Male,Associate,1,Remote,101,3.86,Hispanic or Latino
+991,Emp 991,Recruiter,Product,Chicago,2022-01-14,2,1,Female,Master's,1,Remote,110,3.68,Native Hawaiian/Other Pacific Islander
+992,Emp 992,Manager,HR,Chicago,2020-01-24,8,12,Male,Master's,1,Hybrid,105,5.65,Asian
+993,Emp 993,Recruiter,Legal,Atlanta,2020-04-11,1,8,Male,Associate,1,Hybrid,107,5.44,White
+994,Emp 994,Recruiter,Finance,Chicago,2024-03-09,6,7,Prefer not to say,Master's,1,Onsite,104,1.53,Two or More Races
+995,Emp 995,Analyst,Data Analytics,NYC,2024-07-18,3,11,Female,Associate,0,Remote,101,1.17,Black or African American
+996,Emp 996,Coordinator,Facilities,NYC,2024-05-13,5,2,Male,Bachelor's,0,Hybrid,103,1.35,Native American/Alaska Native
+997,Emp 997,Sr Engineer,Data Analytics,Austin,2020-06-06,8,4,Female,Master's,0,Remote,101,5.29,Prefer not to say
+998,Emp 998,Sr Engineer,Security,Remote,2025-02-28,9,3,Male,Master's,1,Hybrid,112,0.56,Hispanic or Latino
+999,Emp 999,Analyst,Operations,Atlanta,2020-04-16,4,8,Male,Associate,1,Remote,109,5.43,Native Hawaiian/Other Pacific Islander
+1000,Emp 1000,Sr Engineer,Sales,Seattle,2022-09-15,9,6,Male,Bachelor's,1,Hybrid,111,3.01,Asian

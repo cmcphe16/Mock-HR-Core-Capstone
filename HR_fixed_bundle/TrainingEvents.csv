@@ -1,0 +1,1991 @@
+employee_id,course_code,course_name,score
+1,SEC-101,Security Awareness,77
+1,HR-105,Workplace Harassment Prevention,77
+1,DA-110,Intro to Data Analytics,74
+2,SEC-101,Security Awareness,88
+2,CL-130,Cloud Fundamentals,83
+2,HR-105,Workplace Harassment Prevention,71
+3,SEC-101,Security Awareness,76
+4,CL-130,Cloud Fundamentals,89
+5,CL-130,Cloud Fundamentals,76
+6,HR-105,Workplace Harassment Prevention,77
+6,CL-130,Cloud Fundamentals,84
+6,CS-150,Customer Success Foundations,88
+7,SEC-101,Security Awareness,92
+7,PM-200,Project Management Basics,83
+8,DA-110,Intro to Data Analytics,76
+8,PM-200,Project Management Basics,100
+9,SEC-101,Security Awareness,82
+9,HR-105,Workplace Harassment Prevention,73
+10,DA-110,Intro to Data Analytics,78
+10,CL-130,Cloud Fundamentals,95
+11,HR-105,Workplace Harassment Prevention,84
+12,SEC-101,Security Awareness,87
+12,CS-150,Customer Success Foundations,79
+12,HR-105,Workplace Harassment Prevention,96
+13,CL-130,Cloud Fundamentals,92
+13,DA-110,Intro to Data Analytics,72
+13,PM-200,Project Management Basics,71
+14,PM-200,Project Management Basics,97
+14,DA-110,Intro to Data Analytics,77
+14,SEC-101,Security Awareness,97
+15,CS-150,Customer Success Foundations,78
+16,HR-105,Workplace Harassment Prevention,75
+16,DA-110,Intro to Data Analytics,81
+17,PM-200,Project Management Basics,92
+17,DA-110,Intro to Data Analytics,99
+18,HR-105,Workplace Harassment Prevention,87
+18,SEC-101,Security Awareness,93
+18,PM-200,Project Management Basics,77
+19,CS-150,Customer Success Foundations,82
+20,HR-105,Workplace Harassment Prevention,77
+20,CL-130,Cloud Fundamentals,91
+21,SEC-101,Security Awareness,96
+21,PM-200,Project Management Basics,71
+22,CS-150,Customer Success Foundations,72
+22,DA-110,Intro to Data Analytics,76
+23,HR-105,Workplace Harassment Prevention,90
+23,DA-110,Intro to Data Analytics,85
+23,PM-200,Project Management Basics,82
+24,CS-150,Customer Success Foundations,74
+24,PM-200,Project Management Basics,77
+24,DA-110,Intro to Data Analytics,93
+25,CL-130,Cloud Fundamentals,98
+25,DA-110,Intro to Data Analytics,88
+25,CS-150,Customer Success Foundations,82
+26,PM-200,Project Management Basics,86
+26,HR-105,Workplace Harassment Prevention,85
+27,SEC-101,Security Awareness,97
+28,PM-200,Project Management Basics,90
+29,HR-105,Workplace Harassment Prevention,83
+30,SEC-101,Security Awareness,89
+30,CS-150,Customer Success Foundations,84
+30,CL-130,Cloud Fundamentals,86
+31,CL-130,Cloud Fundamentals,91
+31,SEC-101,Security Awareness,93
+32,HR-105,Workplace Harassment Prevention,98
+33,DA-110,Intro to Data Analytics,79
+33,HR-105,Workplace Harassment Prevention,83
+33,SEC-101,Security Awareness,75
+34,SEC-101,Security Awareness,86
+34,DA-110,Intro to Data Analytics,94
+35,CL-130,Cloud Fundamentals,99
+36,HR-105,Workplace Harassment Prevention,79
+37,CL-130,Cloud Fundamentals,74
+37,HR-105,Workplace Harassment Prevention,81
+37,PM-200,Project Management Basics,94
+38,CL-130,Cloud Fundamentals,100
+39,SEC-101,Security Awareness,85
+39,CL-130,Cloud Fundamentals,70
+39,DA-110,Intro to Data Analytics,73
+40,DA-110,Intro to Data Analytics,71
+40,PM-200,Project Management Basics,77
+41,SEC-101,Security Awareness,96
+41,HR-105,Workplace Harassment Prevention,72
+41,CS-150,Customer Success Foundations,94
+42,PM-200,Project Management Basics,100
+42,HR-105,Workplace Harassment Prevention,87
+42,CS-150,Customer Success Foundations,75
+43,CL-130,Cloud Fundamentals,83
+43,HR-105,Workplace Harassment Prevention,100
+44,CL-130,Cloud Fundamentals,94
+45,HR-105,Workplace Harassment Prevention,82
+45,PM-200,Project Management Basics,91
+45,DA-110,Intro to Data Analytics,90
+46,CS-150,Customer Success Foundations,84
+46,CL-130,Cloud Fundamentals,73
+47,PM-200,Project Management Basics,72
+48,SEC-101,Security Awareness,87
+48,CL-130,Cloud Fundamentals,77
+49,PM-200,Project Management Basics,92
+49,SEC-101,Security Awareness,90
+49,CL-130,Cloud Fundamentals,71
+50,SEC-101,Security Awareness,98
+51,DA-110,Intro to Data Analytics,72
+52,PM-200,Project Management Basics,76
+52,DA-110,Intro to Data Analytics,87
+52,CS-150,Customer Success Foundations,74
+53,CL-130,Cloud Fundamentals,77
+53,HR-105,Workplace Harassment Prevention,95
+53,CS-150,Customer Success Foundations,85
+54,PM-200,Project Management Basics,73
+54,SEC-101,Security Awareness,91
+55,DA-110,Intro to Data Analytics,83
+55,CS-150,Customer Success Foundations,84
+56,SEC-101,Security Awareness,82
+56,HR-105,Workplace Harassment Prevention,93
+56,CL-130,Cloud Fundamentals,80
+57,PM-200,Project Management Basics,76
+58,CL-130,Cloud Fundamentals,84
+59,CS-150,Customer Success Foundations,75
+60,CS-150,Customer Success Foundations,97
+60,PM-200,Project Management Basics,99
+61,CS-150,Customer Success Foundations,95
+62,SEC-101,Security Awareness,72
+62,HR-105,Workplace Harassment Prevention,99
+62,CL-130,Cloud Fundamentals,94
+63,PM-200,Project Management Basics,83
+64,CS-150,Customer Success Foundations,97
+64,PM-200,Project Management Basics,82
+65,PM-200,Project Management Basics,82
+66,CS-150,Customer Success Foundations,78
+67,DA-110,Intro to Data Analytics,92
+67,CS-150,Customer Success Foundations,100
+68,CL-130,Cloud Fundamentals,76
+68,CS-150,Customer Success Foundations,79
+68,PM-200,Project Management Basics,76
+69,CL-130,Cloud Fundamentals,93
+70,SEC-101,Security Awareness,71
+70,DA-110,Intro to Data Analytics,88
+70,HR-105,Workplace Harassment Prevention,85
+71,CL-130,Cloud Fundamentals,100
+71,PM-200,Project Management Basics,86
+71,SEC-101,Security Awareness,72
+72,SEC-101,Security Awareness,89
+73,HR-105,Workplace Harassment Prevention,97
+74,CS-150,Customer Success Foundations,73
+75,PM-200,Project Management Basics,89
+75,CL-130,Cloud Fundamentals,72
+75,SEC-101,Security Awareness,83
+76,CL-130,Cloud Fundamentals,99
+76,HR-105,Workplace Harassment Prevention,78
+76,DA-110,Intro to Data Analytics,76
+77,HR-105,Workplace Harassment Prevention,78
+77,DA-110,Intro to Data Analytics,82
+77,PM-200,Project Management Basics,74
+78,HR-105,Workplace Harassment Prevention,80
+78,DA-110,Intro to Data Analytics,99
+78,CS-150,Customer Success Foundations,94
+79,SEC-101,Security Awareness,84
+80,CL-130,Cloud Fundamentals,87
+80,SEC-101,Security Awareness,76
+80,HR-105,Workplace Harassment Prevention,86
+81,PM-200,Project Management Basics,98
+81,DA-110,Intro to Data Analytics,72
+82,DA-110,Intro to Data Analytics,79
+83,CS-150,Customer Success Foundations,96
+84,HR-105,Workplace Harassment Prevention,91
+84,DA-110,Intro to Data Analytics,96
+84,SEC-101,Security Awareness,87
+85,HR-105,Workplace Harassment Prevention,100
+85,SEC-101,Security Awareness,98
+86,DA-110,Intro to Data Analytics,73
+87,HR-105,Workplace Harassment Prevention,87
+88,DA-110,Intro to Data Analytics,79
+89,PM-200,Project Management Basics,91
+89,DA-110,Intro to Data Analytics,90
+89,HR-105,Workplace Harassment Prevention,97
+90,CL-130,Cloud Fundamentals,78
+90,CS-150,Customer Success Foundations,98
+91,SEC-101,Security Awareness,90
+92,DA-110,Intro to Data Analytics,70
+92,SEC-101,Security Awareness,80
+93,HR-105,Workplace Harassment Prevention,78
+94,HR-105,Workplace Harassment Prevention,84
+95,HR-105,Workplace Harassment Prevention,73
+95,CS-150,Customer Success Foundations,72
+95,SEC-101,Security Awareness,100
+96,PM-200,Project Management Basics,96
+96,CL-130,Cloud Fundamentals,81
+96,SEC-101,Security Awareness,88
+97,PM-200,Project Management Basics,71
+97,CS-150,Customer Success Foundations,79
+97,HR-105,Workplace Harassment Prevention,81
+98,DA-110,Intro to Data Analytics,76
+99,PM-200,Project Management Basics,94
+99,SEC-101,Security Awareness,87
+99,DA-110,Intro to Data Analytics,98
+100,CL-130,Cloud Fundamentals,99
+100,PM-200,Project Management Basics,99
+101,PM-200,Project Management Basics,95
+102,CS-150,Customer Success Foundations,70
+103,HR-105,Workplace Harassment Prevention,99
+104,CS-150,Customer Success Foundations,78
+104,PM-200,Project Management Basics,75
+105,SEC-101,Security Awareness,97
+105,CS-150,Customer Success Foundations,85
+105,HR-105,Workplace Harassment Prevention,77
+106,CS-150,Customer Success Foundations,81
+107,PM-200,Project Management Basics,70
+107,HR-105,Workplace Harassment Prevention,91
+108,CS-150,Customer Success Foundations,80
+109,SEC-101,Security Awareness,81
+109,DA-110,Intro to Data Analytics,90
+110,CS-150,Customer Success Foundations,100
+110,CL-130,Cloud Fundamentals,70
+110,DA-110,Intro to Data Analytics,73
+111,PM-200,Project Management Basics,100
+111,CL-130,Cloud Fundamentals,78
+112,SEC-101,Security Awareness,89
+113,DA-110,Intro to Data Analytics,83
+113,HR-105,Workplace Harassment Prevention,89
+114,SEC-101,Security Awareness,78
+114,CS-150,Customer Success Foundations,71
+114,PM-200,Project Management Basics,92
+115,SEC-101,Security Awareness,99
+115,CL-130,Cloud Fundamentals,95
+116,HR-105,Workplace Harassment Prevention,83
+116,PM-200,Project Management Basics,72
+116,DA-110,Intro to Data Analytics,100
+117,DA-110,Intro to Data Analytics,91
+117,CL-130,Cloud Fundamentals,97
+117,HR-105,Workplace Harassment Prevention,73
+118,DA-110,Intro to Data Analytics,91
+118,CL-130,Cloud Fundamentals,83
+118,HR-105,Workplace Harassment Prevention,80
+119,HR-105,Workplace Harassment Prevention,87
+119,DA-110,Intro to Data Analytics,74
+120,CS-150,Customer Success Foundations,91
+121,HR-105,Workplace Harassment Prevention,89
+121,PM-200,Project Management Basics,88
+122,CS-150,Customer Success Foundations,96
+122,CL-130,Cloud Fundamentals,70
+123,DA-110,Intro to Data Analytics,83
+123,PM-200,Project Management Basics,95
+124,CL-130,Cloud Fundamentals,84
+124,DA-110,Intro to Data Analytics,84
+124,CS-150,Customer Success Foundations,91
+125,CL-130,Cloud Fundamentals,85
+126,PM-200,Project Management Basics,86
+126,SEC-101,Security Awareness,91
+126,DA-110,Intro to Data Analytics,90
+127,DA-110,Intro to Data Analytics,91
+127,SEC-101,Security Awareness,79
+127,PM-200,Project Management Basics,77
+128,PM-200,Project Management Basics,70
+129,PM-200,Project Management Basics,85
+130,SEC-101,Security Awareness,98
+130,CS-150,Customer Success Foundations,90
+130,CL-130,Cloud Fundamentals,88
+131,HR-105,Workplace Harassment Prevention,92
+132,CS-150,Customer Success Foundations,77
+132,HR-105,Workplace Harassment Prevention,74
+133,HR-105,Workplace Harassment Prevention,94
+133,SEC-101,Security Awareness,83
+133,CL-130,Cloud Fundamentals,77
+134,HR-105,Workplace Harassment Prevention,86
+135,SEC-101,Security Awareness,77
+135,CL-130,Cloud Fundamentals,99
+136,CS-150,Customer Success Foundations,74
+137,HR-105,Workplace Harassment Prevention,87
+137,CL-130,Cloud Fundamentals,89
+138,CS-150,Customer Success Foundations,96
+138,CL-130,Cloud Fundamentals,93
+139,CS-150,Customer Success Foundations,98
+139,CL-130,Cloud Fundamentals,75
+139,HR-105,Workplace Harassment Prevention,93
+140,CS-150,Customer Success Foundations,94
+140,DA-110,Intro to Data Analytics,77
+141,DA-110,Intro to Data Analytics,90
+141,CL-130,Cloud Fundamentals,77
+141,CS-150,Customer Success Foundations,78
+142,SEC-101,Security Awareness,77
+142,DA-110,Intro to Data Analytics,78
+143,DA-110,Intro to Data Analytics,72
+143,CL-130,Cloud Fundamentals,74
+144,PM-200,Project Management Basics,82
+145,PM-200,Project Management Basics,83
+145,HR-105,Workplace Harassment Prevention,83
+145,SEC-101,Security Awareness,80
+146,CS-150,Customer Success Foundations,76
+146,HR-105,Workplace Harassment Prevention,96
+146,SEC-101,Security Awareness,83
+147,CL-130,Cloud Fundamentals,97
+147,SEC-101,Security Awareness,98
+148,CS-150,Customer Success Foundations,100
+148,HR-105,Workplace Harassment Prevention,81
+148,SEC-101,Security Awareness,79
+149,CS-150,Customer Success Foundations,93
+149,CL-130,Cloud Fundamentals,93
+150,CL-130,Cloud Fundamentals,77
+150,PM-200,Project Management Basics,78
+150,CS-150,Customer Success Foundations,83
+151,SEC-101,Security Awareness,80
+151,CS-150,Customer Success Foundations,91
+152,CS-150,Customer Success Foundations,99
+152,PM-200,Project Management Basics,74
+152,HR-105,Workplace Harassment Prevention,89
+153,SEC-101,Security Awareness,72
+153,CS-150,Customer Success Foundations,90
+153,HR-105,Workplace Harassment Prevention,83
+154,CS-150,Customer Success Foundations,75
+155,DA-110,Intro to Data Analytics,82
+156,PM-200,Project Management Basics,80
+156,CS-150,Customer Success Foundations,80
+157,DA-110,Intro to Data Analytics,78
+157,CS-150,Customer Success Foundations,96
+158,CS-150,Customer Success Foundations,70
+159,CL-130,Cloud Fundamentals,77
+159,SEC-101,Security Awareness,90
+159,DA-110,Intro to Data Analytics,72
+160,SEC-101,Security Awareness,76
+160,HR-105,Workplace Harassment Prevention,96
+160,PM-200,Project Management Basics,70
+161,PM-200,Project Management Basics,85
+161,HR-105,Workplace Harassment Prevention,91
+161,CL-130,Cloud Fundamentals,73
+162,PM-200,Project Management Basics,94
+162,CS-150,Customer Success Foundations,81
+162,DA-110,Intro to Data Analytics,75
+163,CL-130,Cloud Fundamentals,100
+163,SEC-101,Security Awareness,79
+163,PM-200,Project Management Basics,73
+164,SEC-101,Security Awareness,82
+164,DA-110,Intro to Data Analytics,100
+164,CS-150,Customer Success Foundations,92
+165,SEC-101,Security Awareness,88
+166,HR-105,Workplace Harassment Prevention,92
+166,PM-200,Project Management Basics,94
+166,SEC-101,Security Awareness,79
+167,CL-130,Cloud Fundamentals,81
+167,SEC-101,Security Awareness,87
+167,HR-105,Workplace Harassment Prevention,83
+168,DA-110,Intro to Data Analytics,70
+168,SEC-101,Security Awareness,97
+168,HR-105,Workplace Harassment Prevention,83
+169,SEC-101,Security Awareness,100
+169,CS-150,Customer Success Foundations,81
+170,CS-150,Customer Success Foundations,75
+170,PM-200,Project Management Basics,93
+170,HR-105,Workplace Harassment Prevention,86
+171,DA-110,Intro to Data Analytics,84
+171,CL-130,Cloud Fundamentals,83
+171,CS-150,Customer Success Foundations,96
+172,CL-130,Cloud Fundamentals,97
+172,DA-110,Intro to Data Analytics,77
+172,HR-105,Workplace Harassment Prevention,96
+173,DA-110,Intro to Data Analytics,98
+174,PM-200,Project Management Basics,88
+174,CS-150,Customer Success Foundations,89
+175,CS-150,Customer Success Foundations,85
+175,DA-110,Intro to Data Analytics,97
+175,SEC-101,Security Awareness,80
+176,CS-150,Customer Success Foundations,76
+177,DA-110,Intro to Data Analytics,78
+177,HR-105,Workplace Harassment Prevention,98
+178,HR-105,Workplace Harassment Prevention,86
+178,DA-110,Intro to Data Analytics,100
+178,SEC-101,Security Awareness,76
+179,PM-200,Project Management Basics,93
+180,CS-150,Customer Success Foundations,94
+180,CL-130,Cloud Fundamentals,77
+181,CS-150,Customer Success Foundations,95
+181,HR-105,Workplace Harassment Prevention,70
+181,CL-130,Cloud Fundamentals,72
+182,PM-200,Project Management Basics,92
+182,CS-150,Customer Success Foundations,77
+183,HR-105,Workplace Harassment Prevention,81
+183,CL-130,Cloud Fundamentals,85
+184,CL-130,Cloud Fundamentals,93
+184,DA-110,Intro to Data Analytics,87
+184,CS-150,Customer Success Foundations,80
+185,HR-105,Workplace Harassment Prevention,78
+185,CS-150,Customer Success Foundations,79
+186,PM-200,Project Management Basics,93
+186,SEC-101,Security Awareness,76
+187,SEC-101,Security Awareness,100
+187,CL-130,Cloud Fundamentals,94
+188,PM-200,Project Management Basics,93
+188,HR-105,Workplace Harassment Prevention,85
+188,CL-130,Cloud Fundamentals,78
+189,CL-130,Cloud Fundamentals,73
+189,HR-105,Workplace Harassment Prevention,96
+189,DA-110,Intro to Data Analytics,76
+190,PM-200,Project Management Basics,75
+190,DA-110,Intro to Data Analytics,79
+191,HR-105,Workplace Harassment Prevention,87
+192,DA-110,Intro to Data Analytics,71
+193,CL-130,Cloud Fundamentals,79
+194,PM-200,Project Management Basics,97
+194,CS-150,Customer Success Foundations,70
+194,SEC-101,Security Awareness,88
+195,CS-150,Customer Success Foundations,84
+195,HR-105,Workplace Harassment Prevention,80
+196,SEC-101,Security Awareness,78
+197,SEC-101,Security Awareness,82
+197,HR-105,Workplace Harassment Prevention,85
+198,CL-130,Cloud Fundamentals,90
+199,SEC-101,Security Awareness,95
+199,PM-200,Project Management Basics,88
+199,CL-130,Cloud Fundamentals,100
+200,SEC-101,Security Awareness,73
+200,PM-200,Project Management Basics,87
+201,CL-130,Cloud Fundamentals,95
+201,HR-105,Workplace Harassment Prevention,89
+202,CL-130,Cloud Fundamentals,82
+203,CS-150,Customer Success Foundations,97
+203,DA-110,Intro to Data Analytics,88
+204,DA-110,Intro to Data Analytics,89
+204,CL-130,Cloud Fundamentals,71
+205,HR-105,Workplace Harassment Prevention,90
+205,SEC-101,Security Awareness,76
+205,PM-200,Project Management Basics,78
+206,SEC-101,Security Awareness,75
+206,PM-200,Project Management Basics,87
+206,CL-130,Cloud Fundamentals,72
+207,SEC-101,Security Awareness,83
+208,HR-105,Workplace Harassment Prevention,85
+208,CL-130,Cloud Fundamentals,79
+209,PM-200,Project Management Basics,79
+210,DA-110,Intro to Data Analytics,91
+210,CS-150,Customer Success Foundations,77
+210,SEC-101,Security Awareness,99
+211,HR-105,Workplace Harassment Prevention,91
+211,CL-130,Cloud Fundamentals,95
+212,CS-150,Customer Success Foundations,73
+213,PM-200,Project Management Basics,96
+213,HR-105,Workplace Harassment Prevention,74
+213,DA-110,Intro to Data Analytics,72
+214,PM-200,Project Management Basics,95
+215,CL-130,Cloud Fundamentals,99
+215,HR-105,Workplace Harassment Prevention,79
+216,SEC-101,Security Awareness,92
+216,CS-150,Customer Success Foundations,79
+217,CS-150,Customer Success Foundations,84
+217,DA-110,Intro to Data Analytics,72
+217,HR-105,Workplace Harassment Prevention,89
+218,CS-150,Customer Success Foundations,93
+219,CL-130,Cloud Fundamentals,70
+219,DA-110,Intro to Data Analytics,72
+220,HR-105,Workplace Harassment Prevention,96
+221,CL-130,Cloud Fundamentals,88
+221,SEC-101,Security Awareness,71
+221,DA-110,Intro to Data Analytics,94
+222,CS-150,Customer Success Foundations,86
+223,CS-150,Customer Success Foundations,88
+223,DA-110,Intro to Data Analytics,83
+223,PM-200,Project Management Basics,90
+224,SEC-101,Security Awareness,81
+224,CS-150,Customer Success Foundations,83
+225,DA-110,Intro to Data Analytics,97
+225,SEC-101,Security Awareness,75
+226,CS-150,Customer Success Foundations,79
+226,HR-105,Workplace Harassment Prevention,91
+227,CL-130,Cloud Fundamentals,84
+227,SEC-101,Security Awareness,72
+228,DA-110,Intro to Data Analytics,73
+228,HR-105,Workplace Harassment Prevention,94
+229,CL-130,Cloud Fundamentals,91
+229,SEC-101,Security Awareness,97
+230,CS-150,Customer Success Foundations,76
+230,HR-105,Workplace Harassment Prevention,86
+230,SEC-101,Security Awareness,81
+231,CS-150,Customer Success Foundations,76
+231,HR-105,Workplace Harassment Prevention,78
+231,SEC-101,Security Awareness,87
+232,DA-110,Intro to Data Analytics,84
+233,CS-150,Customer Success Foundations,90
+233,SEC-101,Security Awareness,89
+233,CL-130,Cloud Fundamentals,95
+234,HR-105,Workplace Harassment Prevention,75
+235,CL-130,Cloud Fundamentals,87
+235,SEC-101,Security Awareness,83
+236,PM-200,Project Management Basics,96
+237,CS-150,Customer Success Foundations,100
+238,HR-105,Workplace Harassment Prevention,96
+239,CS-150,Customer Success Foundations,99
+240,DA-110,Intro to Data Analytics,83
+240,CL-130,Cloud Fundamentals,96
+240,HR-105,Workplace Harassment Prevention,85
+241,PM-200,Project Management Basics,87
+241,CS-150,Customer Success Foundations,74
+242,PM-200,Project Management Basics,86
+242,CL-130,Cloud Fundamentals,93
+243,SEC-101,Security Awareness,78
+244,DA-110,Intro to Data Analytics,78
+244,CL-130,Cloud Fundamentals,96
+245,DA-110,Intro to Data Analytics,93
+246,CL-130,Cloud Fundamentals,91
+246,HR-105,Workplace Harassment Prevention,85
+247,CS-150,Customer Success Foundations,87
+248,DA-110,Intro to Data Analytics,87
+248,HR-105,Workplace Harassment Prevention,94
+249,CS-150,Customer Success Foundations,97
+249,HR-105,Workplace Harassment Prevention,76
+249,DA-110,Intro to Data Analytics,92
+250,CL-130,Cloud Fundamentals,82
+251,CS-150,Customer Success Foundations,71
+252,HR-105,Workplace Harassment Prevention,92
+252,CS-150,Customer Success Foundations,99
+253,CS-150,Customer Success Foundations,85
+253,PM-200,Project Management Basics,100
+254,PM-200,Project Management Basics,86
+255,DA-110,Intro to Data Analytics,73
+255,SEC-101,Security Awareness,86
+255,CS-150,Customer Success Foundations,99
+256,SEC-101,Security Awareness,83
+256,PM-200,Project Management Basics,97
+257,PM-200,Project Management Basics,95
+257,SEC-101,Security Awareness,78
+257,CS-150,Customer Success Foundations,80
+258,HR-105,Workplace Harassment Prevention,97
+258,CS-150,Customer Success Foundations,80
+258,SEC-101,Security Awareness,97
+259,CL-130,Cloud Fundamentals,90
+259,CS-150,Customer Success Foundations,92
+259,DA-110,Intro to Data Analytics,98
+260,CL-130,Cloud Fundamentals,89
+260,SEC-101,Security Awareness,72
+261,HR-105,Workplace Harassment Prevention,91
+262,PM-200,Project Management Basics,83
+262,SEC-101,Security Awareness,73
+263,HR-105,Workplace Harassment Prevention,75
+263,SEC-101,Security Awareness,92
+263,CS-150,Customer Success Foundations,79
+264,SEC-101,Security Awareness,80
+265,DA-110,Intro to Data Analytics,81
+266,CS-150,Customer Success Foundations,77
+266,PM-200,Project Management Basics,86
+267,CL-130,Cloud Fundamentals,75
+267,PM-200,Project Management Basics,75
+268,CL-130,Cloud Fundamentals,97
+269,CL-130,Cloud Fundamentals,85
+269,PM-200,Project Management Basics,99
+270,PM-200,Project Management Basics,90
+270,HR-105,Workplace Harassment Prevention,78
+270,CS-150,Customer Success Foundations,84
+271,HR-105,Workplace Harassment Prevention,98
+271,SEC-101,Security Awareness,95
+272,DA-110,Intro to Data Analytics,75
+272,CL-130,Cloud Fundamentals,72
+273,DA-110,Intro to Data Analytics,79
+273,CL-130,Cloud Fundamentals,90
+274,HR-105,Workplace Harassment Prevention,84
+274,DA-110,Intro to Data Analytics,97
+275,PM-200,Project Management Basics,97
+275,CS-150,Customer Success Foundations,85
+276,PM-200,Project Management Basics,82
+277,DA-110,Intro to Data Analytics,92
+277,CL-130,Cloud Fundamentals,79
+277,HR-105,Workplace Harassment Prevention,70
+278,CS-150,Customer Success Foundations,88
+278,DA-110,Intro to Data Analytics,97
+278,SEC-101,Security Awareness,91
+279,SEC-101,Security Awareness,96
+279,CL-130,Cloud Fundamentals,98
+279,CS-150,Customer Success Foundations,98
+280,PM-200,Project Management Basics,95
+280,CL-130,Cloud Fundamentals,81
+281,HR-105,Workplace Harassment Prevention,76
+282,DA-110,Intro to Data Analytics,98
+282,PM-200,Project Management Basics,90
+282,SEC-101,Security Awareness,90
+283,DA-110,Intro to Data Analytics,95
+284,SEC-101,Security Awareness,81
+284,CL-130,Cloud Fundamentals,93
+285,SEC-101,Security Awareness,99
+286,DA-110,Intro to Data Analytics,75
+286,CS-150,Customer Success Foundations,76
+287,CL-130,Cloud Fundamentals,98
+288,CL-130,Cloud Fundamentals,99
+288,HR-105,Workplace Harassment Prevention,78
+289,DA-110,Intro to Data Analytics,99
+290,DA-110,Intro to Data Analytics,95
+290,HR-105,Workplace Harassment Prevention,73
+291,SEC-101,Security Awareness,94
+291,PM-200,Project Management Basics,100
+292,HR-105,Workplace Harassment Prevention,93
+293,CS-150,Customer Success Foundations,72
+293,CL-130,Cloud Fundamentals,95
+293,DA-110,Intro to Data Analytics,82
+294,DA-110,Intro to Data Analytics,87
+295,CS-150,Customer Success Foundations,81
+296,HR-105,Workplace Harassment Prevention,96
+296,DA-110,Intro to Data Analytics,90
+296,CS-150,Customer Success Foundations,100
+297,SEC-101,Security Awareness,85
+297,PM-200,Project Management Basics,70
+298,CL-130,Cloud Fundamentals,90
+298,DA-110,Intro to Data Analytics,72
+298,PM-200,Project Management Basics,90
+299,HR-105,Workplace Harassment Prevention,90
+299,DA-110,Intro to Data Analytics,83
+300,PM-200,Project Management Basics,71
+301,DA-110,Intro to Data Analytics,85
+302,SEC-101,Security Awareness,77
+303,PM-200,Project Management Basics,81
+303,CS-150,Customer Success Foundations,91
+303,CL-130,Cloud Fundamentals,100
+304,HR-105,Workplace Harassment Prevention,88
+304,CL-130,Cloud Fundamentals,93
+304,CS-150,Customer Success Foundations,93
+305,CS-150,Customer Success Foundations,90
+306,CS-150,Customer Success Foundations,89
+307,DA-110,Intro to Data Analytics,92
+307,SEC-101,Security Awareness,81
+308,CS-150,Customer Success Foundations,84
+309,DA-110,Intro to Data Analytics,73
+310,DA-110,Intro to Data Analytics,71
+310,CL-130,Cloud Fundamentals,82
+310,HR-105,Workplace Harassment Prevention,78
+311,SEC-101,Security Awareness,100
+312,SEC-101,Security Awareness,90
+312,PM-200,Project Management Basics,90
+313,SEC-101,Security Awareness,77
+313,HR-105,Workplace Harassment Prevention,74
+313,DA-110,Intro to Data Analytics,95
+314,PM-200,Project Management Basics,88
+314,SEC-101,Security Awareness,76
+314,HR-105,Workplace Harassment Prevention,96
+315,DA-110,Intro to Data Analytics,94
+316,CL-130,Cloud Fundamentals,70
+317,PM-200,Project Management Basics,87
+317,HR-105,Workplace Harassment Prevention,78
+318,SEC-101,Security Awareness,91
+319,PM-200,Project Management Basics,70
+320,PM-200,Project Management Basics,80
+320,CL-130,Cloud Fundamentals,70
+321,DA-110,Intro to Data Analytics,71
+322,HR-105,Workplace Harassment Prevention,83
+323,SEC-101,Security Awareness,84
+323,HR-105,Workplace Harassment Prevention,94
+323,CS-150,Customer Success Foundations,81
+324,CL-130,Cloud Fundamentals,86
+324,SEC-101,Security Awareness,77
+324,CS-150,Customer Success Foundations,100
+325,SEC-101,Security Awareness,84
+325,CL-130,Cloud Fundamentals,90
+325,DA-110,Intro to Data Analytics,100
+326,SEC-101,Security Awareness,85
+327,CS-150,Customer Success Foundations,85
+327,SEC-101,Security Awareness,92
+328,SEC-101,Security Awareness,80
+328,HR-105,Workplace Harassment Prevention,89
+329,SEC-101,Security Awareness,74
+330,CL-130,Cloud Fundamentals,87
+330,HR-105,Workplace Harassment Prevention,92
+331,CS-150,Customer Success Foundations,86
+331,CL-130,Cloud Fundamentals,79
+332,CL-130,Cloud Fundamentals,83
+332,HR-105,Workplace Harassment Prevention,73
+333,SEC-101,Security Awareness,83
+333,CL-130,Cloud Fundamentals,84
+333,PM-200,Project Management Basics,98
+334,CS-150,Customer Success Foundations,80
+335,CS-150,Customer Success Foundations,93
+335,HR-105,Workplace Harassment Prevention,73
+336,CS-150,Customer Success Foundations,91
+336,DA-110,Intro to Data Analytics,78
+337,PM-200,Project Management Basics,72
+337,CS-150,Customer Success Foundations,72
+338,SEC-101,Security Awareness,83
+339,HR-105,Workplace Harassment Prevention,93
+340,PM-200,Project Management Basics,71
+340,CL-130,Cloud Fundamentals,88
+341,CL-130,Cloud Fundamentals,83
+341,DA-110,Intro to Data Analytics,81
+341,SEC-101,Security Awareness,97
+342,CS-150,Customer Success Foundations,89
+342,SEC-101,Security Awareness,79
+342,DA-110,Intro to Data Analytics,81
+343,CL-130,Cloud Fundamentals,86
+344,PM-200,Project Management Basics,91
+345,PM-200,Project Management Basics,81
+345,SEC-101,Security Awareness,97
+346,DA-110,Intro to Data Analytics,88
+346,SEC-101,Security Awareness,77
+346,HR-105,Workplace Harassment Prevention,95
+347,CL-130,Cloud Fundamentals,89
+347,HR-105,Workplace Harassment Prevention,91
+348,CL-130,Cloud Fundamentals,70
+348,SEC-101,Security Awareness,75
+348,DA-110,Intro to Data Analytics,78
+349,DA-110,Intro to Data Analytics,70
+349,HR-105,Workplace Harassment Prevention,75
+349,CL-130,Cloud Fundamentals,97
+350,CL-130,Cloud Fundamentals,91
+351,SEC-101,Security Awareness,93
+351,PM-200,Project Management Basics,90
+352,SEC-101,Security Awareness,93
+353,PM-200,Project Management Basics,84
+353,CS-150,Customer Success Foundations,80
+353,CL-130,Cloud Fundamentals,75
+354,DA-110,Intro to Data Analytics,94
+354,HR-105,Workplace Harassment Prevention,100
+355,CL-130,Cloud Fundamentals,74
+355,SEC-101,Security Awareness,75
+355,HR-105,Workplace Harassment Prevention,94
+356,SEC-101,Security Awareness,84
+356,HR-105,Workplace Harassment Prevention,91
+356,DA-110,Intro to Data Analytics,83
+357,CL-130,Cloud Fundamentals,83
+357,CS-150,Customer Success Foundations,78
+358,CL-130,Cloud Fundamentals,73
+359,CS-150,Customer Success Foundations,79
+359,SEC-101,Security Awareness,91
+360,CL-130,Cloud Fundamentals,71
+360,CS-150,Customer Success Foundations,77
+360,DA-110,Intro to Data Analytics,82
+361,SEC-101,Security Awareness,79
+361,HR-105,Workplace Harassment Prevention,100
+361,PM-200,Project Management Basics,76
+362,DA-110,Intro to Data Analytics,79
+363,SEC-101,Security Awareness,85
+363,HR-105,Workplace Harassment Prevention,93
+364,PM-200,Project Management Basics,82
+364,HR-105,Workplace Harassment Prevention,87
+365,PM-200,Project Management Basics,72
+365,CL-130,Cloud Fundamentals,82
+365,DA-110,Intro to Data Analytics,97
+366,SEC-101,Security Awareness,84
+366,CS-150,Customer Success Foundations,99
+366,HR-105,Workplace Harassment Prevention,72
+367,CL-130,Cloud Fundamentals,88
+367,CS-150,Customer Success Foundations,82
+368,HR-105,Workplace Harassment Prevention,73
+368,CS-150,Customer Success Foundations,82
+368,DA-110,Intro to Data Analytics,70
+369,PM-200,Project Management Basics,84
+369,CL-130,Cloud Fundamentals,96
+370,DA-110,Intro to Data Analytics,97
+370,SEC-101,Security Awareness,73
+370,CS-150,Customer Success Foundations,77
+371,CL-130,Cloud Fundamentals,86
+371,CS-150,Customer Success Foundations,72
+372,DA-110,Intro to Data Analytics,77
+372,HR-105,Workplace Harassment Prevention,80
+373,SEC-101,Security Awareness,86
+374,SEC-101,Security Awareness,98
+374,CL-130,Cloud Fundamentals,94
+374,PM-200,Project Management Basics,81
+375,HR-105,Workplace Harassment Prevention,77
+375,PM-200,Project Management Basics,73
+376,DA-110,Intro to Data Analytics,76
+377,CL-130,Cloud Fundamentals,74
+378,SEC-101,Security Awareness,84
+378,PM-200,Project Management Basics,94
+378,CS-150,Customer Success Foundations,88
+379,CS-150,Customer Success Foundations,97
+379,CL-130,Cloud Fundamentals,90
+379,DA-110,Intro to Data Analytics,80
+380,CS-150,Customer Success Foundations,72
+381,CS-150,Customer Success Foundations,95
+381,DA-110,Intro to Data Analytics,78
+382,SEC-101,Security Awareness,79
+382,DA-110,Intro to Data Analytics,84
+382,HR-105,Workplace Harassment Prevention,84
+383,SEC-101,Security Awareness,81
+384,SEC-101,Security Awareness,89
+384,HR-105,Workplace Harassment Prevention,89
+385,CS-150,Customer Success Foundations,84
+385,HR-105,Workplace Harassment Prevention,99
+385,SEC-101,Security Awareness,95
+386,HR-105,Workplace Harassment Prevention,89
+386,PM-200,Project Management Basics,85
+386,DA-110,Intro to Data Analytics,86
+387,SEC-101,Security Awareness,84
+388,DA-110,Intro to Data Analytics,92
+389,CL-130,Cloud Fundamentals,90
+390,SEC-101,Security Awareness,77
+391,CS-150,Customer Success Foundations,81
+391,HR-105,Workplace Harassment Prevention,81
+391,PM-200,Project Management Basics,99
+392,CS-150,Customer Success Foundations,94
+392,HR-105,Workplace Harassment Prevention,80
+393,CL-130,Cloud Fundamentals,72
+393,SEC-101,Security Awareness,80
+393,DA-110,Intro to Data Analytics,73
+394,HR-105,Workplace Harassment Prevention,78
+394,CS-150,Customer Success Foundations,93
+394,DA-110,Intro to Data Analytics,97
+395,CL-130,Cloud Fundamentals,72
+395,PM-200,Project Management Basics,88
+395,DA-110,Intro to Data Analytics,91
+396,DA-110,Intro to Data Analytics,79
+397,HR-105,Workplace Harassment Prevention,89
+397,CS-150,Customer Success Foundations,92
+397,PM-200,Project Management Basics,100
+398,DA-110,Intro to Data Analytics,87
+399,HR-105,Workplace Harassment Prevention,96
+399,DA-110,Intro to Data Analytics,74
+400,HR-105,Workplace Harassment Prevention,90
+400,CL-130,Cloud Fundamentals,91
+400,SEC-101,Security Awareness,83
+401,DA-110,Intro to Data Analytics,79
+401,SEC-101,Security Awareness,75
+401,HR-105,Workplace Harassment Prevention,100
+402,DA-110,Intro to Data Analytics,100
+403,PM-200,Project Management Basics,74
+403,HR-105,Workplace Harassment Prevention,74
+404,DA-110,Intro to Data Analytics,97
+405,CL-130,Cloud Fundamentals,94
+406,HR-105,Workplace Harassment Prevention,91
+406,CL-130,Cloud Fundamentals,80
+406,SEC-101,Security Awareness,98
+407,PM-200,Project Management Basics,74
+407,CL-130,Cloud Fundamentals,75
+407,CS-150,Customer Success Foundations,75
+408,CL-130,Cloud Fundamentals,71
+408,PM-200,Project Management Basics,83
+408,CS-150,Customer Success Foundations,81
+409,HR-105,Workplace Harassment Prevention,89
+409,PM-200,Project Management Basics,79
+409,CS-150,Customer Success Foundations,94
+410,CS-150,Customer Success Foundations,79
+410,PM-200,Project Management Basics,100
+410,CL-130,Cloud Fundamentals,95
+411,PM-200,Project Management Basics,91
+411,DA-110,Intro to Data Analytics,100
+412,CS-150,Customer Success Foundations,94
+412,HR-105,Workplace Harassment Prevention,82
+412,DA-110,Intro to Data Analytics,86
+413,CS-150,Customer Success Foundations,95
+413,PM-200,Project Management Basics,89
+413,CL-130,Cloud Fundamentals,74
+414,SEC-101,Security Awareness,97
+414,CS-150,Customer Success Foundations,81
+415,SEC-101,Security Awareness,79
+415,CL-130,Cloud Fundamentals,72
+415,HR-105,Workplace Harassment Prevention,94
+416,DA-110,Intro to Data Analytics,84
+417,PM-200,Project Management Basics,100
+417,CS-150,Customer Success Foundations,99
+417,SEC-101,Security Awareness,77
+418,DA-110,Intro to Data Analytics,83
+418,SEC-101,Security Awareness,71
+419,CL-130,Cloud Fundamentals,77
+419,DA-110,Intro to Data Analytics,82
+420,DA-110,Intro to Data Analytics,77
+421,DA-110,Intro to Data Analytics,99
+422,HR-105,Workplace Harassment Prevention,90
+423,PM-200,Project Management Basics,71
+423,HR-105,Workplace Harassment Prevention,79
+424,HR-105,Workplace Harassment Prevention,94
+424,PM-200,Project Management Basics,92
+425,CS-150,Customer Success Foundations,70
+425,CL-130,Cloud Fundamentals,98
+426,SEC-101,Security Awareness,78
+427,PM-200,Project Management Basics,87
+428,CL-130,Cloud Fundamentals,73
+428,HR-105,Workplace Harassment Prevention,94
+428,CS-150,Customer Success Foundations,79
+429,DA-110,Intro to Data Analytics,73
+430,PM-200,Project Management Basics,83
+431,CL-130,Cloud Fundamentals,73
+431,CS-150,Customer Success Foundations,96
+431,SEC-101,Security Awareness,98
+432,CL-130,Cloud Fundamentals,70
+432,HR-105,Workplace Harassment Prevention,90
+433,CL-130,Cloud Fundamentals,79
+433,PM-200,Project Management Basics,83
+433,HR-105,Workplace Harassment Prevention,70
+434,DA-110,Intro to Data Analytics,75
+434,PM-200,Project Management Basics,91
+434,CS-150,Customer Success Foundations,91
+435,CL-130,Cloud Fundamentals,81
+436,CL-130,Cloud Fundamentals,87
+437,CL-130,Cloud Fundamentals,82
+437,HR-105,Workplace Harassment Prevention,97
+437,SEC-101,Security Awareness,85
+438,HR-105,Workplace Harassment Prevention,82
+439,DA-110,Intro to Data Analytics,81
+439,SEC-101,Security Awareness,95
+440,DA-110,Intro to Data Analytics,77
+441,HR-105,Workplace Harassment Prevention,74
+441,SEC-101,Security Awareness,71
+441,DA-110,Intro to Data Analytics,81
+442,DA-110,Intro to Data Analytics,92
+442,PM-200,Project Management Basics,85
+442,CS-150,Customer Success Foundations,90
+443,PM-200,Project Management Basics,72
+444,CS-150,Customer Success Foundations,76
+444,SEC-101,Security Awareness,71
+444,DA-110,Intro to Data Analytics,95
+445,SEC-101,Security Awareness,80
+446,CL-130,Cloud Fundamentals,96
+446,CS-150,Customer Success Foundations,87
+447,DA-110,Intro to Data Analytics,94
+447,SEC-101,Security Awareness,90
+448,DA-110,Intro to Data Analytics,81
+449,HR-105,Workplace Harassment Prevention,80
+450,SEC-101,Security Awareness,83
+450,DA-110,Intro to Data Analytics,98
+451,HR-105,Workplace Harassment Prevention,98
+451,CS-150,Customer Success Foundations,100
+452,DA-110,Intro to Data Analytics,85
+452,PM-200,Project Management Basics,92
+453,DA-110,Intro to Data Analytics,78
+453,CL-130,Cloud Fundamentals,95
+454,HR-105,Workplace Harassment Prevention,83
+455,CS-150,Customer Success Foundations,89
+456,CL-130,Cloud Fundamentals,79
+457,SEC-101,Security Awareness,80
+457,HR-105,Workplace Harassment Prevention,91
+458,DA-110,Intro to Data Analytics,89
+458,CS-150,Customer Success Foundations,92
+459,PM-200,Project Management Basics,81
+459,CS-150,Customer Success Foundations,84
+460,HR-105,Workplace Harassment Prevention,97
+461,CL-130,Cloud Fundamentals,78
+461,CS-150,Customer Success Foundations,90
+462,SEC-101,Security Awareness,91
+463,CS-150,Customer Success Foundations,100
+463,DA-110,Intro to Data Analytics,70
+463,PM-200,Project Management Basics,74
+464,HR-105,Workplace Harassment Prevention,74
+464,CS-150,Customer Success Foundations,72
+464,SEC-101,Security Awareness,77
+465,DA-110,Intro to Data Analytics,100
+465,HR-105,Workplace Harassment Prevention,88
+465,CS-150,Customer Success Foundations,71
+466,PM-200,Project Management Basics,81
+466,CS-150,Customer Success Foundations,84
+466,DA-110,Intro to Data Analytics,94
+467,CL-130,Cloud Fundamentals,74
+468,DA-110,Intro to Data Analytics,90
+468,CS-150,Customer Success Foundations,78
+468,HR-105,Workplace Harassment Prevention,77
+469,SEC-101,Security Awareness,93
+470,CS-150,Customer Success Foundations,86
+471,CL-130,Cloud Fundamentals,78
+471,SEC-101,Security Awareness,94
+472,HR-105,Workplace Harassment Prevention,76
+472,CS-150,Customer Success Foundations,89
+473,HR-105,Workplace Harassment Prevention,76
+473,CS-150,Customer Success Foundations,73
+474,SEC-101,Security Awareness,84
+475,HR-105,Workplace Harassment Prevention,84
+476,HR-105,Workplace Harassment Prevention,100
+477,HR-105,Workplace Harassment Prevention,92
+477,DA-110,Intro to Data Analytics,72
+478,CL-130,Cloud Fundamentals,97
+478,DA-110,Intro to Data Analytics,75
+478,HR-105,Workplace Harassment Prevention,92
+479,HR-105,Workplace Harassment Prevention,86
+479,PM-200,Project Management Basics,77
+479,DA-110,Intro to Data Analytics,73
+480,PM-200,Project Management Basics,77
+481,SEC-101,Security Awareness,87
+481,DA-110,Intro to Data Analytics,88
+482,CS-150,Customer Success Foundations,74
+482,CL-130,Cloud Fundamentals,89
+483,SEC-101,Security Awareness,79
+484,HR-105,Workplace Harassment Prevention,86
+484,CS-150,Customer Success Foundations,83
+485,CL-130,Cloud Fundamentals,74
+485,SEC-101,Security Awareness,80
+486,SEC-101,Security Awareness,91
+486,CS-150,Customer Success Foundations,86
+486,CL-130,Cloud Fundamentals,81
+487,CL-130,Cloud Fundamentals,90
+488,PM-200,Project Management Basics,86
+488,HR-105,Workplace Harassment Prevention,99
+488,CS-150,Customer Success Foundations,97
+489,SEC-101,Security Awareness,86
+490,DA-110,Intro to Data Analytics,75
+491,DA-110,Intro to Data Analytics,99
+492,PM-200,Project Management Basics,97
+492,DA-110,Intro to Data Analytics,72
+492,CL-130,Cloud Fundamentals,78
+493,HR-105,Workplace Harassment Prevention,100
+494,DA-110,Intro to Data Analytics,89
+494,PM-200,Project Management Basics,87
+494,HR-105,Workplace Harassment Prevention,72
+495,HR-105,Workplace Harassment Prevention,75
+495,PM-200,Project Management Basics,91
+495,CL-130,Cloud Fundamentals,89
+496,CL-130,Cloud Fundamentals,96
+496,DA-110,Intro to Data Analytics,97
+496,SEC-101,Security Awareness,70
+497,SEC-101,Security Awareness,100
+498,CL-130,Cloud Fundamentals,94
+498,DA-110,Intro to Data Analytics,88
+498,PM-200,Project Management Basics,83
+499,HR-105,Workplace Harassment Prevention,98
+499,SEC-101,Security Awareness,90
+499,CS-150,Customer Success Foundations,87
+500,HR-105,Workplace Harassment Prevention,85
+500,DA-110,Intro to Data Analytics,77
+501,CS-150,Customer Success Foundations,72
+501,DA-110,Intro to Data Analytics,92
+501,HR-105,Workplace Harassment Prevention,71
+502,CS-150,Customer Success Foundations,83
+503,CS-150,Customer Success Foundations,80
+503,PM-200,Project Management Basics,89
+504,DA-110,Intro to Data Analytics,97
+505,DA-110,Intro to Data Analytics,74
+505,HR-105,Workplace Harassment Prevention,94
+505,CS-150,Customer Success Foundations,81
+506,CL-130,Cloud Fundamentals,77
+506,SEC-101,Security Awareness,84
+506,DA-110,Intro to Data Analytics,73
+507,CS-150,Customer Success Foundations,74
+507,PM-200,Project Management Basics,73
+508,DA-110,Intro to Data Analytics,100
+509,CL-130,Cloud Fundamentals,77
+509,CS-150,Customer Success Foundations,100
+510,DA-110,Intro to Data Analytics,99
+511,HR-105,Workplace Harassment Prevention,94
+511,DA-110,Intro to Data Analytics,75
+511,PM-200,Project Management Basics,85
+512,CS-150,Customer Success Foundations,85
+512,HR-105,Workplace Harassment Prevention,70
+512,DA-110,Intro to Data Analytics,72
+513,CL-130,Cloud Fundamentals,100
+513,CS-150,Customer Success Foundations,77
+514,CL-130,Cloud Fundamentals,81
+515,SEC-101,Security Awareness,79
+516,CL-130,Cloud Fundamentals,79
+516,CS-150,Customer Success Foundations,87
+517,SEC-101,Security Awareness,83
+518,DA-110,Intro to Data Analytics,93
+519,CS-150,Customer Success Foundations,71
+519,DA-110,Intro to Data Analytics,82
+520,CL-130,Cloud Fundamentals,87
+521,DA-110,Intro to Data Analytics,87
+522,SEC-101,Security Awareness,86
+522,CS-150,Customer Success Foundations,84
+523,DA-110,Intro to Data Analytics,74
+523,CL-130,Cloud Fundamentals,73
+523,SEC-101,Security Awareness,82
+524,DA-110,Intro to Data Analytics,100
+524,CL-130,Cloud Fundamentals,81
+525,PM-200,Project Management Basics,89
+526,CS-150,Customer Success Foundations,71
+526,CL-130,Cloud Fundamentals,71
+526,SEC-101,Security Awareness,74
+527,DA-110,Intro to Data Analytics,74
+527,CS-150,Customer Success Foundations,89
+527,CL-130,Cloud Fundamentals,98
+528,PM-200,Project Management Basics,75
+528,DA-110,Intro to Data Analytics,82
+528,CL-130,Cloud Fundamentals,89
+529,DA-110,Intro to Data Analytics,86
+529,CL-130,Cloud Fundamentals,96
+529,HR-105,Workplace Harassment Prevention,86
+530,CS-150,Customer Success Foundations,85
+530,CL-130,Cloud Fundamentals,96
+530,DA-110,Intro to Data Analytics,70
+531,DA-110,Intro to Data Analytics,83
+531,SEC-101,Security Awareness,88
+532,HR-105,Workplace Harassment Prevention,89
+532,SEC-101,Security Awareness,85
+533,HR-105,Workplace Harassment Prevention,88
+533,CL-130,Cloud Fundamentals,77
+534,SEC-101,Security Awareness,75
+534,CL-130,Cloud Fundamentals,86
+534,CS-150,Customer Success Foundations,90
+535,CL-130,Cloud Fundamentals,96
+535,CS-150,Customer Success Foundations,91
+535,PM-200,Project Management Basics,77
+536,CL-130,Cloud Fundamentals,100
+537,SEC-101,Security Awareness,84
+537,PM-200,Project Management Basics,80
+537,HR-105,Workplace Harassment Prevention,83
+538,CS-150,Customer Success Foundations,92
+539,CS-150,Customer Success Foundations,86
+540,CS-150,Customer Success Foundations,86
+540,SEC-101,Security Awareness,76
+540,PM-200,Project Management Basics,87
+541,HR-105,Workplace Harassment Prevention,86
+541,CS-150,Customer Success Foundations,82
+542,PM-200,Project Management Basics,99
+542,CS-150,Customer Success Foundations,87
+543,CL-130,Cloud Fundamentals,91
+543,DA-110,Intro to Data Analytics,94
+544,HR-105,Workplace Harassment Prevention,76
+544,DA-110,Intro to Data Analytics,100
+544,CS-150,Customer Success Foundations,77
+545,CL-130,Cloud Fundamentals,77
+545,DA-110,Intro to Data Analytics,100
+546,DA-110,Intro to Data Analytics,92
+546,PM-200,Project Management Basics,92
+547,DA-110,Intro to Data Analytics,81
+547,CS-150,Customer Success Foundations,87
+548,DA-110,Intro to Data Analytics,88
+548,HR-105,Workplace Harassment Prevention,91
+548,SEC-101,Security Awareness,87
+549,CS-150,Customer Success Foundations,100
+549,DA-110,Intro to Data Analytics,94
+550,DA-110,Intro to Data Analytics,71
+551,HR-105,Workplace Harassment Prevention,81
+551,SEC-101,Security Awareness,99
+552,HR-105,Workplace Harassment Prevention,93
+552,DA-110,Intro to Data Analytics,85
+553,PM-200,Project Management Basics,96
+554,DA-110,Intro to Data Analytics,74
+554,CL-130,Cloud Fundamentals,73
+554,HR-105,Workplace Harassment Prevention,89
+555,CL-130,Cloud Fundamentals,71
+555,PM-200,Project Management Basics,91
+555,HR-105,Workplace Harassment Prevention,98
+556,PM-200,Project Management Basics,73
+556,HR-105,Workplace Harassment Prevention,83
+556,SEC-101,Security Awareness,80
+557,CS-150,Customer Success Foundations,70
+557,SEC-101,Security Awareness,100
+557,PM-200,Project Management Basics,87
+558,CS-150,Customer Success Foundations,90
+559,CS-150,Customer Success Foundations,94
+559,PM-200,Project Management Basics,100
+560,DA-110,Intro to Data Analytics,90
+560,HR-105,Workplace Harassment Prevention,71
+561,HR-105,Workplace Harassment Prevention,88
+562,CL-130,Cloud Fundamentals,93
+563,SEC-101,Security Awareness,98
+563,PM-200,Project Management Basics,96
+563,CS-150,Customer Success Foundations,75
+564,CS-150,Customer Success Foundations,95
+565,PM-200,Project Management Basics,98
+565,DA-110,Intro to Data Analytics,71
+566,DA-110,Intro to Data Analytics,88
+567,SEC-101,Security Awareness,84
+567,DA-110,Intro to Data Analytics,90
+567,CL-130,Cloud Fundamentals,87
+568,CS-150,Customer Success Foundations,78
+568,PM-200,Project Management Basics,76
+568,HR-105,Workplace Harassment Prevention,95
+569,DA-110,Intro to Data Analytics,75
+570,CS-150,Customer Success Foundations,70
+570,DA-110,Intro to Data Analytics,93
+570,PM-200,Project Management Basics,80
+571,CL-130,Cloud Fundamentals,75
+571,PM-200,Project Management Basics,89
+572,CS-150,Customer Success Foundations,72
+572,HR-105,Workplace Harassment Prevention,82
+572,DA-110,Intro to Data Analytics,91
+573,PM-200,Project Management Basics,74
+574,DA-110,Intro to Data Analytics,70
+574,PM-200,Project Management Basics,78
+575,PM-200,Project Management Basics,94
+575,CS-150,Customer Success Foundations,78
+576,DA-110,Intro to Data Analytics,93
+576,CL-130,Cloud Fundamentals,88
+577,DA-110,Intro to Data Analytics,90
+578,HR-105,Workplace Harassment Prevention,71
+578,PM-200,Project Management Basics,91
+579,CS-150,Customer Success Foundations,79
+580,CS-150,Customer Success Foundations,91
+581,HR-105,Workplace Harassment Prevention,90
+581,DA-110,Intro to Data Analytics,99
+581,SEC-101,Security Awareness,100
+582,DA-110,Intro to Data Analytics,77
+582,CL-130,Cloud Fundamentals,77
+583,CS-150,Customer Success Foundations,74
+584,HR-105,Workplace Harassment Prevention,81
+584,CL-130,Cloud Fundamentals,83
+585,CL-130,Cloud Fundamentals,94
+585,CS-150,Customer Success Foundations,77
+585,PM-200,Project Management Basics,91
+586,SEC-101,Security Awareness,86
+586,CL-130,Cloud Fundamentals,92
+586,CS-150,Customer Success Foundations,81
+587,CL-130,Cloud Fundamentals,73
+588,CL-130,Cloud Fundamentals,98
+589,PM-200,Project Management Basics,75
+589,CL-130,Cloud Fundamentals,80
+589,HR-105,Workplace Harassment Prevention,97
+590,CS-150,Customer Success Foundations,92
+590,SEC-101,Security Awareness,88
+590,PM-200,Project Management Basics,85
+591,CL-130,Cloud Fundamentals,84
+592,CS-150,Customer Success Foundations,74
+593,CS-150,Customer Success Foundations,87
+593,HR-105,Workplace Harassment Prevention,84
+593,SEC-101,Security Awareness,91
+594,HR-105,Workplace Harassment Prevention,82
+594,SEC-101,Security Awareness,78
+595,HR-105,Workplace Harassment Prevention,76
+596,SEC-101,Security Awareness,81
+596,HR-105,Workplace Harassment Prevention,92
+596,CS-150,Customer Success Foundations,72
+597,SEC-101,Security Awareness,71
+597,HR-105,Workplace Harassment Prevention,79
+597,CS-150,Customer Success Foundations,83
+598,PM-200,Project Management Basics,94
+599,HR-105,Workplace Harassment Prevention,98
+599,CS-150,Customer Success Foundations,82
+599,DA-110,Intro to Data Analytics,84
+600,CS-150,Customer Success Foundations,91
+600,SEC-101,Security Awareness,100
+601,CL-130,Cloud Fundamentals,73
+601,PM-200,Project Management Basics,75
+601,DA-110,Intro to Data Analytics,87
+602,CL-130,Cloud Fundamentals,93
+602,PM-200,Project Management Basics,77
+603,SEC-101,Security Awareness,79
+604,HR-105,Workplace Harassment Prevention,83
+604,CL-130,Cloud Fundamentals,87
+605,PM-200,Project Management Basics,84
+605,HR-105,Workplace Harassment Prevention,81
+606,DA-110,Intro to Data Analytics,76
+607,SEC-101,Security Awareness,89
+607,HR-105,Workplace Harassment Prevention,94
+607,CS-150,Customer Success Foundations,99
+608,PM-200,Project Management Basics,76
+609,SEC-101,Security Awareness,89
+610,CS-150,Customer Success Foundations,89
+611,HR-105,Workplace Harassment Prevention,93
+611,SEC-101,Security Awareness,71
+611,PM-200,Project Management Basics,82
+612,PM-200,Project Management Basics,76
+612,CL-130,Cloud Fundamentals,94
+613,PM-200,Project Management Basics,86
+614,PM-200,Project Management Basics,80
+614,CL-130,Cloud Fundamentals,88
+615,HR-105,Workplace Harassment Prevention,79
+615,DA-110,Intro to Data Analytics,98
+615,PM-200,Project Management Basics,74
+616,CL-130,Cloud Fundamentals,79
+616,PM-200,Project Management Basics,78
+616,CS-150,Customer Success Foundations,71
+617,CL-130,Cloud Fundamentals,87
+617,PM-200,Project Management Basics,85
+617,CS-150,Customer Success Foundations,71
+618,HR-105,Workplace Harassment Prevention,95
+618,CS-150,Customer Success Foundations,86
+619,HR-105,Workplace Harassment Prevention,83
+619,CS-150,Customer Success Foundations,74
+620,CS-150,Customer Success Foundations,94
+620,PM-200,Project Management Basics,87
+621,PM-200,Project Management Basics,79
+621,HR-105,Workplace Harassment Prevention,97
+622,PM-200,Project Management Basics,87
+622,CS-150,Customer Success Foundations,83
+622,SEC-101,Security Awareness,100
+623,CL-130,Cloud Fundamentals,74
+623,HR-105,Workplace Harassment Prevention,82
+624,DA-110,Intro to Data Analytics,76
+625,HR-105,Workplace Harassment Prevention,99
+625,SEC-101,Security Awareness,84
+626,SEC-101,Security Awareness,93
+626,CL-130,Cloud Fundamentals,96
+627,SEC-101,Security Awareness,78
+628,HR-105,Workplace Harassment Prevention,89
+628,CL-130,Cloud Fundamentals,71
+629,PM-200,Project Management Basics,95
+630,HR-105,Workplace Harassment Prevention,85
+630,CL-130,Cloud Fundamentals,76
+630,PM-200,Project Management Basics,97
+631,DA-110,Intro to Data Analytics,76
+631,SEC-101,Security Awareness,99
+632,HR-105,Workplace Harassment Prevention,73
+633,CS-150,Customer Success Foundations,82
+633,PM-200,Project Management Basics,99
+633,CL-130,Cloud Fundamentals,77
+634,DA-110,Intro to Data Analytics,84
+634,HR-105,Workplace Harassment Prevention,87
+634,CS-150,Customer Success Foundations,90
+635,DA-110,Intro to Data Analytics,81
+635,HR-105,Workplace Harassment Prevention,86
+636,CS-150,Customer Success Foundations,95
+636,SEC-101,Security Awareness,93
+637,DA-110,Intro to Data Analytics,81
+637,PM-200,Project Management Basics,80
+638,SEC-101,Security Awareness,97
+638,CL-130,Cloud Fundamentals,77
+639,PM-200,Project Management Basics,87
+639,SEC-101,Security Awareness,99
+639,DA-110,Intro to Data Analytics,88
+640,HR-105,Workplace Harassment Prevention,74
+640,CS-150,Customer Success Foundations,76
+640,DA-110,Intro to Data Analytics,80
+641,CS-150,Customer Success Foundations,88
+642,CS-150,Customer Success Foundations,87
+643,HR-105,Workplace Harassment Prevention,94
+643,DA-110,Intro to Data Analytics,96
+643,CL-130,Cloud Fundamentals,85
+644,HR-105,Workplace Harassment Prevention,75
+644,CS-150,Customer Success Foundations,93
+644,CL-130,Cloud Fundamentals,95
+645,PM-200,Project Management Basics,93
+645,HR-105,Workplace Harassment Prevention,87
+646,PM-200,Project Management Basics,90
+646,CL-130,Cloud Fundamentals,100
+647,CL-130,Cloud Fundamentals,71
+648,HR-105,Workplace Harassment Prevention,71
+649,CS-150,Customer Success Foundations,74
+650,PM-200,Project Management Basics,70
+650,SEC-101,Security Awareness,76
+650,HR-105,Workplace Harassment Prevention,86
+651,DA-110,Intro to Data Analytics,89
+651,SEC-101,Security Awareness,90
+652,CL-130,Cloud Fundamentals,70
+652,CS-150,Customer Success Foundations,70
+652,HR-105,Workplace Harassment Prevention,87
+653,CS-150,Customer Success Foundations,86
+653,SEC-101,Security Awareness,93
+653,CL-130,Cloud Fundamentals,78
+654,DA-110,Intro to Data Analytics,95
+654,SEC-101,Security Awareness,100
+654,CS-150,Customer Success Foundations,99
+655,SEC-101,Security Awareness,99
+656,CL-130,Cloud Fundamentals,74
+657,PM-200,Project Management Basics,89
+658,DA-110,Intro to Data Analytics,95
+658,HR-105,Workplace Harassment Prevention,82
+658,CL-130,Cloud Fundamentals,72
+659,CS-150,Customer Success Foundations,88
+659,HR-105,Workplace Harassment Prevention,77
+660,PM-200,Project Management Basics,90
+660,DA-110,Intro to Data Analytics,97
+660,SEC-101,Security Awareness,90
+661,SEC-101,Security Awareness,82
+662,CS-150,Customer Success Foundations,85
+662,CL-130,Cloud Fundamentals,71
+663,SEC-101,Security Awareness,85
+663,PM-200,Project Management Basics,97
+663,HR-105,Workplace Harassment Prevention,83
+664,DA-110,Intro to Data Analytics,98
+664,CL-130,Cloud Fundamentals,86
+664,SEC-101,Security Awareness,99
+665,PM-200,Project Management Basics,76
+666,CL-130,Cloud Fundamentals,71
+666,CS-150,Customer Success Foundations,99
+666,DA-110,Intro to Data Analytics,72
+667,DA-110,Intro to Data Analytics,75
+667,CL-130,Cloud Fundamentals,99
+667,SEC-101,Security Awareness,97
+668,SEC-101,Security Awareness,88
+668,PM-200,Project Management Basics,74
+669,CS-150,Customer Success Foundations,75
+669,SEC-101,Security Awareness,88
+669,DA-110,Intro to Data Analytics,77
+670,CS-150,Customer Success Foundations,82
+670,CL-130,Cloud Fundamentals,94
+670,DA-110,Intro to Data Analytics,93
+671,HR-105,Workplace Harassment Prevention,93
+672,CL-130,Cloud Fundamentals,93
+673,SEC-101,Security Awareness,83
+673,HR-105,Workplace Harassment Prevention,77
+674,DA-110,Intro to Data Analytics,89
+675,CL-130,Cloud Fundamentals,70
+675,CS-150,Customer Success Foundations,90
+675,DA-110,Intro to Data Analytics,78
+676,CS-150,Customer Success Foundations,81
+676,PM-200,Project Management Basics,87
+677,CS-150,Customer Success Foundations,91
+677,PM-200,Project Management Basics,88
+678,CS-150,Customer Success Foundations,95
+678,SEC-101,Security Awareness,77
+678,DA-110,Intro to Data Analytics,92
+679,SEC-101,Security Awareness,78
+680,CS-150,Customer Success Foundations,92
+681,PM-200,Project Management Basics,81
+681,CS-150,Customer Success Foundations,73
+681,DA-110,Intro to Data Analytics,72
+682,DA-110,Intro to Data Analytics,84
+683,DA-110,Intro to Data Analytics,74
+683,SEC-101,Security Awareness,72
+684,CS-150,Customer Success Foundations,84
+685,CL-130,Cloud Fundamentals,73
+685,HR-105,Workplace Harassment Prevention,70
+685,CS-150,Customer Success Foundations,72
+686,CL-130,Cloud Fundamentals,89
+686,SEC-101,Security Awareness,89
+687,CS-150,Customer Success Foundations,79
+687,SEC-101,Security Awareness,83
+688,SEC-101,Security Awareness,98
+688,CL-130,Cloud Fundamentals,77
+689,CL-130,Cloud Fundamentals,75
+689,PM-200,Project Management Basics,74
+689,CS-150,Customer Success Foundations,78
+690,DA-110,Intro to Data Analytics,74
+690,CS-150,Customer Success Foundations,72
+691,CS-150,Customer Success Foundations,78
+692,DA-110,Intro to Data Analytics,95
+692,CS-150,Customer Success Foundations,72
+693,DA-110,Intro to Data Analytics,93
+693,PM-200,Project Management Basics,90
+694,CL-130,Cloud Fundamentals,76
+694,HR-105,Workplace Harassment Prevention,84
+695,PM-200,Project Management Basics,79
+696,CS-150,Customer Success Foundations,80
+697,CS-150,Customer Success Foundations,80
+697,DA-110,Intro to Data Analytics,83
+697,HR-105,Workplace Harassment Prevention,96
+698,CL-130,Cloud Fundamentals,80
+698,PM-200,Project Management Basics,89
+698,DA-110,Intro to Data Analytics,100
+699,PM-200,Project Management Basics,75
+699,CS-150,Customer Success Foundations,100
+699,DA-110,Intro to Data Analytics,82
+700,DA-110,Intro to Data Analytics,100
+700,CS-150,Customer Success Foundations,88
+701,DA-110,Intro to Data Analytics,82
+702,CS-150,Customer Success Foundations,73
+702,DA-110,Intro to Data Analytics,99
+703,PM-200,Project Management Basics,91
+703,CL-130,Cloud Fundamentals,94
+703,HR-105,Workplace Harassment Prevention,87
+704,HR-105,Workplace Harassment Prevention,84
+705,PM-200,Project Management Basics,96
+705,CS-150,Customer Success Foundations,92
+705,DA-110,Intro to Data Analytics,72
+706,HR-105,Workplace Harassment Prevention,74
+706,CS-150,Customer Success Foundations,90
+707,PM-200,Project Management Basics,91
+707,DA-110,Intro to Data Analytics,74
+708,CS-150,Customer Success Foundations,84
+708,HR-105,Workplace Harassment Prevention,89
+708,SEC-101,Security Awareness,85
+709,CS-150,Customer Success Foundations,87
+709,CL-130,Cloud Fundamentals,71
+709,HR-105,Workplace Harassment Prevention,95
+710,HR-105,Workplace Harassment Prevention,89
+710,CL-130,Cloud Fundamentals,90
+711,SEC-101,Security Awareness,94
+712,HR-105,Workplace Harassment Prevention,91
+713,PM-200,Project Management Basics,71
+713,CL-130,Cloud Fundamentals,88
+714,HR-105,Workplace Harassment Prevention,100
+714,CS-150,Customer Success Foundations,95
+714,DA-110,Intro to Data Analytics,83
+715,SEC-101,Security Awareness,73
+716,PM-200,Project Management Basics,93
+716,CL-130,Cloud Fundamentals,86
+717,CL-130,Cloud Fundamentals,84
+717,HR-105,Workplace Harassment Prevention,81
+717,PM-200,Project Management Basics,82
+718,HR-105,Workplace Harassment Prevention,92
+718,CL-130,Cloud Fundamentals,86
+719,DA-110,Intro to Data Analytics,70
+720,SEC-101,Security Awareness,83
+720,DA-110,Intro to Data Analytics,99
+721,SEC-101,Security Awareness,96
+722,PM-200,Project Management Basics,80
+722,DA-110,Intro to Data Analytics,84
+722,CL-130,Cloud Fundamentals,95
+723,CL-130,Cloud Fundamentals,85
+724,CS-150,Customer Success Foundations,84
+724,SEC-101,Security Awareness,93
+725,CS-150,Customer Success Foundations,79
+725,DA-110,Intro to Data Analytics,71
+725,SEC-101,Security Awareness,95
+726,SEC-101,Security Awareness,90
+726,HR-105,Workplace Harassment Prevention,73
+726,DA-110,Intro to Data Analytics,91
+727,HR-105,Workplace Harassment Prevention,77
+728,PM-200,Project Management Basics,80
+728,CL-130,Cloud Fundamentals,87
+728,HR-105,Workplace Harassment Prevention,83
+729,PM-200,Project Management Basics,90
+729,CS-150,Customer Success Foundations,75
+730,HR-105,Workplace Harassment Prevention,91
+731,CS-150,Customer Success Foundations,93
+731,SEC-101,Security Awareness,89
+732,CS-150,Customer Success Foundations,88
+733,CS-150,Customer Success Foundations,92
+733,SEC-101,Security Awareness,76
+734,DA-110,Intro to Data Analytics,94
+735,SEC-101,Security Awareness,95
+735,CL-130,Cloud Fundamentals,97
+735,HR-105,Workplace Harassment Prevention,87
+736,DA-110,Intro to Data Analytics,80
+737,CS-150,Customer Success Foundations,73
+738,HR-105,Workplace Harassment Prevention,86
+738,CS-150,Customer Success Foundations,100
+739,DA-110,Intro to Data Analytics,89
+739,CL-130,Cloud Fundamentals,82
+739,CS-150,Customer Success Foundations,88
+740,DA-110,Intro to Data Analytics,81
+741,CL-130,Cloud Fundamentals,96
+741,PM-200,Project Management Basics,91
+742,DA-110,Intro to Data Analytics,91
+742,CL-130,Cloud Fundamentals,74
+742,SEC-101,Security Awareness,80
+743,PM-200,Project Management Basics,79
+744,PM-200,Project Management Basics,81
+745,PM-200,Project Management Basics,83
+745,CL-130,Cloud Fundamentals,89
+745,CS-150,Customer Success Foundations,74
+746,CS-150,Customer Success Foundations,85
+746,HR-105,Workplace Harassment Prevention,90
+746,PM-200,Project Management Basics,87
+747,HR-105,Workplace Harassment Prevention,85
+747,PM-200,Project Management Basics,79
+747,CL-130,Cloud Fundamentals,74
+748,DA-110,Intro to Data Analytics,96
+749,CL-130,Cloud Fundamentals,97
+749,SEC-101,Security Awareness,81
+750,CS-150,Customer Success Foundations,74
+751,CS-150,Customer Success Foundations,100
+752,CL-130,Cloud Fundamentals,91
+752,CS-150,Customer Success Foundations,85
+752,HR-105,Workplace Harassment Prevention,83
+753,CS-150,Customer Success Foundations,72
+753,HR-105,Workplace Harassment Prevention,88
+753,PM-200,Project Management Basics,70
+754,DA-110,Intro to Data Analytics,71
+755,PM-200,Project Management Basics,79
+755,CL-130,Cloud Fundamentals,75
+756,CL-130,Cloud Fundamentals,87
+756,CS-150,Customer Success Foundations,86
+757,CL-130,Cloud Fundamentals,73
+758,CL-130,Cloud Fundamentals,87
+758,DA-110,Intro to Data Analytics,96
+759,HR-105,Workplace Harassment Prevention,84
+760,PM-200,Project Management Basics,93
+760,CS-150,Customer Success Foundations,96
+760,SEC-101,Security Awareness,90
+761,DA-110,Intro to Data Analytics,97
+762,CS-150,Customer Success Foundations,78
+763,SEC-101,Security Awareness,97
+763,CS-150,Customer Success Foundations,73
+764,PM-200,Project Management Basics,95
+765,CL-130,Cloud Fundamentals,75
+765,DA-110,Intro to Data Analytics,89
+765,CS-150,Customer Success Foundations,74
+766,PM-200,Project Management Basics,95
+767,CL-130,Cloud Fundamentals,81
+768,DA-110,Intro to Data Analytics,80
+768,CL-130,Cloud Fundamentals,92
+768,PM-200,Project Management Basics,79
+769,CL-130,Cloud Fundamentals,100
+769,DA-110,Intro to Data Analytics,97
+770,HR-105,Workplace Harassment Prevention,100
+770,SEC-101,Security Awareness,94
+770,PM-200,Project Management Basics,95
+771,SEC-101,Security Awareness,97
+771,DA-110,Intro to Data Analytics,90
+772,HR-105,Workplace Harassment Prevention,97
+773,PM-200,Project Management Basics,74
+774,DA-110,Intro to Data Analytics,85
+774,PM-200,Project Management Basics,74
+774,CS-150,Customer Success Foundations,88
+775,DA-110,Intro to Data Analytics,84
+775,CS-150,Customer Success Foundations,72
+775,CL-130,Cloud Fundamentals,90
+776,CS-150,Customer Success Foundations,86
+777,DA-110,Intro to Data Analytics,100
+777,HR-105,Workplace Harassment Prevention,85
+777,CS-150,Customer Success Foundations,80
+778,SEC-101,Security Awareness,90
+778,HR-105,Workplace Harassment Prevention,91
+778,CS-150,Customer Success Foundations,92
+779,SEC-101,Security Awareness,82
+779,CL-130,Cloud Fundamentals,76
+780,PM-200,Project Management Basics,78
+780,CS-150,Customer Success Foundations,80
+781,DA-110,Intro to Data Analytics,88
+781,CL-130,Cloud Fundamentals,74
+782,CS-150,Customer Success Foundations,71
+782,DA-110,Intro to Data Analytics,73
+782,SEC-101,Security Awareness,90
+783,SEC-101,Security Awareness,99
+783,HR-105,Workplace Harassment Prevention,97
+784,CS-150,Customer Success Foundations,84
+785,CS-150,Customer Success Foundations,76
+786,PM-200,Project Management Basics,97
+786,DA-110,Intro to Data Analytics,99
+786,HR-105,Workplace Harassment Prevention,98
+787,SEC-101,Security Awareness,78
+787,DA-110,Intro to Data Analytics,72
+788,HR-105,Workplace Harassment Prevention,71
+788,PM-200,Project Management Basics,82
+789,DA-110,Intro to Data Analytics,90
+789,PM-200,Project Management Basics,72
+789,CS-150,Customer Success Foundations,92
+790,SEC-101,Security Awareness,76
+791,SEC-101,Security Awareness,88
+791,PM-200,Project Management Basics,77
+792,HR-105,Workplace Harassment Prevention,70
+792,CS-150,Customer Success Foundations,92
+792,SEC-101,Security Awareness,80
+793,CS-150,Customer Success Foundations,92
+794,CS-150,Customer Success Foundations,72
+795,CS-150,Customer Success Foundations,72
+796,SEC-101,Security Awareness,81
+796,HR-105,Workplace Harassment Prevention,98
+796,DA-110,Intro to Data Analytics,79
+797,CS-150,Customer Success Foundations,94
+798,HR-105,Workplace Harassment Prevention,91
+799,SEC-101,Security Awareness,86
+800,SEC-101,Security Awareness,84
+800,CL-130,Cloud Fundamentals,81
+800,PM-200,Project Management Basics,93
+801,HR-105,Workplace Harassment Prevention,93
+802,CS-150,Customer Success Foundations,89
+803,CS-150,Customer Success Foundations,98
+803,PM-200,Project Management Basics,73
+803,SEC-101,Security Awareness,74
+804,CL-130,Cloud Fundamentals,93
+805,DA-110,Intro to Data Analytics,80
+805,CS-150,Customer Success Foundations,95
+806,PM-200,Project Management Basics,78
+807,SEC-101,Security Awareness,94
+807,PM-200,Project Management Basics,100
+807,DA-110,Intro to Data Analytics,92
+808,HR-105,Workplace Harassment Prevention,98
+809,PM-200,Project Management Basics,89
+809,CL-130,Cloud Fundamentals,86
+810,HR-105,Workplace Harassment Prevention,82
+811,HR-105,Workplace Harassment Prevention,95
+811,SEC-101,Security Awareness,98
+812,CS-150,Customer Success Foundations,82
+813,PM-200,Project Management Basics,85
+814,CL-130,Cloud Fundamentals,81
+814,SEC-101,Security Awareness,99
+814,HR-105,Workplace Harassment Prevention,80
+815,CS-150,Customer Success Foundations,97
+816,CS-150,Customer Success Foundations,94
+816,DA-110,Intro to Data Analytics,85
+816,PM-200,Project Management Basics,100
+817,SEC-101,Security Awareness,88
+818,SEC-101,Security Awareness,78
+819,SEC-101,Security Awareness,99
+820,CS-150,Customer Success Foundations,86
+821,HR-105,Workplace Harassment Prevention,94
+821,CL-130,Cloud Fundamentals,83
+822,HR-105,Workplace Harassment Prevention,72
+822,CS-150,Customer Success Foundations,90
+823,CL-130,Cloud Fundamentals,78
+823,HR-105,Workplace Harassment Prevention,72
+823,PM-200,Project Management Basics,79
+824,CL-130,Cloud Fundamentals,99
+825,PM-200,Project Management Basics,87
+826,CS-150,Customer Success Foundations,90
+826,CL-130,Cloud Fundamentals,94
+827,HR-105,Workplace Harassment Prevention,92
+827,SEC-101,Security Awareness,83
+827,DA-110,Intro to Data Analytics,93
+828,SEC-101,Security Awareness,77
+829,CS-150,Customer Success Foundations,73
+830,CL-130,Cloud Fundamentals,71
+830,HR-105,Workplace Harassment Prevention,79
+831,HR-105,Workplace Harassment Prevention,70
+831,PM-200,Project Management Basics,92
+831,SEC-101,Security Awareness,74
+832,SEC-101,Security Awareness,100
+832,PM-200,Project Management Basics,81
+832,CS-150,Customer Success Foundations,86
+833,HR-105,Workplace Harassment Prevention,81
+833,DA-110,Intro to Data Analytics,74
+833,PM-200,Project Management Basics,93
+834,HR-105,Workplace Harassment Prevention,94
+834,SEC-101,Security Awareness,98
+835,DA-110,Intro to Data Analytics,95
+836,DA-110,Intro to Data Analytics,72
+836,CL-130,Cloud Fundamentals,78
+837,CL-130,Cloud Fundamentals,84
+837,SEC-101,Security Awareness,86
+837,CS-150,Customer Success Foundations,81
+838,CS-150,Customer Success Foundations,97
+839,PM-200,Project Management Basics,78
+839,DA-110,Intro to Data Analytics,94
+839,HR-105,Workplace Harassment Prevention,73
+840,HR-105,Workplace Harassment Prevention,93
+840,SEC-101,Security Awareness,86
+840,PM-200,Project Management Basics,70
+841,SEC-101,Security Awareness,77
+842,CS-150,Customer Success Foundations,81
+843,PM-200,Project Management Basics,99
+843,HR-105,Workplace Harassment Prevention,100
+844,CL-130,Cloud Fundamentals,95
+845,HR-105,Workplace Harassment Prevention,80
+845,CS-150,Customer Success Foundations,77
+845,PM-200,Project Management Basics,83
+846,DA-110,Intro to Data Analytics,88
+846,HR-105,Workplace Harassment Prevention,81
+846,SEC-101,Security Awareness,73
+847,HR-105,Workplace Harassment Prevention,77
+847,SEC-101,Security Awareness,95
+847,PM-200,Project Management Basics,86
+848,CS-150,Customer Success Foundations,72
+849,DA-110,Intro to Data Analytics,80
+849,HR-105,Workplace Harassment Prevention,72
+850,CS-150,Customer Success Foundations,76
+850,SEC-101,Security Awareness,79
+850,DA-110,Intro to Data Analytics,88
+851,HR-105,Workplace Harassment Prevention,77
+851,CL-130,Cloud Fundamentals,84
+852,CL-130,Cloud Fundamentals,94
+852,CS-150,Customer Success Foundations,94
+853,HR-105,Workplace Harassment Prevention,98
+854,PM-200,Project Management Basics,99
+854,HR-105,Workplace Harassment Prevention,83
+854,SEC-101,Security Awareness,70
+855,CL-130,Cloud Fundamentals,81
+856,HR-105,Workplace Harassment Prevention,70
+856,SEC-101,Security Awareness,94
+856,DA-110,Intro to Data Analytics,91
+857,HR-105,Workplace Harassment Prevention,73
+857,DA-110,Intro to Data Analytics,76
+858,PM-200,Project Management Basics,100
+858,CS-150,Customer Success Foundations,71
+858,CL-130,Cloud Fundamentals,74
+859,DA-110,Intro to Data Analytics,99
+859,SEC-101,Security Awareness,77
+859,CL-130,Cloud Fundamentals,98
+860,CS-150,Customer Success Foundations,93
+860,DA-110,Intro to Data Analytics,72
+860,HR-105,Workplace Harassment Prevention,88
+861,CL-130,Cloud Fundamentals,74
+862,CS-150,Customer Success Foundations,83
+862,SEC-101,Security Awareness,91
+862,CL-130,Cloud Fundamentals,100
+863,PM-200,Project Management Basics,79
+864,DA-110,Intro to Data Analytics,92
+864,CS-150,Customer Success Foundations,96
+865,DA-110,Intro to Data Analytics,78
+865,HR-105,Workplace Harassment Prevention,77
+865,CS-150,Customer Success Foundations,72
+866,PM-200,Project Management Basics,94
+867,SEC-101,Security Awareness,75
+867,PM-200,Project Management Basics,84
+867,HR-105,Workplace Harassment Prevention,84
+868,CS-150,Customer Success Foundations,87
+868,SEC-101,Security Awareness,81
+869,CS-150,Customer Success Foundations,79
+870,DA-110,Intro to Data Analytics,72
+870,SEC-101,Security Awareness,75
+871,DA-110,Intro to Data Analytics,76
+871,CL-130,Cloud Fundamentals,96
+871,SEC-101,Security Awareness,97
+872,PM-200,Project Management Basics,92
+872,SEC-101,Security Awareness,77
+873,CS-150,Customer Success Foundations,71
+873,CL-130,Cloud Fundamentals,91
+874,DA-110,Intro to Data Analytics,70
+874,PM-200,Project Management Basics,100
+875,CS-150,Customer Success Foundations,93
+875,CL-130,Cloud Fundamentals,87
+876,SEC-101,Security Awareness,84
+877,PM-200,Project Management Basics,73
+878,SEC-101,Security Awareness,96
+879,PM-200,Project Management Basics,76
+880,DA-110,Intro to Data Analytics,88
+880,SEC-101,Security Awareness,88
+881,SEC-101,Security Awareness,72
+881,HR-105,Workplace Harassment Prevention,76
+882,CS-150,Customer Success Foundations,98
+882,PM-200,Project Management Basics,97
+882,SEC-101,Security Awareness,96
+883,SEC-101,Security Awareness,100
+883,HR-105,Workplace Harassment Prevention,84
+884,PM-200,Project Management Basics,99
+885,CS-150,Customer Success Foundations,70
+885,HR-105,Workplace Harassment Prevention,82
+885,CL-130,Cloud Fundamentals,91
+886,PM-200,Project Management Basics,76
+886,DA-110,Intro to Data Analytics,99
+887,DA-110,Intro to Data Analytics,78
+888,PM-200,Project Management Basics,89
+888,SEC-101,Security Awareness,89
+889,PM-200,Project Management Basics,83
+889,DA-110,Intro to Data Analytics,98
+889,CS-150,Customer Success Foundations,87
+890,SEC-101,Security Awareness,78
+890,HR-105,Workplace Harassment Prevention,82
+891,CS-150,Customer Success Foundations,76
+892,CL-130,Cloud Fundamentals,82
+892,PM-200,Project Management Basics,95
+892,SEC-101,Security Awareness,92
+893,CS-150,Customer Success Foundations,95
+893,CL-130,Cloud Fundamentals,85
+894,CL-130,Cloud Fundamentals,80
+894,HR-105,Workplace Harassment Prevention,82
+895,PM-200,Project Management Basics,80
+895,SEC-101,Security Awareness,89
+896,SEC-101,Security Awareness,98
+897,SEC-101,Security Awareness,86
+897,CS-150,Customer Success Foundations,81
+898,PM-200,Project Management Basics,77
+898,HR-105,Workplace Harassment Prevention,91
+898,SEC-101,Security Awareness,77
+899,CL-130,Cloud Fundamentals,94
+899,SEC-101,Security Awareness,100
+900,CL-130,Cloud Fundamentals,97
+901,DA-110,Intro to Data Analytics,75
+901,PM-200,Project Management Basics,77
+902,DA-110,Intro to Data Analytics,92
+902,HR-105,Workplace Harassment Prevention,92
+902,SEC-101,Security Awareness,81
+903,CL-130,Cloud Fundamentals,96
+903,PM-200,Project Management Basics,95
+903,HR-105,Workplace Harassment Prevention,98
+904,CL-130,Cloud Fundamentals,75
+904,DA-110,Intro to Data Analytics,85
+905,SEC-101,Security Awareness,71
+906,CL-130,Cloud Fundamentals,77
+907,CL-130,Cloud Fundamentals,85
+908,DA-110,Intro to Data Analytics,99
+909,PM-200,Project Management Basics,92
+909,HR-105,Workplace Harassment Prevention,75
+909,DA-110,Intro to Data Analytics,99
+910,SEC-101,Security Awareness,74
+910,HR-105,Workplace Harassment Prevention,88
+911,PM-200,Project Management Basics,100
+911,SEC-101,Security Awareness,72
+911,DA-110,Intro to Data Analytics,81
+912,HR-105,Workplace Harassment Prevention,80
+912,CS-150,Customer Success Foundations,79
+912,SEC-101,Security Awareness,80
+913,PM-200,Project Management Basics,93
+914,HR-105,Workplace Harassment Prevention,90
+914,CS-150,Customer Success Foundations,80
+915,HR-105,Workplace Harassment Prevention,100
+916,HR-105,Workplace Harassment Prevention,77
+916,CL-130,Cloud Fundamentals,91
+916,DA-110,Intro to Data Analytics,88
+917,CS-150,Customer Success Foundations,79
+918,HR-105,Workplace Harassment Prevention,75
+918,DA-110,Intro to Data Analytics,93
+918,PM-200,Project Management Basics,70
+919,CL-130,Cloud Fundamentals,75
+919,CS-150,Customer Success Foundations,89
+919,SEC-101,Security Awareness,80
+920,PM-200,Project Management Basics,99
+920,CL-130,Cloud Fundamentals,85
+920,SEC-101,Security Awareness,74
+921,HR-105,Workplace Harassment Prevention,77
+921,SEC-101,Security Awareness,81
+922,PM-200,Project Management Basics,96
+922,SEC-101,Security Awareness,92
+923,HR-105,Workplace Harassment Prevention,70
+923,DA-110,Intro to Data Analytics,78
+923,CS-150,Customer Success Foundations,76
+924,HR-105,Workplace Harassment Prevention,72
+925,DA-110,Intro to Data Analytics,93
+925,SEC-101,Security Awareness,70
+926,CS-150,Customer Success Foundations,84
+927,CS-150,Customer Success Foundations,85
+927,PM-200,Project Management Basics,98
+927,HR-105,Workplace Harassment Prevention,82
+928,CL-130,Cloud Fundamentals,73
+928,CS-150,Customer Success Foundations,96
+929,CL-130,Cloud Fundamentals,75
+929,PM-200,Project Management Basics,84
+930,SEC-101,Security Awareness,79
+931,DA-110,Intro to Data Analytics,78
+932,SEC-101,Security Awareness,80
+933,CS-150,Customer Success Foundations,75
+934,SEC-101,Security Awareness,80
+934,CL-130,Cloud Fundamentals,89
+934,HR-105,Workplace Harassment Prevention,89
+935,HR-105,Workplace Harassment Prevention,83
+935,SEC-101,Security Awareness,100
+936,PM-200,Project Management Basics,75
+936,CL-130,Cloud Fundamentals,71
+936,CS-150,Customer Success Foundations,73
+937,PM-200,Project Management Basics,83
+937,HR-105,Workplace Harassment Prevention,92
+938,HR-105,Workplace Harassment Prevention,91
+938,CL-130,Cloud Fundamentals,79
+938,DA-110,Intro to Data Analytics,79
+939,SEC-101,Security Awareness,71
+940,CL-130,Cloud Fundamentals,96
+940,HR-105,Workplace Harassment Prevention,85
+941,SEC-101,Security Awareness,81
+942,CS-150,Customer Success Foundations,72
+943,HR-105,Workplace Harassment Prevention,85
+943,CL-130,Cloud Fundamentals,76
+944,SEC-101,Security Awareness,76
+945,HR-105,Workplace Harassment Prevention,79
+946,CS-150,Customer Success Foundations,97
+947,DA-110,Intro to Data Analytics,95
+948,CS-150,Customer Success Foundations,98
+948,HR-105,Workplace Harassment Prevention,91
+949,SEC-101,Security Awareness,82
+949,CL-130,Cloud Fundamentals,75
+950,CS-150,Customer Success Foundations,75
+950,DA-110,Intro to Data Analytics,84
+951,DA-110,Intro to Data Analytics,84
+952,DA-110,Intro to Data Analytics,96
+952,PM-200,Project Management Basics,78
+953,SEC-101,Security Awareness,72
+953,PM-200,Project Management Basics,91
+953,HR-105,Workplace Harassment Prevention,81
+954,CS-150,Customer Success Foundations,87
+954,CL-130,Cloud Fundamentals,71
+954,PM-200,Project Management Basics,96
+955,CL-130,Cloud Fundamentals,100
+955,CS-150,Customer Success Foundations,87
+956,CS-150,Customer Success Foundations,85
+956,CL-130,Cloud Fundamentals,79
+956,PM-200,Project Management Basics,72
+957,HR-105,Workplace Harassment Prevention,86
+957,SEC-101,Security Awareness,88
+958,CL-130,Cloud Fundamentals,73
+958,HR-105,Workplace Harassment Prevention,100
+958,PM-200,Project Management Basics,94
+959,PM-200,Project Management Basics,76
+959,HR-105,Workplace Harassment Prevention,95
+960,PM-200,Project Management Basics,71
+961,SEC-101,Security Awareness,76
+961,CS-150,Customer Success Foundations,96
+962,PM-200,Project Management Basics,80
+962,CL-130,Cloud Fundamentals,99
+962,DA-110,Intro to Data Analytics,93
+963,SEC-101,Security Awareness,82
+964,CS-150,Customer Success Foundations,97
+964,CL-130,Cloud Fundamentals,78
+964,DA-110,Intro to Data Analytics,86
+965,SEC-101,Security Awareness,88
+965,CL-130,Cloud Fundamentals,86
+966,SEC-101,Security Awareness,74
+966,CS-150,Customer Success Foundations,74
+967,CL-130,Cloud Fundamentals,99
+967,HR-105,Workplace Harassment Prevention,73
+967,SEC-101,Security Awareness,88
+968,DA-110,Intro to Data Analytics,97
+969,DA-110,Intro to Data Analytics,82
+969,CS-150,Customer Success Foundations,90
+969,HR-105,Workplace Harassment Prevention,85
+970,CL-130,Cloud Fundamentals,75
+970,CS-150,Customer Success Foundations,78
+970,SEC-101,Security Awareness,82
+971,CL-130,Cloud Fundamentals,89
+972,HR-105,Workplace Harassment Prevention,82
+972,CS-150,Customer Success Foundations,98
+972,SEC-101,Security Awareness,98
+973,HR-105,Workplace Harassment Prevention,71
+973,PM-200,Project Management Basics,93
+974,DA-110,Intro to Data Analytics,70
+974,HR-105,Workplace Harassment Prevention,80
+975,DA-110,Intro to Data Analytics,96
+975,HR-105,Workplace Harassment Prevention,85
+976,HR-105,Workplace Harassment Prevention,74
+976,SEC-101,Security Awareness,79
+976,PM-200,Project Management Basics,93
+977,DA-110,Intro to Data Analytics,93
+977,HR-105,Workplace Harassment Prevention,83
+978,HR-105,Workplace Harassment Prevention,84
+978,SEC-101,Security Awareness,76
+978,PM-200,Project Management Basics,99
+979,HR-105,Workplace Harassment Prevention,94
+979,CS-150,Customer Success Foundations,86
+980,SEC-101,Security Awareness,95
+980,CL-130,Cloud Fundamentals,75
+981,DA-110,Intro to Data Analytics,92
+982,CS-150,Customer Success Foundations,75
+982,PM-200,Project Management Basics,76
+982,SEC-101,Security Awareness,98
+983,SEC-101,Security Awareness,77
+984,CS-150,Customer Success Foundations,71
+985,HR-105,Workplace Harassment Prevention,78
+985,PM-200,Project Management Basics,81
+986,CL-130,Cloud Fundamentals,90
+986,CS-150,Customer Success Foundations,99
+987,HR-105,Workplace Harassment Prevention,70
+988,DA-110,Intro to Data Analytics,85
+989,CS-150,Customer Success Foundations,88
+989,PM-200,Project Management Basics,87
+989,HR-105,Workplace Harassment Prevention,81
+990,PM-200,Project Management Basics,93
+990,DA-110,Intro to Data Analytics,96
+991,SEC-101,Security Awareness,82
+991,DA-110,Intro to Data Analytics,71
+991,HR-105,Workplace Harassment Prevention,75
+992,PM-200,Project Management Basics,91
+992,HR-105,Workplace Harassment Prevention,76
+992,CL-130,Cloud Fundamentals,78
+993,CS-150,Customer Success Foundations,97
+993,CL-130,Cloud Fundamentals,94
+993,SEC-101,Security Awareness,100
+994,SEC-101,Security Awareness,90
+994,CS-150,Customer Success Foundations,75
+994,PM-200,Project Management Basics,89
+995,PM-200,Project Management Basics,78
+996,DA-110,Intro to Data Analytics,98
+996,HR-105,Workplace Harassment Prevention,82
+996,CS-150,Customer Success Foundations,97
+997,CS-150,Customer Success Foundations,76
+997,DA-110,Intro to Data Analytics,84
+998,HR-105,Workplace Harassment Prevention,96
+998,CL-130,Cloud Fundamentals,89
+999,CL-130,Cloud Fundamentals,70
+999,SEC-101,Security Awareness,86
+1000,DA-110,Intro to Data Analytics,79
+1000,CL-130,Cloud Fundamentals,91
+1000,HR-105,Workplace Harassment Prevention,73

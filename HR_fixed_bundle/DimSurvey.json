@@ -1,0 +1,5402 @@
+[
+  {
+    "employee_id": 990,
+    "survey_date": "2025-03-27",
+    "satisfaction_score": 8,
+    "engagement_index": 4,
+    "manager_effectiveness": 10,
+    "eNPS": 8,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 120,
+    "survey_date": "2024-01-08",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": -1,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 93,
+    "survey_date": "2025-08-19",
+    "satisfaction_score": 7,
+    "engagement_index": 2,
+    "manager_effectiveness": 9,
+    "eNPS": 47,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 36,
+    "survey_date": "2024-03-26",
+    "satisfaction_score": 9,
+    "engagement_index": 2,
+    "manager_effectiveness": 6,
+    "eNPS": 18,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 101,
+    "survey_date": "2024-12-29",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 9,
+    "eNPS": -28,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 243,
+    "survey_date": "2024-01-18",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 34,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 32,
+    "survey_date": "2024-01-17",
+    "satisfaction_score": 9,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": -36,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 355,
+    "survey_date": "2025-05-10",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": 28,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 631,
+    "survey_date": "2025-04-19",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 8,
+    "eNPS": 14,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 153,
+    "survey_date": "2024-04-03",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 89,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 188,
+    "survey_date": "2024-04-27",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": -44,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 866,
+    "survey_date": "2024-01-15",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 18,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 516,
+    "survey_date": "2025-05-13",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": -25,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 902,
+    "survey_date": "2024-09-12",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 13,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 67,
+    "survey_date": "2025-07-08",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 64,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 935,
+    "survey_date": "2025-04-22",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 11,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 71,
+    "survey_date": "2024-04-01",
+    "satisfaction_score": 9,
+    "engagement_index": 1,
+    "manager_effectiveness": 10,
+    "eNPS": -16,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 528,
+    "survey_date": "2025-08-15",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": 31,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 48,
+    "survey_date": "2024-10-03",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": 78,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 845,
+    "survey_date": "2025-07-23",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 8,
+    "eNPS": 19,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 65,
+    "survey_date": "2024-11-05",
+    "satisfaction_score": 8,
+    "engagement_index": 1,
+    "manager_effectiveness": 9,
+    "eNPS": 22,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 493,
+    "survey_date": "2024-12-29",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 47,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 273,
+    "survey_date": "2024-09-12",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": 6,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 672,
+    "survey_date": "2024-07-23",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 15,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 465,
+    "survey_date": "2025-06-26",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 4,
+    "eNPS": 2,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 682,
+    "survey_date": "2024-01-20",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 26,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 965,
+    "survey_date": "2025-06-04",
+    "satisfaction_score": 8,
+    "engagement_index": 9,
+    "manager_effectiveness": 5,
+    "eNPS": 3,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 73,
+    "survey_date": "2024-01-06",
+    "satisfaction_score": 9,
+    "engagement_index": 4,
+    "manager_effectiveness": 8,
+    "eNPS": -33,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 342,
+    "survey_date": "2024-05-27",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 12,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 728,
+    "survey_date": "2025-04-29",
+    "satisfaction_score": 8,
+    "engagement_index": 2,
+    "manager_effectiveness": 7,
+    "eNPS": 29,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 674,
+    "survey_date": "2025-01-21",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": 31,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 172,
+    "survey_date": "2024-02-25",
+    "satisfaction_score": 3,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 9,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 79,
+    "survey_date": "2025-08-24",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 22,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 509,
+    "survey_date": "2024-06-16",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": -10,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 78,
+    "survey_date": "2025-07-24",
+    "satisfaction_score": 2,
+    "engagement_index": 10,
+    "manager_effectiveness": 3,
+    "eNPS": 54,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 221,
+    "survey_date": "2024-05-27",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": -7,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 28,
+    "survey_date": "2024-12-20",
+    "satisfaction_score": 9,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 47,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 790,
+    "survey_date": "2024-04-23",
+    "satisfaction_score": 6,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": 41,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 980,
+    "survey_date": "2025-06-26",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 9,
+    "eNPS": -6,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 145,
+    "survey_date": "2024-11-08",
+    "satisfaction_score": 2,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 28,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 466,
+    "survey_date": "2024-02-10",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": -9,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 427,
+    "survey_date": "2024-10-10",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 23,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 679,
+    "survey_date": "2024-02-11",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": 1,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 182,
+    "survey_date": "2024-10-05",
+    "satisfaction_score": 5,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 11,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 159,
+    "survey_date": "2024-11-03",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 4,
+    "eNPS": 60,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 978,
+    "survey_date": "2024-06-07",
+    "satisfaction_score": 2,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 17,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 798,
+    "survey_date": "2025-04-20",
+    "satisfaction_score": 9,
+    "engagement_index": 3,
+    "manager_effectiveness": 4,
+    "eNPS": 0,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 43,
+    "survey_date": "2025-07-30",
+    "satisfaction_score": 6,
+    "engagement_index": 3,
+    "manager_effectiveness": 7,
+    "eNPS": 0,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 396,
+    "survey_date": "2024-12-23",
+    "satisfaction_score": 4,
+    "engagement_index": 5,
+    "manager_effectiveness": 9,
+    "eNPS": 5,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 508,
+    "survey_date": "2024-12-15",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": -13,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 597,
+    "survey_date": "2025-04-24",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 0,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 488,
+    "survey_date": "2024-02-16",
+    "satisfaction_score": 9,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": 20,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 802,
+    "survey_date": "2025-04-27",
+    "satisfaction_score": 10,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 1,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 892,
+    "survey_date": "2025-09-01",
+    "satisfaction_score": 9,
+    "engagement_index": 10,
+    "manager_effectiveness": 10,
+    "eNPS": 48,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 903,
+    "survey_date": "2024-06-23",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 38,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 451,
+    "survey_date": "2025-06-15",
+    "satisfaction_score": 6,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": 44,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 835,
+    "survey_date": "2025-03-24",
+    "satisfaction_score": 7,
+    "engagement_index": 2,
+    "manager_effectiveness": 6,
+    "eNPS": 15,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 303,
+    "survey_date": "2024-10-08",
+    "satisfaction_score": 9,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 26,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 127,
+    "survey_date": "2024-07-09",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 4,
+    "eNPS": 25,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 427,
+    "survey_date": "2025-03-22",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": 38,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 788,
+    "survey_date": "2024-05-02",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": -13,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 962,
+    "survey_date": "2025-06-26",
+    "satisfaction_score": 4,
+    "engagement_index": 9,
+    "manager_effectiveness": 9,
+    "eNPS": 29,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 106,
+    "survey_date": "2025-05-11",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": -33,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 386,
+    "survey_date": "2024-09-18",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": -20,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 657,
+    "survey_date": "2024-07-15",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": -5,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 354,
+    "survey_date": "2024-04-20",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 43,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 720,
+    "survey_date": "2024-06-09",
+    "satisfaction_score": 7,
+    "engagement_index": 9,
+    "manager_effectiveness": 7,
+    "eNPS": 74,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 595,
+    "survey_date": "2024-10-02",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": -1,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 996,
+    "survey_date": "2024-06-07",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 47,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 869,
+    "survey_date": "2024-11-27",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 9,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 813,
+    "survey_date": "2025-04-02",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 2,
+    "eNPS": 64,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 738,
+    "survey_date": "2024-03-13",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 4,
+    "eNPS": 71,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 81,
+    "survey_date": "2025-02-08",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 42,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 220,
+    "survey_date": "2024-02-18",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 7,
+    "eNPS": 58,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 917,
+    "survey_date": "2024-10-20",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 3,
+    "eNPS": 8,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 823,
+    "survey_date": "2024-02-08",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 97,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 225,
+    "survey_date": "2025-06-02",
+    "satisfaction_score": 3,
+    "engagement_index": 6,
+    "manager_effectiveness": 10,
+    "eNPS": 35,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 850,
+    "survey_date": "2024-03-30",
+    "satisfaction_score": 7,
+    "engagement_index": 3,
+    "manager_effectiveness": 7,
+    "eNPS": 1,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 812,
+    "survey_date": "2024-11-20",
+    "satisfaction_score": 7,
+    "engagement_index": 9,
+    "manager_effectiveness": 7,
+    "eNPS": 9,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 313,
+    "survey_date": "2025-04-16",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": -12,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 68,
+    "survey_date": "2025-08-22",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 8,
+    "eNPS": 22,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 264,
+    "survey_date": "2024-03-15",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 10,
+    "eNPS": 22,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 706,
+    "survey_date": "2025-03-12",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 26,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 973,
+    "survey_date": "2024-07-25",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 26,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 104,
+    "survey_date": "2025-02-10",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 31,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 200,
+    "survey_date": "2025-04-15",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 12,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 513,
+    "survey_date": "2024-08-29",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 30,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 839,
+    "survey_date": "2025-01-04",
+    "satisfaction_score": 8,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": 62,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 954,
+    "survey_date": "2024-07-29",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 4,
+    "eNPS": 16,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 528,
+    "survey_date": "2025-03-07",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 9,
+    "eNPS": 26,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 179,
+    "survey_date": "2025-08-21",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 7,
+    "eNPS": 12,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 209,
+    "survey_date": "2024-11-05",
+    "satisfaction_score": 10,
+    "engagement_index": 10,
+    "manager_effectiveness": 4,
+    "eNPS": -20,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 62,
+    "survey_date": "2024-12-26",
+    "satisfaction_score": 8,
+    "engagement_index": 4,
+    "manager_effectiveness": 5,
+    "eNPS": 21,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 548,
+    "survey_date": "2024-06-05",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": -33,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 512,
+    "survey_date": "2025-07-16",
+    "satisfaction_score": 10,
+    "engagement_index": 4,
+    "manager_effectiveness": 8,
+    "eNPS": -2,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 484,
+    "survey_date": "2024-12-07",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 10,
+    "eNPS": 7,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 143,
+    "survey_date": "2024-05-14",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 9,
+    "eNPS": -34,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 50,
+    "survey_date": "2024-06-18",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": -10,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 948,
+    "survey_date": "2024-05-28",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 4,
+    "eNPS": 19,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 863,
+    "survey_date": "2025-07-13",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": 75,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 72,
+    "survey_date": "2024-11-29",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": -20,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 176,
+    "survey_date": "2024-01-02",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 9,
+    "eNPS": 59,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 685,
+    "survey_date": "2024-03-03",
+    "satisfaction_score": 9,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 55,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 654,
+    "survey_date": "2024-03-30",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": 10,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 777,
+    "survey_date": "2024-05-31",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 3,
+    "eNPS": -9,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 938,
+    "survey_date": "2024-08-10",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 25,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 41,
+    "survey_date": "2025-03-19",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 16,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 401,
+    "survey_date": "2024-11-28",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 4,
+    "eNPS": 8,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 213,
+    "survey_date": "2025-01-25",
+    "satisfaction_score": 10,
+    "engagement_index": 4,
+    "manager_effectiveness": 3,
+    "eNPS": 64,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 959,
+    "survey_date": "2024-10-13",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 10,
+    "eNPS": 1,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 551,
+    "survey_date": "2024-11-07",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 27,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 433,
+    "survey_date": "2024-11-22",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 26,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 702,
+    "survey_date": "2025-08-14",
+    "satisfaction_score": 4,
+    "engagement_index": 5,
+    "manager_effectiveness": 3,
+    "eNPS": 26,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 868,
+    "survey_date": "2024-06-04",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 18,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 859,
+    "survey_date": "2025-06-29",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 4,
+    "eNPS": -22,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 96,
+    "survey_date": "2024-09-23",
+    "satisfaction_score": 10,
+    "engagement_index": 3,
+    "manager_effectiveness": 4,
+    "eNPS": 30,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 285,
+    "survey_date": "2025-02-24",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 10,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 410,
+    "survey_date": "2025-08-01",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 10,
+    "eNPS": 9,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 284,
+    "survey_date": "2025-06-22",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 6,
+    "eNPS": 19,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 117,
+    "survey_date": "2025-01-19",
+    "satisfaction_score": 8,
+    "engagement_index": 3,
+    "manager_effectiveness": 8,
+    "eNPS": 33,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 281,
+    "survey_date": "2024-08-07",
+    "satisfaction_score": 4,
+    "engagement_index": 3,
+    "manager_effectiveness": 6,
+    "eNPS": 5,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 305,
+    "survey_date": "2025-08-24",
+    "satisfaction_score": 3,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 20,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 408,
+    "survey_date": "2024-02-23",
+    "satisfaction_score": 5,
+    "engagement_index": 2,
+    "manager_effectiveness": 8,
+    "eNPS": 45,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 358,
+    "survey_date": "2025-03-27",
+    "satisfaction_score": 6,
+    "engagement_index": 3,
+    "manager_effectiveness": 7,
+    "eNPS": 10,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 239,
+    "survey_date": "2025-05-17",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 2,
+    "eNPS": -12,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 170,
+    "survey_date": "2025-01-24",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 16,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 316,
+    "survey_date": "2024-01-03",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": 50,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 76,
+    "survey_date": "2025-05-06",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 3,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 405,
+    "survey_date": "2024-11-01",
+    "satisfaction_score": 10,
+    "engagement_index": 10,
+    "manager_effectiveness": 4,
+    "eNPS": 19,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 440,
+    "survey_date": "2025-05-06",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 9,
+    "eNPS": 5,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 191,
+    "survey_date": "2025-02-14",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": -16,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 644,
+    "survey_date": "2025-05-04",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 81,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 161,
+    "survey_date": "2024-10-15",
+    "satisfaction_score": 10,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": -16,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 606,
+    "survey_date": "2025-01-13",
+    "satisfaction_score": 5,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": -21,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 671,
+    "survey_date": "2024-12-20",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": -8,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 212,
+    "survey_date": "2024-06-22",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 10,
+    "eNPS": 0,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 532,
+    "survey_date": "2025-08-04",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 8,
+    "eNPS": 24,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 469,
+    "survey_date": "2025-04-30",
+    "satisfaction_score": 9,
+    "engagement_index": 5,
+    "manager_effectiveness": 9,
+    "eNPS": 44,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 676,
+    "survey_date": "2024-01-29",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 40,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 821,
+    "survey_date": "2025-04-24",
+    "satisfaction_score": 3,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 6,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 677,
+    "survey_date": "2024-04-16",
+    "satisfaction_score": 7,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": 41,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 28,
+    "survey_date": "2025-01-10",
+    "satisfaction_score": 8,
+    "engagement_index": 4,
+    "manager_effectiveness": 10,
+    "eNPS": -25,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 993,
+    "survey_date": "2025-05-02",
+    "satisfaction_score": 10,
+    "engagement_index": 3,
+    "manager_effectiveness": 7,
+    "eNPS": 36,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 67,
+    "survey_date": "2024-05-23",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 3,
+    "eNPS": 42,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 910,
+    "survey_date": "2025-08-25",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 10,
+    "eNPS": 60,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 340,
+    "survey_date": "2024-12-23",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 14,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 772,
+    "survey_date": "2024-10-23",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 23,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 306,
+    "survey_date": "2025-08-20",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": 13,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 339,
+    "survey_date": "2025-07-30",
+    "satisfaction_score": 8,
+    "engagement_index": 4,
+    "manager_effectiveness": 5,
+    "eNPS": 17,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 969,
+    "survey_date": "2024-10-27",
+    "satisfaction_score": 4,
+    "engagement_index": 4,
+    "manager_effectiveness": 9,
+    "eNPS": 69,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 577,
+    "survey_date": "2024-07-18",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 8,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 522,
+    "survey_date": "2024-10-12",
+    "satisfaction_score": 8,
+    "engagement_index": 9,
+    "manager_effectiveness": 8,
+    "eNPS": -41,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 75,
+    "survey_date": "2025-06-30",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": -15,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 711,
+    "survey_date": "2024-07-27",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 4,
+    "eNPS": 34,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 348,
+    "survey_date": "2025-06-06",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 3,
+    "eNPS": 13,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 343,
+    "survey_date": "2024-11-24",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 10,
+    "eNPS": 56,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 470,
+    "survey_date": "2024-09-30",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 14,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 87,
+    "survey_date": "2025-06-23",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": -7,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 604,
+    "survey_date": "2025-08-19",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 10,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 562,
+    "survey_date": "2024-05-02",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 38,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 844,
+    "survey_date": "2024-09-08",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": -48,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 264,
+    "survey_date": "2025-01-15",
+    "satisfaction_score": 1,
+    "engagement_index": 8,
+    "manager_effectiveness": 3,
+    "eNPS": -15,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 141,
+    "survey_date": "2024-01-30",
+    "satisfaction_score": 5,
+    "engagement_index": 1,
+    "manager_effectiveness": 10,
+    "eNPS": -16,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 405,
+    "survey_date": "2024-02-08",
+    "satisfaction_score": 7,
+    "engagement_index": 9,
+    "manager_effectiveness": 3,
+    "eNPS": 3,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 681,
+    "survey_date": "2024-02-15",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": 35,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 998,
+    "survey_date": "2024-08-01",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": 4,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 683,
+    "survey_date": "2024-06-07",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 4,
+    "eNPS": 73,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 321,
+    "survey_date": "2025-06-12",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 49,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 364,
+    "survey_date": "2025-03-20",
+    "satisfaction_score": 9,
+    "engagement_index": 1,
+    "manager_effectiveness": 5,
+    "eNPS": 42,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 931,
+    "survey_date": "2025-06-11",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 4,
+    "eNPS": 61,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 930,
+    "survey_date": "2024-03-11",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 33,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 865,
+    "survey_date": "2024-11-08",
+    "satisfaction_score": 10,
+    "engagement_index": 2,
+    "manager_effectiveness": 9,
+    "eNPS": 34,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 268,
+    "survey_date": "2025-05-12",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 24,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 932,
+    "survey_date": "2025-08-16",
+    "satisfaction_score": 9,
+    "engagement_index": 10,
+    "manager_effectiveness": 6,
+    "eNPS": 46,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 225,
+    "survey_date": "2024-12-22",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": 67,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 517,
+    "survey_date": "2024-03-25",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": -37,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 669,
+    "survey_date": "2024-01-19",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 21,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 700,
+    "survey_date": "2025-08-22",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 10,
+    "eNPS": 39,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 340,
+    "survey_date": "2025-07-31",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 4,
+    "eNPS": 28,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 236,
+    "survey_date": "2024-06-15",
+    "satisfaction_score": 3,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 1,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 490,
+    "survey_date": "2025-05-26",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 3,
+    "eNPS": 2,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 702,
+    "survey_date": "2024-05-23",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 7,
+    "eNPS": 18,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 899,
+    "survey_date": "2025-06-29",
+    "satisfaction_score": 3,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": -19,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 638,
+    "survey_date": "2024-03-10",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 4,
+    "eNPS": 27,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 150,
+    "survey_date": "2025-06-28",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 7,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 972,
+    "survey_date": "2024-09-06",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": -3,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 706,
+    "survey_date": "2024-06-17",
+    "satisfaction_score": 7,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": 16,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 936,
+    "survey_date": "2025-06-02",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 3,
+    "eNPS": -9,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 773,
+    "survey_date": "2025-06-01",
+    "satisfaction_score": 9,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 37,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 708,
+    "survey_date": "2025-02-06",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": -27,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 874,
+    "survey_date": "2024-11-30",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 10,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 133,
+    "survey_date": "2025-07-29",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 1,
+    "eNPS": 81,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 580,
+    "survey_date": "2025-07-01",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 10,
+    "eNPS": 20,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 625,
+    "survey_date": "2025-04-02",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 16,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 42,
+    "survey_date": "2025-01-15",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 2,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 71,
+    "survey_date": "2025-01-12",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 4,
+    "eNPS": 10,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 782,
+    "survey_date": "2025-02-22",
+    "satisfaction_score": 10,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": -22,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 908,
+    "survey_date": "2024-02-15",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 18,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 619,
+    "survey_date": "2024-03-13",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": -57,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 322,
+    "survey_date": "2024-08-21",
+    "satisfaction_score": 8,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": -14,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 639,
+    "survey_date": "2024-07-21",
+    "satisfaction_score": 9,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 44,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 355,
+    "survey_date": "2025-06-17",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 10,
+    "eNPS": 14,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 706,
+    "survey_date": "2025-01-23",
+    "satisfaction_score": 9,
+    "engagement_index": 4,
+    "manager_effectiveness": 10,
+    "eNPS": 17,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 604,
+    "survey_date": "2025-05-19",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 2,
+    "eNPS": -15,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 54,
+    "survey_date": "2024-01-31",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 8,
+    "eNPS": 19,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 459,
+    "survey_date": "2024-03-23",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 24,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 849,
+    "survey_date": "2024-10-27",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 6,
+    "eNPS": 13,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 437,
+    "survey_date": "2024-12-14",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 7,
+    "eNPS": 15,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 152,
+    "survey_date": "2025-05-12",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 5,
+    "eNPS": 7,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 694,
+    "survey_date": "2024-09-04",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 10,
+    "eNPS": 18,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 710,
+    "survey_date": "2024-01-31",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 65,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 885,
+    "survey_date": "2024-12-31",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 3,
+    "eNPS": 22,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 606,
+    "survey_date": "2025-01-15",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 38,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 425,
+    "survey_date": "2024-06-27",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": -2,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 77,
+    "survey_date": "2024-01-19",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 8,
+    "eNPS": -5,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 218,
+    "survey_date": "2024-07-20",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 16,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 855,
+    "survey_date": "2025-07-14",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": -7,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 749,
+    "survey_date": "2024-05-24",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 51,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 514,
+    "survey_date": "2024-05-15",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 5,
+    "eNPS": 26,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 691,
+    "survey_date": "2024-09-17",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 4,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 667,
+    "survey_date": "2024-02-20",
+    "satisfaction_score": 7,
+    "engagement_index": 1,
+    "manager_effectiveness": 3,
+    "eNPS": -55,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 962,
+    "survey_date": "2025-04-24",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 6,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 371,
+    "survey_date": "2025-01-15",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": -9,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 296,
+    "survey_date": "2025-02-10",
+    "satisfaction_score": 7,
+    "engagement_index": 2,
+    "manager_effectiveness": 7,
+    "eNPS": 0,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 418,
+    "survey_date": "2025-01-11",
+    "satisfaction_score": 5,
+    "engagement_index": 4,
+    "manager_effectiveness": 10,
+    "eNPS": -1,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 240,
+    "survey_date": "2024-10-19",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": -26,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 9,
+    "survey_date": "2024-11-16",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 50,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 598,
+    "survey_date": "2024-09-29",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 5,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 124,
+    "survey_date": "2025-07-11",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 3,
+    "eNPS": 24,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 615,
+    "survey_date": "2024-02-06",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 32,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 886,
+    "survey_date": "2024-08-11",
+    "satisfaction_score": 8,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": 55,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 547,
+    "survey_date": "2025-08-07",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 9,
+    "eNPS": 15,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 608,
+    "survey_date": "2025-01-13",
+    "satisfaction_score": 2,
+    "engagement_index": 2,
+    "manager_effectiveness": 9,
+    "eNPS": 78,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 551,
+    "survey_date": "2024-07-07",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": -14,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 330,
+    "survey_date": "2024-10-26",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 9,
+    "eNPS": 36,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 372,
+    "survey_date": "2024-10-06",
+    "satisfaction_score": 7,
+    "engagement_index": 2,
+    "manager_effectiveness": 7,
+    "eNPS": 78,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 730,
+    "survey_date": "2024-06-29",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 3,
+    "eNPS": 26,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 468,
+    "survey_date": "2024-06-22",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 7,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 898,
+    "survey_date": "2024-01-04",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 5,
+    "eNPS": 21,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 991,
+    "survey_date": "2025-07-10",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 6,
+    "eNPS": 67,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 713,
+    "survey_date": "2025-02-22",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 4,
+    "eNPS": 5,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 245,
+    "survey_date": "2024-07-15",
+    "satisfaction_score": 9,
+    "engagement_index": 3,
+    "manager_effectiveness": 8,
+    "eNPS": -1,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 455,
+    "survey_date": "2024-10-06",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 52,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 854,
+    "survey_date": "2024-06-27",
+    "satisfaction_score": 10,
+    "engagement_index": 5,
+    "manager_effectiveness": 4,
+    "eNPS": -1,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 363,
+    "survey_date": "2025-08-23",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": -21,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 834,
+    "survey_date": "2025-02-23",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 0,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 543,
+    "survey_date": "2025-05-12",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 9,
+    "eNPS": -3,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 773,
+    "survey_date": "2025-08-24",
+    "satisfaction_score": 5,
+    "engagement_index": 4,
+    "manager_effectiveness": 8,
+    "eNPS": 37,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 493,
+    "survey_date": "2025-05-06",
+    "satisfaction_score": 8,
+    "engagement_index": 2,
+    "manager_effectiveness": 5,
+    "eNPS": 26,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 527,
+    "survey_date": "2025-03-31",
+    "satisfaction_score": 9,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": -6,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 742,
+    "survey_date": "2025-01-16",
+    "satisfaction_score": 3,
+    "engagement_index": 3,
+    "manager_effectiveness": 7,
+    "eNPS": -32,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 634,
+    "survey_date": "2024-04-15",
+    "satisfaction_score": 10,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 16,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 731,
+    "survey_date": "2025-06-25",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 1,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 871,
+    "survey_date": "2025-02-15",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 5,
+    "eNPS": 9,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 855,
+    "survey_date": "2025-08-16",
+    "satisfaction_score": 10,
+    "engagement_index": 4,
+    "manager_effectiveness": 4,
+    "eNPS": 9,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 131,
+    "survey_date": "2024-04-18",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": -9,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 804,
+    "survey_date": "2025-04-25",
+    "satisfaction_score": 4,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": -45,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 500,
+    "survey_date": "2024-04-09",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 3,
+    "eNPS": 19,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 560,
+    "survey_date": "2025-07-25",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 44,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 136,
+    "survey_date": "2024-09-19",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 37,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 245,
+    "survey_date": "2024-03-13",
+    "satisfaction_score": 3,
+    "engagement_index": 3,
+    "manager_effectiveness": 6,
+    "eNPS": 44,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 344,
+    "survey_date": "2025-02-05",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 50,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 980,
+    "survey_date": "2024-10-27",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 9,
+    "eNPS": 56,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 729,
+    "survey_date": "2025-06-18",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 67,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 364,
+    "survey_date": "2025-02-19",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 18,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 562,
+    "survey_date": "2024-07-11",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 3,
+    "eNPS": -29,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 621,
+    "survey_date": "2025-04-29",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": -4,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 692,
+    "survey_date": "2025-04-21",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 18,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 328,
+    "survey_date": "2025-03-28",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 11,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 941,
+    "survey_date": "2025-06-21",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 4,
+    "eNPS": -47,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 111,
+    "survey_date": "2025-07-06",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 38,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 832,
+    "survey_date": "2025-04-19",
+    "satisfaction_score": 6,
+    "engagement_index": 1,
+    "manager_effectiveness": 2,
+    "eNPS": 18,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 88,
+    "survey_date": "2024-03-18",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 5,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 203,
+    "survey_date": "2024-06-29",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 51,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 623,
+    "survey_date": "2024-12-09",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 10,
+    "eNPS": 4,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 177,
+    "survey_date": "2025-01-21",
+    "satisfaction_score": 10,
+    "engagement_index": 3,
+    "manager_effectiveness": 7,
+    "eNPS": 72,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 279,
+    "survey_date": "2024-07-23",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 10,
+    "eNPS": 84,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 271,
+    "survey_date": "2024-01-31",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 25,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 162,
+    "survey_date": "2024-11-19",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 5,
+    "eNPS": -3,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 617,
+    "survey_date": "2024-04-12",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": -9,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 47,
+    "survey_date": "2024-02-27",
+    "satisfaction_score": 7,
+    "engagement_index": 3,
+    "manager_effectiveness": 6,
+    "eNPS": 43,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 827,
+    "survey_date": "2024-09-23",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 64,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 435,
+    "survey_date": "2024-11-26",
+    "satisfaction_score": 10,
+    "engagement_index": 4,
+    "manager_effectiveness": 9,
+    "eNPS": 7,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 349,
+    "survey_date": "2024-11-11",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 10,
+    "eNPS": 55,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 607,
+    "survey_date": "2025-03-20",
+    "satisfaction_score": 9,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": -8,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 732,
+    "survey_date": "2025-08-13",
+    "satisfaction_score": 9,
+    "engagement_index": 8,
+    "manager_effectiveness": 4,
+    "eNPS": -5,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 925,
+    "survey_date": "2024-06-19",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 17,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 385,
+    "survey_date": "2025-02-08",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 35,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 10,
+    "survey_date": "2024-10-23",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": -39,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 611,
+    "survey_date": "2025-08-31",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": -41,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 944,
+    "survey_date": "2024-10-17",
+    "satisfaction_score": 9,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 19,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 932,
+    "survey_date": "2024-11-20",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 44,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 949,
+    "survey_date": "2024-09-11",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": 44,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 160,
+    "survey_date": "2024-07-17",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 10,
+    "eNPS": 19,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 625,
+    "survey_date": "2025-04-08",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 9,
+    "eNPS": 90,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 622,
+    "survey_date": "2025-03-31",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 10,
+    "eNPS": 38,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 428,
+    "survey_date": "2025-05-28",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 10,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 875,
+    "survey_date": "2024-12-10",
+    "satisfaction_score": 6,
+    "engagement_index": 10,
+    "manager_effectiveness": 5,
+    "eNPS": -25,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 536,
+    "survey_date": "2024-10-02",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": -16,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 830,
+    "survey_date": "2025-03-21",
+    "satisfaction_score": 7,
+    "engagement_index": 2,
+    "manager_effectiveness": 2,
+    "eNPS": 14,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 402,
+    "survey_date": "2024-09-22",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 3,
+    "eNPS": 78,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 703,
+    "survey_date": "2025-08-11",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 10,
+    "eNPS": 65,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 506,
+    "survey_date": "2024-11-18",
+    "satisfaction_score": 10,
+    "engagement_index": 4,
+    "manager_effectiveness": 10,
+    "eNPS": 13,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 254,
+    "survey_date": "2024-10-20",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": -1,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 162,
+    "survey_date": "2024-06-16",
+    "satisfaction_score": 4,
+    "engagement_index": 10,
+    "manager_effectiveness": 6,
+    "eNPS": 22,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 926,
+    "survey_date": "2025-02-24",
+    "satisfaction_score": 10,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": 15,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 162,
+    "survey_date": "2024-02-05",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 40,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 239,
+    "survey_date": "2025-08-13",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 33,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 982,
+    "survey_date": "2025-07-12",
+    "satisfaction_score": 10,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 8,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 944,
+    "survey_date": "2024-12-28",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 7,
+    "eNPS": 54,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 644,
+    "survey_date": "2025-07-10",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": -30,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 212,
+    "survey_date": "2025-03-16",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 2,
+    "eNPS": -9,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 941,
+    "survey_date": "2025-03-30",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": 35,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 25,
+    "survey_date": "2025-07-17",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 33,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 415,
+    "survey_date": "2024-03-11",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 3,
+    "eNPS": 34,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 736,
+    "survey_date": "2024-03-05",
+    "satisfaction_score": 9,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 13,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 73,
+    "survey_date": "2024-09-07",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": 53,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 847,
+    "survey_date": "2025-01-25",
+    "satisfaction_score": 4,
+    "engagement_index": 3,
+    "manager_effectiveness": 10,
+    "eNPS": 0,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 731,
+    "survey_date": "2025-05-12",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": -8,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 389,
+    "survey_date": "2024-08-31",
+    "satisfaction_score": 9,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 29,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 710,
+    "survey_date": "2024-11-05",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 9,
+    "eNPS": 75,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 853,
+    "survey_date": "2025-06-09",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 10,
+    "eNPS": 40,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 336,
+    "survey_date": "2025-06-15",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 8,
+    "eNPS": -6,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 531,
+    "survey_date": "2025-04-07",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 35,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 825,
+    "survey_date": "2024-03-06",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 3,
+    "eNPS": -29,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 311,
+    "survey_date": "2024-01-27",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 10,
+    "eNPS": -7,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 819,
+    "survey_date": "2025-05-28",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 8,
+    "eNPS": 100,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 185,
+    "survey_date": "2024-05-26",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 9,
+    "eNPS": -1,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 151,
+    "survey_date": "2025-01-19",
+    "satisfaction_score": 3,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": 10,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 439,
+    "survey_date": "2024-06-30",
+    "satisfaction_score": 4,
+    "engagement_index": 8,
+    "manager_effectiveness": 10,
+    "eNPS": 81,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 541,
+    "survey_date": "2024-05-20",
+    "satisfaction_score": 8,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": 33,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 948,
+    "survey_date": "2024-11-04",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": -4,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 97,
+    "survey_date": "2025-05-15",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": -29,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 554,
+    "survey_date": "2024-12-09",
+    "satisfaction_score": 6,
+    "engagement_index": 10,
+    "manager_effectiveness": 5,
+    "eNPS": 47,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 616,
+    "survey_date": "2024-05-16",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": 62,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 274,
+    "survey_date": "2025-03-17",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 29,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 881,
+    "survey_date": "2025-04-28",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": 81,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 286,
+    "survey_date": "2024-11-19",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": 19,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 172,
+    "survey_date": "2024-03-08",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 65,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 811,
+    "survey_date": "2025-03-25",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": 34,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 236,
+    "survey_date": "2025-03-28",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 0,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 256,
+    "survey_date": "2024-03-09",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 9,
+    "eNPS": 43,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 274,
+    "survey_date": "2024-06-08",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": -8,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 836,
+    "survey_date": "2025-07-28",
+    "satisfaction_score": 10,
+    "engagement_index": 2,
+    "manager_effectiveness": 5,
+    "eNPS": -2,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 281,
+    "survey_date": "2024-05-28",
+    "satisfaction_score": 6,
+    "engagement_index": 2,
+    "manager_effectiveness": 8,
+    "eNPS": 18,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 404,
+    "survey_date": "2024-08-11",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 4,
+    "eNPS": -27,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 206,
+    "survey_date": "2025-07-27",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": 1,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 535,
+    "survey_date": "2024-05-29",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 46,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 944,
+    "survey_date": "2024-08-05",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 59,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 351,
+    "survey_date": "2025-02-27",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": -4,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 696,
+    "survey_date": "2024-01-02",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 3,
+    "eNPS": 6,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 531,
+    "survey_date": "2024-12-20",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 40,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 904,
+    "survey_date": "2024-07-14",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": -2,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 657,
+    "survey_date": "2024-08-17",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": -5,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 864,
+    "survey_date": "2025-07-20",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 20,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 17,
+    "survey_date": "2024-01-19",
+    "satisfaction_score": 5,
+    "engagement_index": 4,
+    "manager_effectiveness": 10,
+    "eNPS": 16,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 899,
+    "survey_date": "2025-01-06",
+    "satisfaction_score": 10,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": -38,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 837,
+    "survey_date": "2025-03-26",
+    "satisfaction_score": 6,
+    "engagement_index": 3,
+    "manager_effectiveness": 7,
+    "eNPS": 3,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 243,
+    "survey_date": "2024-01-12",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": -7,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 425,
+    "survey_date": "2025-03-08",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 10,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 509,
+    "survey_date": "2025-03-07",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": 53,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 340,
+    "survey_date": "2025-08-19",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 4,
+    "eNPS": 65,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 531,
+    "survey_date": "2024-09-12",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 72,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 776,
+    "survey_date": "2025-08-23",
+    "satisfaction_score": 7,
+    "engagement_index": 2,
+    "manager_effectiveness": 5,
+    "eNPS": 9,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 791,
+    "survey_date": "2025-08-13",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 12,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 800,
+    "survey_date": "2025-07-31",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 52,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 497,
+    "survey_date": "2024-11-08",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 57,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 481,
+    "survey_date": "2025-08-27",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 45,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 18,
+    "survey_date": "2024-01-21",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 5,
+    "eNPS": 76,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 300,
+    "survey_date": "2025-08-03",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 3,
+    "eNPS": -24,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 127,
+    "survey_date": "2025-04-08",
+    "satisfaction_score": 10,
+    "engagement_index": 9,
+    "manager_effectiveness": 7,
+    "eNPS": -1,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 586,
+    "survey_date": "2024-09-07",
+    "satisfaction_score": 5,
+    "engagement_index": 2,
+    "manager_effectiveness": 8,
+    "eNPS": -36,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 405,
+    "survey_date": "2025-03-05",
+    "satisfaction_score": 9,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 30,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 215,
+    "survey_date": "2024-02-13",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 9,
+    "eNPS": 37,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 442,
+    "survey_date": "2025-02-05",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": 29,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 115,
+    "survey_date": "2025-02-26",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 9,
+    "eNPS": 48,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 183,
+    "survey_date": "2024-06-27",
+    "satisfaction_score": 9,
+    "engagement_index": 2,
+    "manager_effectiveness": 7,
+    "eNPS": -5,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 625,
+    "survey_date": "2024-03-15",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": 7,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 935,
+    "survey_date": "2025-01-12",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 57,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 806,
+    "survey_date": "2024-06-23",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 27,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 766,
+    "survey_date": "2024-08-23",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 9,
+    "eNPS": 53,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 823,
+    "survey_date": "2024-03-05",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 29,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 525,
+    "survey_date": "2025-01-24",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 4,
+    "eNPS": 64,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 34,
+    "survey_date": "2024-05-10",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": 31,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 275,
+    "survey_date": "2025-05-28",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 64,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 30,
+    "survey_date": "2024-12-19",
+    "satisfaction_score": 7,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": 48,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 521,
+    "survey_date": "2024-03-02",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 53,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 820,
+    "survey_date": "2024-10-08",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 20,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 748,
+    "survey_date": "2025-06-14",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 17,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 19,
+    "survey_date": "2024-02-16",
+    "satisfaction_score": 9,
+    "engagement_index": 10,
+    "manager_effectiveness": 6,
+    "eNPS": -29,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 422,
+    "survey_date": "2025-05-07",
+    "satisfaction_score": 10,
+    "engagement_index": 4,
+    "manager_effectiveness": 4,
+    "eNPS": 7,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 32,
+    "survey_date": "2024-10-22",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 10,
+    "eNPS": 15,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 905,
+    "survey_date": "2024-07-05",
+    "satisfaction_score": 10,
+    "engagement_index": 5,
+    "manager_effectiveness": 4,
+    "eNPS": 25,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 237,
+    "survey_date": "2025-05-16",
+    "satisfaction_score": 3,
+    "engagement_index": 8,
+    "manager_effectiveness": 10,
+    "eNPS": 57,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 590,
+    "survey_date": "2024-03-04",
+    "satisfaction_score": 2,
+    "engagement_index": 9,
+    "manager_effectiveness": 8,
+    "eNPS": -1,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 915,
+    "survey_date": "2024-10-28",
+    "satisfaction_score": 2,
+    "engagement_index": 4,
+    "manager_effectiveness": 8,
+    "eNPS": 75,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 250,
+    "survey_date": "2025-04-01",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 40,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 470,
+    "survey_date": "2024-06-28",
+    "satisfaction_score": 6,
+    "engagement_index": 3,
+    "manager_effectiveness": 6,
+    "eNPS": -4,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 270,
+    "survey_date": "2024-06-14",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 30,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 428,
+    "survey_date": "2024-11-15",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 4,
+    "eNPS": 65,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 535,
+    "survey_date": "2024-01-10",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 4,
+    "eNPS": 50,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 933,
+    "survey_date": "2024-10-26",
+    "satisfaction_score": 8,
+    "engagement_index": 9,
+    "manager_effectiveness": 8,
+    "eNPS": 20,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 855,
+    "survey_date": "2024-11-29",
+    "satisfaction_score": 9,
+    "engagement_index": 10,
+    "manager_effectiveness": 9,
+    "eNPS": 3,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 978,
+    "survey_date": "2025-09-01",
+    "satisfaction_score": 5,
+    "engagement_index": 4,
+    "manager_effectiveness": 3,
+    "eNPS": 62,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 211,
+    "survey_date": "2024-07-08",
+    "satisfaction_score": 9,
+    "engagement_index": 1,
+    "manager_effectiveness": 7,
+    "eNPS": 32,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 718,
+    "survey_date": "2024-02-03",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": 80,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 669,
+    "survey_date": "2024-11-10",
+    "satisfaction_score": 4,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": -2,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 645,
+    "survey_date": "2025-05-26",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 13,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 943,
+    "survey_date": "2024-01-19",
+    "satisfaction_score": 8,
+    "engagement_index": 9,
+    "manager_effectiveness": 5,
+    "eNPS": 4,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 435,
+    "survey_date": "2024-06-15",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 5,
+    "eNPS": 19,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 446,
+    "survey_date": "2024-12-13",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 9,
+    "eNPS": 24,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 635,
+    "survey_date": "2024-10-20",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": 69,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 891,
+    "survey_date": "2024-04-06",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 27,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 978,
+    "survey_date": "2024-03-22",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 30,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 854,
+    "survey_date": "2025-08-13",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 73,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 752,
+    "survey_date": "2025-03-05",
+    "satisfaction_score": 2,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 11,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 584,
+    "survey_date": "2024-12-09",
+    "satisfaction_score": 8,
+    "engagement_index": 1,
+    "manager_effectiveness": 7,
+    "eNPS": 12,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 541,
+    "survey_date": "2024-02-08",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 1,
+    "eNPS": 47,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 675,
+    "survey_date": "2025-02-22",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": 12,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 969,
+    "survey_date": "2025-03-28",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 82,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 537,
+    "survey_date": "2024-07-06",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 3,
+    "eNPS": 21,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 416,
+    "survey_date": "2024-04-19",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 5,
+    "eNPS": 12,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 569,
+    "survey_date": "2025-06-13",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": 54,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 340,
+    "survey_date": "2025-08-24",
+    "satisfaction_score": 3,
+    "engagement_index": 4,
+    "manager_effectiveness": 9,
+    "eNPS": 19,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 531,
+    "survey_date": "2025-07-02",
+    "satisfaction_score": 8,
+    "engagement_index": 2,
+    "manager_effectiveness": 5,
+    "eNPS": 6,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 195,
+    "survey_date": "2025-06-14",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 23,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 103,
+    "survey_date": "2025-02-09",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": -5,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 92,
+    "survey_date": "2024-11-21",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 45,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 713,
+    "survey_date": "2025-06-09",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 2,
+    "eNPS": 7,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 129,
+    "survey_date": "2024-03-15",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": -45,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 657,
+    "survey_date": "2024-12-04",
+    "satisfaction_score": 10,
+    "engagement_index": 3,
+    "manager_effectiveness": 5,
+    "eNPS": 6,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 985,
+    "survey_date": "2025-05-08",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 5,
+    "eNPS": 29,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 269,
+    "survey_date": "2024-03-19",
+    "satisfaction_score": 4,
+    "engagement_index": 9,
+    "manager_effectiveness": 9,
+    "eNPS": 21,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 66,
+    "survey_date": "2025-04-06",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": -3,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 800,
+    "survey_date": "2024-01-11",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 28,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 362,
+    "survey_date": "2024-02-07",
+    "satisfaction_score": 10,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": 0,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 607,
+    "survey_date": "2024-08-09",
+    "satisfaction_score": 7,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": 14,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 111,
+    "survey_date": "2025-04-01",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 4,
+    "eNPS": -14,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 718,
+    "survey_date": "2025-07-18",
+    "satisfaction_score": 5,
+    "engagement_index": 9,
+    "manager_effectiveness": 4,
+    "eNPS": -7,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 184,
+    "survey_date": "2025-08-10",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": -45,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 43,
+    "survey_date": "2024-09-30",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 30,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 515,
+    "survey_date": "2025-08-16",
+    "satisfaction_score": 9,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": 38,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 840,
+    "survey_date": "2025-02-13",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 10,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 318,
+    "survey_date": "2025-08-15",
+    "satisfaction_score": 4,
+    "engagement_index": 9,
+    "manager_effectiveness": 8,
+    "eNPS": -14,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 961,
+    "survey_date": "2024-02-03",
+    "satisfaction_score": 9,
+    "engagement_index": 10,
+    "manager_effectiveness": 5,
+    "eNPS": 31,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 679,
+    "survey_date": "2025-08-09",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": 41,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 660,
+    "survey_date": "2024-12-11",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 4,
+    "eNPS": -28,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 887,
+    "survey_date": "2025-07-09",
+    "satisfaction_score": 6,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": 50,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 351,
+    "survey_date": "2024-08-05",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 18,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 90,
+    "survey_date": "2025-06-15",
+    "satisfaction_score": 2,
+    "engagement_index": 7,
+    "manager_effectiveness": 3,
+    "eNPS": 83,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 790,
+    "survey_date": "2024-09-06",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 47,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 959,
+    "survey_date": "2024-04-10",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 13,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 795,
+    "survey_date": "2024-11-02",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 4,
+    "eNPS": 32,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 18,
+    "survey_date": "2024-03-10",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 9,
+    "eNPS": -11,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 87,
+    "survey_date": "2024-01-29",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 6,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 863,
+    "survey_date": "2024-10-31",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": 29,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 571,
+    "survey_date": "2024-12-19",
+    "satisfaction_score": 4,
+    "engagement_index": 4,
+    "manager_effectiveness": 4,
+    "eNPS": 53,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 634,
+    "survey_date": "2025-03-17",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 9,
+    "eNPS": 38,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 625,
+    "survey_date": "2024-01-19",
+    "satisfaction_score": 3,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": -19,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 401,
+    "survey_date": "2025-04-11",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 9,
+    "eNPS": -4,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 90,
+    "survey_date": "2024-08-11",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 10,
+    "eNPS": 7,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 81,
+    "survey_date": "2024-12-22",
+    "satisfaction_score": 5,
+    "engagement_index": 4,
+    "manager_effectiveness": 3,
+    "eNPS": 19,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 664,
+    "survey_date": "2024-12-08",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 5,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 362,
+    "survey_date": "2025-02-01",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 26,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 364,
+    "survey_date": "2024-04-07",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 10,
+    "eNPS": 26,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 32,
+    "survey_date": "2024-05-12",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 4,
+    "eNPS": 25,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 137,
+    "survey_date": "2025-04-06",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": -32,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 367,
+    "survey_date": "2024-05-08",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": -10,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 99,
+    "survey_date": "2024-03-04",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": 79,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 273,
+    "survey_date": "2025-08-05",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": -8,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 163,
+    "survey_date": "2024-02-02",
+    "satisfaction_score": 5,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": 35,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 634,
+    "survey_date": "2024-12-13",
+    "satisfaction_score": 10,
+    "engagement_index": 8,
+    "manager_effectiveness": 10,
+    "eNPS": 22,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 574,
+    "survey_date": "2025-05-20",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 22,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 613,
+    "survey_date": "2024-03-25",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 22,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 516,
+    "survey_date": "2025-03-21",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 38,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 691,
+    "survey_date": "2025-01-03",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 3,
+    "eNPS": 12,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 859,
+    "survey_date": "2024-01-19",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 9,
+    "eNPS": 29,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 431,
+    "survey_date": "2024-11-18",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 25,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 197,
+    "survey_date": "2025-07-08",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 9,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 170,
+    "survey_date": "2025-08-11",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 62,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 235,
+    "survey_date": "2025-03-09",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 38,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 176,
+    "survey_date": "2025-03-18",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 82,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 718,
+    "survey_date": "2025-05-26",
+    "satisfaction_score": 9,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 91,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 671,
+    "survey_date": "2024-05-23",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 32,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 389,
+    "survey_date": "2025-05-27",
+    "satisfaction_score": 6,
+    "engagement_index": 9,
+    "manager_effectiveness": 6,
+    "eNPS": -19,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 683,
+    "survey_date": "2025-05-02",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": -1,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 734,
+    "survey_date": "2025-08-12",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 8,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 395,
+    "survey_date": "2024-11-08",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 17,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 584,
+    "survey_date": "2024-10-10",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": -14,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 266,
+    "survey_date": "2024-05-26",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 5,
+    "eNPS": 20,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 367,
+    "survey_date": "2024-05-14",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 9,
+    "eNPS": 24,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 977,
+    "survey_date": "2024-09-24",
+    "satisfaction_score": 4,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 14,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 632,
+    "survey_date": "2024-11-14",
+    "satisfaction_score": 8,
+    "engagement_index": 9,
+    "manager_effectiveness": 8,
+    "eNPS": 37,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 255,
+    "survey_date": "2024-10-29",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": -7,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 172,
+    "survey_date": "2024-06-07",
+    "satisfaction_score": 1,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 8,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 618,
+    "survey_date": "2025-08-17",
+    "satisfaction_score": 9,
+    "engagement_index": 7,
+    "manager_effectiveness": 2,
+    "eNPS": 29,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 988,
+    "survey_date": "2025-04-11",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 10,
+    "eNPS": 43,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 60,
+    "survey_date": "2024-09-24",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 54,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 430,
+    "survey_date": "2025-01-12",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 36,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 888,
+    "survey_date": "2024-02-20",
+    "satisfaction_score": 10,
+    "engagement_index": 8,
+    "manager_effectiveness": 10,
+    "eNPS": -9,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 930,
+    "survey_date": "2024-12-22",
+    "satisfaction_score": 4,
+    "engagement_index": 10,
+    "manager_effectiveness": 7,
+    "eNPS": 29,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 653,
+    "survey_date": "2024-01-09",
+    "satisfaction_score": 10,
+    "engagement_index": 9,
+    "manager_effectiveness": 10,
+    "eNPS": 55,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 520,
+    "survey_date": "2024-02-08",
+    "satisfaction_score": 5,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": 42,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 203,
+    "survey_date": "2024-11-09",
+    "satisfaction_score": 8,
+    "engagement_index": 3,
+    "manager_effectiveness": 3,
+    "eNPS": 49,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 195,
+    "survey_date": "2025-05-02",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 0,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 845,
+    "survey_date": "2025-02-01",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": -56,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 668,
+    "survey_date": "2024-10-16",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 27,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 324,
+    "survey_date": "2025-07-28",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": -49,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 931,
+    "survey_date": "2025-01-28",
+    "satisfaction_score": 6,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": 30,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 426,
+    "survey_date": "2024-10-06",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 0,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 959,
+    "survey_date": "2025-04-01",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 48,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 666,
+    "survey_date": "2025-06-15",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": -9,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 58,
+    "survey_date": "2024-12-08",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": -20,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 264,
+    "survey_date": "2024-07-18",
+    "satisfaction_score": 9,
+    "engagement_index": 1,
+    "manager_effectiveness": 4,
+    "eNPS": 64,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 809,
+    "survey_date": "2024-11-18",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": 38,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 98,
+    "survey_date": "2025-02-16",
+    "satisfaction_score": 9,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 23,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 638,
+    "survey_date": "2025-01-08",
+    "satisfaction_score": 2,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": -12,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 374,
+    "survey_date": "2025-03-13",
+    "satisfaction_score": 3,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 43,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 304,
+    "survey_date": "2025-02-02",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 5,
+    "eNPS": 38,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 844,
+    "survey_date": "2025-02-22",
+    "satisfaction_score": 9,
+    "engagement_index": 9,
+    "manager_effectiveness": 7,
+    "eNPS": 49,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 692,
+    "survey_date": "2024-10-15",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 5,
+    "eNPS": 13,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 264,
+    "survey_date": "2024-06-22",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 29,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 466,
+    "survey_date": "2025-08-04",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": -4,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 368,
+    "survey_date": "2024-07-24",
+    "satisfaction_score": 8,
+    "engagement_index": 10,
+    "manager_effectiveness": 10,
+    "eNPS": 12,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 521,
+    "survey_date": "2024-07-06",
+    "satisfaction_score": 4,
+    "engagement_index": 9,
+    "manager_effectiveness": 4,
+    "eNPS": 3,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 64,
+    "survey_date": "2025-01-21",
+    "satisfaction_score": 9,
+    "engagement_index": 3,
+    "manager_effectiveness": 8,
+    "eNPS": 20,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 582,
+    "survey_date": "2025-04-10",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 4,
+    "eNPS": 64,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 600,
+    "survey_date": "2024-05-15",
+    "satisfaction_score": 9,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": 9,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 243,
+    "survey_date": "2025-01-19",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 4,
+    "eNPS": 18,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 312,
+    "survey_date": "2025-01-15",
+    "satisfaction_score": 7,
+    "engagement_index": 9,
+    "manager_effectiveness": 10,
+    "eNPS": 29,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 421,
+    "survey_date": "2024-09-17",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": -8,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 229,
+    "survey_date": "2024-11-30",
+    "satisfaction_score": 6,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 28,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 569,
+    "survey_date": "2025-03-28",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 16,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 911,
+    "survey_date": "2024-11-17",
+    "satisfaction_score": 9,
+    "engagement_index": 2,
+    "manager_effectiveness": 7,
+    "eNPS": 50,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 913,
+    "survey_date": "2024-05-06",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 3,
+    "eNPS": -12,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 641,
+    "survey_date": "2024-06-18",
+    "satisfaction_score": 10,
+    "engagement_index": 8,
+    "manager_effectiveness": 9,
+    "eNPS": 19,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 738,
+    "survey_date": "2025-07-27",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 3,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 257,
+    "survey_date": "2024-06-29",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 7,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 415,
+    "survey_date": "2025-04-05",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 0,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 267,
+    "survey_date": "2024-10-10",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 6,
+    "eNPS": 38,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 462,
+    "survey_date": "2024-04-03",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 79,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 169,
+    "survey_date": "2025-06-19",
+    "satisfaction_score": 10,
+    "engagement_index": 7,
+    "manager_effectiveness": 4,
+    "eNPS": 43,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 467,
+    "survey_date": "2025-05-17",
+    "satisfaction_score": 6,
+    "engagement_index": 3,
+    "manager_effectiveness": 7,
+    "eNPS": 6,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 897,
+    "survey_date": "2024-02-18",
+    "satisfaction_score": 5,
+    "engagement_index": 4,
+    "manager_effectiveness": 3,
+    "eNPS": 27,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 60,
+    "survey_date": "2024-11-04",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 50,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 770,
+    "survey_date": "2024-08-04",
+    "satisfaction_score": 9,
+    "engagement_index": 3,
+    "manager_effectiveness": 8,
+    "eNPS": -42,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 389,
+    "survey_date": "2024-05-15",
+    "satisfaction_score": 9,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 73,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 422,
+    "survey_date": "2025-08-16",
+    "satisfaction_score": 7,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": -4,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 73,
+    "survey_date": "2024-07-12",
+    "satisfaction_score": 6,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 32,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 157,
+    "survey_date": "2024-10-23",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 44,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 382,
+    "survey_date": "2024-10-25",
+    "satisfaction_score": 8,
+    "engagement_index": 4,
+    "manager_effectiveness": 9,
+    "eNPS": 16,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 186,
+    "survey_date": "2025-08-16",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 9,
+    "eNPS": 42,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 552,
+    "survey_date": "2025-03-22",
+    "satisfaction_score": 7,
+    "engagement_index": 7,
+    "manager_effectiveness": 5,
+    "eNPS": 22,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 794,
+    "survey_date": "2025-04-25",
+    "satisfaction_score": 8,
+    "engagement_index": 3,
+    "manager_effectiveness": 6,
+    "eNPS": 75,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 54,
+    "survey_date": "2024-09-04",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 30,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 590,
+    "survey_date": "2025-08-15",
+    "satisfaction_score": 4,
+    "engagement_index": 7,
+    "manager_effectiveness": 8,
+    "eNPS": 67,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 785,
+    "survey_date": "2025-05-03",
+    "satisfaction_score": 2,
+    "engagement_index": 6,
+    "manager_effectiveness": 5,
+    "eNPS": 21,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 983,
+    "survey_date": "2025-02-04",
+    "satisfaction_score": 7,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": -15,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 99,
+    "survey_date": "2024-06-11",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 10,
+    "eNPS": 27,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 997,
+    "survey_date": "2024-02-25",
+    "satisfaction_score": 5,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 1,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 118,
+    "survey_date": "2024-04-09",
+    "satisfaction_score": 7,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": -33,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 151,
+    "survey_date": "2024-05-12",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 3,
+    "eNPS": 34,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 128,
+    "survey_date": "2025-04-27",
+    "satisfaction_score": 3,
+    "engagement_index": 6,
+    "manager_effectiveness": 6,
+    "eNPS": 47,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 380,
+    "survey_date": "2024-04-17",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 29,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 899,
+    "survey_date": "2025-07-29",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 6,
+    "eNPS": 1,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 22,
+    "survey_date": "2024-03-24",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 4,
+    "eNPS": 7,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 799,
+    "survey_date": "2024-07-29",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 9,
+    "eNPS": 73,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 139,
+    "survey_date": "2024-11-17",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 12,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 388,
+    "survey_date": "2024-09-19",
+    "satisfaction_score": 9,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": 57,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 628,
+    "survey_date": "2025-03-09",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 31,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 703,
+    "survey_date": "2024-10-28",
+    "satisfaction_score": 6,
+    "engagement_index": 10,
+    "manager_effectiveness": 8,
+    "eNPS": -41,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 650,
+    "survey_date": "2025-01-03",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 16,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 460,
+    "survey_date": "2024-08-23",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 6,
+    "eNPS": 28,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 66,
+    "survey_date": "2024-11-17",
+    "satisfaction_score": 10,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 17,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 50,
+    "survey_date": "2024-07-28",
+    "satisfaction_score": 8,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": -45,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 711,
+    "survey_date": "2024-11-03",
+    "satisfaction_score": 6,
+    "engagement_index": 1,
+    "manager_effectiveness": 9,
+    "eNPS": 59,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 646,
+    "survey_date": "2025-02-15",
+    "satisfaction_score": 4,
+    "engagement_index": 6,
+    "manager_effectiveness": 3,
+    "eNPS": 36,
+    "comments": "Tooling slowness affects delivery."
+  },
+  {
+    "employee_id": 542,
+    "survey_date": "2025-01-18",
+    "satisfaction_score": 6,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 32,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 681,
+    "survey_date": "2025-06-22",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 15,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 506,
+    "survey_date": "2024-11-08",
+    "satisfaction_score": 8,
+    "engagement_index": 6,
+    "manager_effectiveness": 7,
+    "eNPS": 57,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 263,
+    "survey_date": "2024-06-19",
+    "satisfaction_score": 6,
+    "engagement_index": 8,
+    "manager_effectiveness": 7,
+    "eNPS": 41,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 190,
+    "survey_date": "2024-11-20",
+    "satisfaction_score": 3,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 4,
+    "comments": "Priorities feel unclear; shifting deadlines."
+  },
+  {
+    "employee_id": 624,
+    "survey_date": "2024-01-22",
+    "satisfaction_score": 9,
+    "engagement_index": 10,
+    "manager_effectiveness": 3,
+    "eNPS": 41,
+    "comments": "Flexible work options help productivity."
+  },
+  {
+    "employee_id": 41,
+    "survey_date": "2024-12-17",
+    "satisfaction_score": 9,
+    "engagement_index": 8,
+    "manager_effectiveness": 8,
+    "eNPS": 57,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 797,
+    "survey_date": "2025-06-09",
+    "satisfaction_score": 9,
+    "engagement_index": 8,
+    "manager_effectiveness": 9,
+    "eNPS": 40,
+    "comments": "Great team collaboration and support."
+  },
+  {
+    "employee_id": 337,
+    "survey_date": "2025-01-04",
+    "satisfaction_score": 10,
+    "engagement_index": 8,
+    "manager_effectiveness": 10,
+    "eNPS": 29,
+    "comments": "Benefits and wellness resources are solid."
+  },
+  {
+    "employee_id": 466,
+    "survey_date": "2024-05-05",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 32,
+    "comments": "Cross-team communication could improve."
+  },
+  {
+    "employee_id": 448,
+    "survey_date": "2024-03-23",
+    "satisfaction_score": 8,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 3,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 777,
+    "survey_date": "2024-10-28",
+    "satisfaction_score": 5,
+    "engagement_index": 7,
+    "manager_effectiveness": 7,
+    "eNPS": 47,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 651,
+    "survey_date": "2025-03-03",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 8,
+    "eNPS": 9,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 532,
+    "survey_date": "2024-04-18",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 4,
+    "eNPS": -6,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 728,
+    "survey_date": "2024-11-27",
+    "satisfaction_score": 4,
+    "engagement_index": 8,
+    "manager_effectiveness": 6,
+    "eNPS": 11,
+    "comments": "Too many meetings with limited outcomes."
+  },
+  {
+    "employee_id": 140,
+    "survey_date": "2025-02-06",
+    "satisfaction_score": 3,
+    "engagement_index": 5,
+    "manager_effectiveness": 7,
+    "eNPS": 100,
+    "comments": "Workload balance is a concern."
+  },
+  {
+    "employee_id": 275,
+    "survey_date": "2025-05-08",
+    "satisfaction_score": 7,
+    "engagement_index": 4,
+    "manager_effectiveness": 6,
+    "eNPS": -6,
+    "comments": "Growth paths need more clarity."
+  },
+  {
+    "employee_id": 996,
+    "survey_date": "2024-02-13",
+    "satisfaction_score": 8,
+    "engagement_index": 7,
+    "manager_effectiveness": 10,
+    "eNPS": 35,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 386,
+    "survey_date": "2024-01-07",
+    "satisfaction_score": 10,
+    "engagement_index": 6,
+    "manager_effectiveness": 10,
+    "eNPS": -7,
+    "comments": "Strong leadership and clear goals."
+  },
+  {
+    "employee_id": 417,
+    "survey_date": "2024-01-29",
+    "satisfaction_score": 7,
+    "engagement_index": 5,
+    "manager_effectiveness": 8,
+    "eNPS": 7,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 642,
+    "survey_date": "2024-08-15",
+    "satisfaction_score": 6,
+    "engagement_index": 4,
+    "manager_effectiveness": 7,
+    "eNPS": 25,
+    "comments": "Workload is ok but spikes at quarter-end."
+  },
+  {
+    "employee_id": 710,
+    "survey_date": "2025-06-26",
+    "satisfaction_score": 5,
+    "engagement_index": 6,
+    "manager_effectiveness": 3,
+    "eNPS": -7,
+    "comments": "Tools are fine but could be faster."
+  },
+  {
+    "employee_id": 578,
+    "survey_date": "2025-07-22",
+    "satisfaction_score": 5,
+    "engagement_index": 10,
+    "manager_effectiveness": 6,
+    "eNPS": 12,
+    "comments": "Tools are fine but could be faster."
+  }
+]
