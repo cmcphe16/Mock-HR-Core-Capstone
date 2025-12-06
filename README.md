@@ -25,10 +25,9 @@ Mock-HR-Core-Capstone/
 │
 ├── powerbi/
 │   ├── MockHR_Dashboard.pbix
-│   ├── screenshots/
-│   │   ├── dashboard1_applicant_pipeline.png
-│   │   ├── dashboard2_attrition_retention.png
-│   │   ├── dashboard5_compensation_structure.png
+│   │   ├── dashboard1_applicant_pipeline
+│   │   ├── dashboard2_attrition_retention
+│   │   ├── dashboard5_compensation_structure
 │   │   └── ...
 │   └── role_definitions/
 │       ├── HR_Manager.md
@@ -37,9 +36,9 @@ Mock-HR-Core-Capstone/
 │       └── Employee_Self_Service.md
 │
 ├── data_model/
-│   ├── star_schema.png
-│   ├── relationship_diagram.png
-│   └── org_hierarchy_flow.png
+│   ├── star_schema
+│   ├── relationship_diagram
+│   └── org_hierarchy_flow
 │
 └── dataset_samples/
     ├── DimEmployee_sample.csv
@@ -48,7 +47,7 @@ Mock-HR-Core-Capstone/
 
 🛠 Technologies Used
 Python (pandas, numpy)
-SQL Server (T-SQL, views, constraints, RLS)
+SQL Server (SQL, views, constraints, RLS)
 Power BI Desktop (DAX, data modeling, role security)
 GitHub for version control and documentation
 
