@@ -117,5 +117,4 @@ Refresh all dashboards
 👤 Authors
 Cameron McPherson
 Joseph Velasquez
-Dede teteh
 Musa Mustafa
